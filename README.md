@@ -1,3 +1,9 @@
+# ADVARSEL: APPEN KAN VÆRE TREG VED INNLASTING
+
+Appen henter bokdata fra det offentlige Gutendex-API-et på `gutendex.com`. Enkelte forespørsler om boklister, kategorier og bokdetaljer fikk ikke svar innen 10–15 sekunder under testing, mens andre svarte raskt. Appen må vente på disse svarene før innholdet kan vises. Ventetiden oppstod også ved direkte API-kall uten React; den nøyaktige årsaken hos tjenesten eller i nettverket er ikke fastslått.
+
+Nylig hentede data mellomlagres i minnet i opptil fem minutter, men mellomlageret tømmes når siden lastes på nytt. Nye søk og sider som ikke er mellomlagret, er fortsatt avhengige av API-ets svartid. Appen har ingen egen backend eller lokal bokdatabase, og `npm run dev` gjør ikke den eksterne boktjenesten raskere.
+
 # Gutendex
 
 En bokapp laget til «React Oppgave 4: Gutendex». Oppdag litteratur fra Project Gutenberg, søk etter bøker og forfattere, og samle favoritter i din egen bokhylle.

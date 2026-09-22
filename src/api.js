@@ -1,5 +1,28 @@
 // Use the public API by default and avoid double slashes when adding a path.
-export const API_BASE = (import.meta.env.VITE_GUTENDEX_API_URL || 'https://gutendex.com').replace(/\/+$/, '')
+export const API_BASE = (import.meta.env?.VITE_GUTENDEX_API_URL || 'https://gutendex.com').replace(/\/+$/, '')
+
+// Keep recent responses in memory, with separate limits for lists and full books.
+// Expiration refreshes metadata; limits prevent long browsing sessions growing forever.
+const CACHE_TTL = 5 * 60 * 1000
+const collections = new Map()
+const books = new Map()
+
+export function cachedBooks(path, collection = false) {
+  const cache = collection ? collections : books
+  const entry = cache.get(path)
+  if (!entry) return undefined
+  if (entry.expires <= Date.now()) {
+    cache.delete(path)
+    return undefined
+  }
+  return entry.data
+}
+
+function remember(cache, path, data, limit) {
+  cache.delete(path)
+  cache.set(path, { data, expires: Date.now() + CACHE_TTL })
+  if (cache.size > limit) cache.delete(cache.keys().next().value)
+}
 // Navigation and route validation share this list to keep their categories in sync.
 export const categories = [
   'Fiction', 'Mystery', 'Thriller', 'Romance', 'Fantasy', 'Morality',
@@ -41,7 +64,10 @@ export function authorNames(book) {
     ? book.authors.map((author) => author?.name).filter((name) => typeof name === 'string' && name.trim()) : []
 }
 
-export async function fetchBooks(path, signal, collection = false) {
+export async function fetchBooks(path, signal, collection = false, refresh = false) {
+  signal?.throwIfAborted()
+  const cached = !refresh && cachedBooks(path, collection)
+  if (cached) return cached
   // The caller owns cancellation. Preserve AbortError so cancellation stays silent.
   let response
   try {
@@ -73,5 +99,15 @@ export async function fetchBooks(path, signal, collection = false) {
       && [data.next, data.previous].every((link) => link === null || safeUrl(link))
     : validBook(data)
   if (!valid) throw new Error('Boktjenesten sendte et uventet svar. Prøv igjen.')
+  signal?.throwIfAborted()
+  if (collection) {
+    remember(collections, path, data, 20)
+    // Collection results contain full API books, unlike compact saved favorites.
+    for (const book of data.results) {
+      remember(books, `/books/${book.id}`, book, 200)
+    }
+  } else {
+    remember(books, path, data, 200)
+  }
   return data
 }
