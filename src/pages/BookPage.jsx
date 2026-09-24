@@ -44,6 +44,7 @@ export default function BookPage() {
           <h1>{book.title || 'Ukjent tittel'}</h1>
           <p className="authors">{authorNames(book).join(' · ') || 'Ukjent forfatter'}</p>
           <FavoriteButton book={book} />
+          {/* Localize valid metadata and explain fields the API did not provide. */}
           <dl className="metadata">
             <div><dt>Språk</dt><dd>{strings(book.languages).map(languageName).join(', ') || 'Ikke oppgitt'}</dd></div>
             <div><dt>Nedlastinger</dt><dd>{Number.isFinite(book.download_count) ? book.download_count.toLocaleString('nb-NO') : 'Ikke oppgitt'}</dd></div>
@@ -56,6 +57,7 @@ export default function BookPage() {
             </section>
           )}
           <section>
+            {/* Offer only validated reading URLs derived from the available formats. */}
             <h2>Les og last ned</h2>
             <div className="reading-links">
               {formats.length ? formats.map(({ url, label }) => (
@@ -64,6 +66,7 @@ export default function BookPage() {
             </div>
           </section>
           <section>
+            {/* Classification is optional, so this section also handles missing topics. */}
             <h2>Emner og bokhyller</h2>
             {topics.length
               ? <ul className="topics">{topics.map((topic) => <li key={topic}>{topic}</li>)}</ul>

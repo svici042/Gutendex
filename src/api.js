@@ -16,6 +16,7 @@ const configuredTimeout = Number(import.meta.env?.VITE_API_TIMEOUT_MS)
 export const REQUEST_TIMEOUT = Number.isFinite(configuredTimeout) && configuredTimeout >= 1000
   ? Math.min(configuredTimeout, 90000) : 60000
 export const SLOW_RESPONSE_DELAY = 5000
+// Fresh API responses and bundled snapshots retain separate provenance and ages.
 const collections = new Map()
 const books = new Map()
 let restored = false
@@ -31,6 +32,7 @@ function restoreCache() {
     const raw = localStorage.getItem(STORAGE_KEY)
     if (!raw || raw.length > MAX_STORAGE_SIZE) return
     const stored = JSON.parse(raw)
+    // Treat browser storage as untrusted and restore only bounded, recent entries.
     for (const [name, cache, limit] of [['collections', collections, 20], ['books', books, 200]]) {
       if (!Array.isArray(stored[name])) continue
       for (const item of stored[name].slice(-limit)) {
@@ -80,17 +82,21 @@ function schedulePersistence() {
   window.requestAnimationFrame(() => setTimeout(idle, 0))
 }
 
+// Lazy snapshot loading: resolve either a category query or an indexed book ID.
 export async function loadSnapshot(path, collection = false) {
+  // Public metadata must never fill responses for a separately configured API.
   if (API_BASE !== 'https://gutendex.com') return
   const bookId = !collection && /^\/books\/([1-9]\d*)$/.exec(path)?.[1]
   const category = collection ? snapshotCategory(path) : bookSnapshotCategories[bookId]
   const loader = categoryLoaders[category]
   if (!loader) return
+  // Share one loaded category between its collection and all contained details.
   const snapshotPath = categoryPath(category)
   if (loadedSnapshots.has(snapshotPath)) return
   try {
     const { default: snapshot } = await loader()
     if (validSnapshot(snapshot, category)) {
+      // Preserve the source date; loading a bundle does not make its data fresh.
       const entry = {
         data: snapshot.data,
         updatedAt: Date.parse(snapshot.fetchedAt),
@@ -113,6 +119,7 @@ export async function loadSnapshot(path, collection = false) {
   }
 }
 
+// Select usable metadata without hiding its freshness from the UI.
 export function cachedBookState(path, collection = false) {
   restoreCache()
   const cache = collection ? collections : books
@@ -130,23 +137,27 @@ export function cachedBookState(path, collection = false) {
       stale: true, snapshot: true,
     } : undefined
     const category = collection ? loadedSnapshots.get(path) : snapshotBooks.get(path)
+    // Compare original timestamps so newer cache data always keeps precedence.
     const snapshot = category && (!home || category.updatedAt > home.updatedAt) ? category : home
     if (snapshot && (!cached || snapshot.updatedAt > cached.updatedAt)) return snapshot
   }
   return cached
 }
 
+// Only fresh entries may satisfy a request without contacting the API.
 export function cachedBooks(path, collection = false) {
   const entry = cachedBookState(path, collection)
   return entry && !entry.stale ? entry.data : undefined
 }
 
+// Reinsertion makes the oldest remembered entry the first eviction candidate.
 function remember(cache, path, data, limit) {
   cache.delete(path)
   cache.set(path, { data, updatedAt: Date.now() })
   if (cache.size > limit) cache.delete(cache.keys().next().value)
 }
 
+// Presentation helpers normalize optional metadata without changing stored books.
 export function resource(book, mime) {
   // Ignore charset parameters when matching MIME types. Return the matching URL,
   // excluding ZIP archives that cannot be opened directly as a book or cover.
@@ -171,10 +182,12 @@ function requestError(message, kind, status) {
   return Object.assign(new Error(message), { kind, status })
 }
 
+// API requests: fresh cache lookup, cancellation, validation and cache updates.
 export async function fetchBooks(path, signal, collection = false, refresh = false) {
   signal?.throwIfAborted()
   const cached = !refresh && cachedBooks(path, collection)
   if (cached) return cached
+  // Combine caller cancellation with an independent request deadline.
   const timeoutController = new AbortController()
   const timeout = timeoutController.signal
   const timer = setTimeout(() => timeoutController.abort(), REQUEST_TIMEOUT)
@@ -207,6 +220,7 @@ export async function fetchBooks(path, signal, collection = false, refresh = fal
     const valid = validResponse(data, collection)
     if (!valid) throw requestError('Boktjenesten sendte et uventet svar. Prøv igjen.', 'data')
     requestSignal.throwIfAborted()
+    // Cache only validated responses; list metadata can also serve book details.
     if (collection) {
       remember(collections, path, data, 20)
       // Collection results contain full API books, unlike compact saved favorites.
@@ -219,6 +233,7 @@ export async function fetchBooks(path, signal, collection = false, refresh = fal
     schedulePersistence()
     return data
   } catch (error) {
+    // Keep navigation cancellation silent and report deadlines as timeout errors.
     if (signal?.aborted) throw signal.reason
     if (timeout.aborted) {
       throw requestError(`Boktjenesten svarte ikke innen ${REQUEST_TIMEOUT / 1000} sekunder. Prøv igjen om litt.`, 'timeout')

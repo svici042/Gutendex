@@ -4,11 +4,13 @@ import { categories, categoryPath, validSnapshot } from '../src/bookData.js'
 
 const directory = new URL('../src/data/categories/', import.meta.url)
 await mkdir(directory, { recursive: true })
+// Index-only maintenance reads existing snapshots without contacting the API.
 const indexOnly = process.argv.includes('--index-only')
 const requested = process.argv.slice(2).filter((argument) => argument !== '--index-only')
 if (requested.some((category) => !categories.includes(category))) {
   throw new Error('Use exact category names from src/bookData.js.')
 }
+// Exact category arguments allow targeted refreshes; omit them to refresh all.
 const queue = indexOnly ? [] : [...new Set(requested.length ? requested : categories)]
 const failed = []
 
@@ -28,6 +30,7 @@ async function worker() {
         const data = await response.json()
         const snapshot = { source, query, fetchedAt: new Date().toISOString(), data }
         if (!validSnapshot(snapshot, category)) throw new Error('Invalid topic response')
+        // Replace a snapshot only after validation and a complete temporary write.
         const target = new URL(`${category}.json`, directory)
         const temporary = new URL(`${category}.json.tmp`, directory)
         await writeFile(temporary, `${JSON.stringify(snapshot, null, 2)}\n`)
@@ -39,6 +42,7 @@ async function worker() {
         break
       } catch (error) {
         console.error(`${category}, attempt ${attempt}: ${error.name}: ${error.message}; ${Math.round(performance.now() - started)} ms`)
+        // Give the upstream service time to recover before the remaining attempt.
         if (attempt < 2) await delay(5000)
       }
     }
@@ -55,6 +59,7 @@ for (const category of categories) {
     const snapshot = JSON.parse(await readFile(new URL(`${category}.json`, directory), 'utf8'))
     if (validSnapshot(snapshot, category)) {
       available.push(category)
+      // Overlapping categories must point each book to its newest saved metadata.
       for (const book of snapshot.data.results) {
         const updatedAt = Date.parse(snapshot.fetchedAt)
         if (!bookIndex.has(book.id) || bookIndex.get(book.id).updatedAt < updatedAt) {
@@ -64,6 +69,7 @@ for (const category of categories) {
     }
   } catch { /* Missing files are reported below, never replaced with invented data. */ }
 }
+// Browser imports omit native JSON attributes because Vite emits JavaScript.
 const lines = available.map((category) =>
   `  ${category}: () => import('./categories/${category}.json'),`)
 // Write loaders and their detail index atomically in the same module.
@@ -76,6 +82,7 @@ await writeFile(temporaryManifest,
 await rename(temporaryManifest, manifest)
 console.log(`Available: ${available.join(', ') || 'none'}`)
 console.log(`Missing: ${categories.filter((category) => !available.includes(category)).join(', ') || 'none'}`)
+// Signal failed downloads to automation while preserving usable existing files.
 if (failed.length) {
   console.error(`Refresh failed (existing valid files preserved): ${failed.join(', ')}`)
   process.exitCode = 1

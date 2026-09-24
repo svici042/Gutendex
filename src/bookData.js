@@ -4,6 +4,7 @@ export const categories = [
   'Society', 'Power', 'Justice', 'Adventure', 'Tragedy', 'War', 'Philosophy',
 ]
 
+// Only web links may become cover URLs, reading links or pagination targets.
 export function safeUrl(value) {
   try {
     const url = new URL(value)
@@ -13,10 +14,12 @@ export function safeUrl(value) {
   }
 }
 
+// Require stable identity and a title while allowing optional metadata to vary.
 export function validBook(book) {
   return book && Number.isSafeInteger(book.id) && book.id > 0 && typeof book.title === 'string'
 }
 
+// Validate the different response shapes before caching or rendering them.
 export function validResponse(data, collection) {
   return collection
     ? data && Number.isSafeInteger(data.count) && data.count >= 0
@@ -25,10 +28,12 @@ export function validResponse(data, collection) {
     : validBook(data)
 }
 
+// Use one query format for requests, cache keys and snapshot attribution.
 export function categoryPath(category) {
   return `/books?${new URLSearchParams({ topic: category })}`
 }
 
+// Snapshots cover only an exact category's first page, never searches or mixes.
 export function snapshotCategory(path) {
   const url = new URL(path, 'https://gutendex.com')
   const params = [...url.searchParams]
@@ -37,6 +42,7 @@ export function snapshotCategory(path) {
     ? params[0][1] : null
 }
 
+// Check provenance, timestamp and first-page contents before accepting a bundle.
 export function validSnapshot(snapshot, category) {
   const path = categoryPath(category)
   return snapshot?.query === path && snapshot.source === `https://gutendex.com${path}`
@@ -44,6 +50,7 @@ export function validSnapshot(snapshot, category) {
     && validResponse(snapshot.data, true) && snapshot.data.previous === null
     && snapshot.data.results.length <= 32
     && (snapshot.data.count === 0 || snapshot.data.results.length > 0)
+    // Any continuation must remain on the public API and the same topic.
     && (snapshot.data.next === null || (
       new URL(snapshot.data.next).origin === 'https://gutendex.com'
       && new URL(snapshot.data.next).searchParams.get('topic') === category

@@ -36,6 +36,7 @@ export default function Layout() {
           </form>
           <NavLink className="favorites-link" to="/favorites">Favoritter <span>{favorites.length}</span></NavLink>
         </div>
+        {/* Shared category names keep navigation aligned with snapshot queries. */}
         <nav className="category-nav container" aria-label="Bokkategorier">
           <NavLink to="/" end>Alle bøker</NavLink>
           {categories.map((category) => (
