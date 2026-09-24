@@ -1,0 +1,1434 @@
+{
+  "source": "https://gutendex.com/books?topic=Power",
+  "query": "/books?topic=Power",
+  "fetchedAt": "2026-09-23T14:27:25.773Z",
+  "data": {
+    "count": 36,
+    "next": "https://gutendex.com/books/?page=2&topic=Power",
+    "previous": null,
+    "results": [
+      {
+        "id": 13529,
+        "title": "The Influence of Sea Power Upon History, 1660-1783",
+        "authors": [
+          {
+            "name": "Mahan, A. T. (Alfred Thayer)",
+            "birth_year": 1840,
+            "death_year": 1914
+          }
+        ],
+        "summaries": [
+          "\"The Influence of Sea Power Upon History, 1660-1783\" by A. T. Mahan is a history of naval warfare published in 1890. This groundbreaking work examines how control of the seas shaped European dominance during the seventeenth and eighteenth centuries. Mahan identifies key factors for achieving sea power and argues that strong navies determine national greatness. The book sparked a global naval arms race and profoundly influenced military strategy worldwide, becoming the most important text in naval thought and contributing to America's rise as a great power. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Naval history, Modern",
+          "Sea-power"
+        ],
+        "bookshelves": [
+          "Category: History - Early Modern (c. 1450-1750)",
+          "Category: History - Modern (1750+)",
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/13529.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/13529.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13529.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/13529.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/13529/pg13529.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/13529/pg13529-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/13529.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13529/13529-0.txt"
+        },
+        "download_count": 4518
+      },
+      {
+        "id": 52915,
+        "title": "The Will to Power: An Attempted Transvaluation of All Values. Book III and IV",
+        "authors": [
+          {
+            "name": "Nietzsche, Friedrich Wilhelm",
+            "birth_year": 1844,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"The Will to Power: An Attempted Transvaluation of All Values. Book III and IV\" by Friedrich Nietzsche is a compilation of notebook fragments assembled posthumously in the early 1900s. After Nietzsche's mental collapse, his sister Elisabeth Förster-Nietzsche and friend Peter Gast selected and arranged his unpublished notes, claiming they represented his intended magnum opus. Later philological research revealed the work was an artificial construction—Nietzsche had abandoned plans for such a book before his breakdown. The fragments were reorganized and sometimes altered, making this controversial compilation a \"historic forgery\" rather than Nietzsche's final philosophical statement. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Levy, Oscar",
+            "birth_year": 1867,
+            "death_year": 1946
+          }
+        ],
+        "translators": [
+          {
+            "name": "Ludovici, Anthony M. (Anthony Mario)",
+            "birth_year": 1882,
+            "death_year": 1971
+          }
+        ],
+        "subjects": [
+          "Nihilism (Philosophy)",
+          "Power (Philosophy)",
+          "Values"
+        ],
+        "bookshelves": [
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/52915.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/52915.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52915.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/52915.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/52915/pg52915.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/52915/pg52915-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/52915.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/52915/52915-0.txt"
+        },
+        "download_count": 3897
+      },
+      {
+        "id": 52914,
+        "title": "The Will to Power: An Attempted Transvaluation of All Values. Book I and II",
+        "authors": [
+          {
+            "name": "Nietzsche, Friedrich Wilhelm",
+            "birth_year": 1844,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"The Will to Power: An Attempted Transvaluation of All Values. Book I and II\" by Friedrich Nietzsche is a controversial compilation of philosophical notes published posthumously in 1901. Assembled by Nietzsche's sister Elisabeth Förster-Nietzsche and Peter Gast from the philosopher's notebooks after his mental collapse, this work was presented as Nietzsche's intended masterwork. However, later scholarly research revealed it to be a selective arrangement that may not reflect Nietzsche's true intentions, sparking ongoing debate about its authenticity and place in his philosophy. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Levy, Oscar",
+            "birth_year": 1867,
+            "death_year": 1946
+          }
+        ],
+        "translators": [
+          {
+            "name": "Ludovici, Anthony M. (Anthony Mario)",
+            "birth_year": 1882,
+            "death_year": 1971
+          }
+        ],
+        "subjects": [
+          "Nihilism (Philosophy)",
+          "Power (Philosophy)",
+          "Values"
+        ],
+        "bookshelves": [
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/52914.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/52914.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52914.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/52914.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/52914/pg52914.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/52914/pg52914-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/52914.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/52914/52914-0.txt"
+        },
+        "download_count": 3759
+      },
+      {
+        "id": 54977,
+        "title": "The Sovereignty of the Sea: An Historical Account of the Claims of England to the Dominion of the British Seas, and of the Evolution of the Territorial Waters",
+        "authors": [
+          {
+            "name": "Fulton, Thomas Wemyss",
+            "birth_year": 1855,
+            "death_year": 1929
+          }
+        ],
+        "summaries": [
+          "\"The Sovereignty of the Sea\" by Thomas Wemyss Fulton is a historical account written in the early 20th century. The text delves into England's claims of dominion over the British Seas, tracing the evolution of territorial waters with a focus on fishing rights and naval interactions. The work examines how maritime sovereignty has been contested and defined throughout English history, particularly against nations like the Dutch.  The opening portion introduces the book by outlining the author's intention to consolidate existing information regarding English claims to sea sovereignty. Fulton discusses the historical context, particularly emphasizing the relevance of fishing rights and navigation freedom as they relate to national interests. He sets the stage for a comprehensive exploration of the historical claims, the evolution of maritime laws, and the ongoing debates surrounding territorial waters and fishing rights that have persisted into contemporary international relations. The preface emphasizes the interconnectedness of commerce, legality, and geopolitical maneuvering at sea, suggesting an intricate narrative woven through England's history and its maritime policies. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Fisheries -- Great Britain",
+          "Great Britain. Royal Navy -- History",
+          "Sea-power",
+          "Territorial waters -- Great Britain -- History"
+        ],
+        "bookshelves": [
+          "Category: History - British",
+          "Category: History - Modern (1750+)",
+          "Category: Law & Criminology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/54977.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/54977.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54977.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/54977.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/54977/pg54977.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/54977/pg54977-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/54977.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/54977/54977-0.txt"
+        },
+        "download_count": 3217
+      },
+      {
+        "id": 25911,
+        "title": "Sea Power in its Relations to the War of 1812. Volume 1",
+        "authors": [
+          {
+            "name": "Mahan, A. T. (Alfred Thayer)",
+            "birth_year": 1840,
+            "death_year": 1914
+          }
+        ],
+        "summaries": [
+          "\"Sea Power in its Relations to the War of 1812, Volume 1\" by A. T. Mahan is a historical account written in the early 20th century. This work explores the relationship between naval power and military strategy, particularly within the context of the War of 1812 between the United States and Great Britain. The author delves into the themes of impressment, trade conflicts, and the broader implications of naval supremacy, arguing for the critical role sea power played in shaping events during the conflict.  The beginning of this volume sets the stage for a comprehensive examination of the causes leading to the War of 1812, particularly focusing on the long-standing tensions stemming from British naval practices, such as the impressment of American sailors and interference with U.S. trade. Mahan emphasizes the need to understand these issues in relation to historical British policy, specifically the Navigation Acts and their impact on maritime commerce. By contextualizing these events from the colonial period through to the onset of war, Mahan aims to highlight how naval power consistently influences the course of international relations, setting the stage for the detailed discussions that follow in subsequent chapters. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Sea-power",
+          "United States -- History -- War of 1812",
+          "United States -- History -- War of 1812 -- Naval operations",
+          "United States. Navy -- History -- War of 1812"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: History - British",
+          "Category: History - Modern (1750+)",
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/25911.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/25911.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25911.kf8.images",
+          "application/octet-stream": "https://www.gutenberg.org/files/25911/25911-page-images/f0001-image1.jpg",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/25911.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/25911/pg25911.cover.medium.jpg",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/25911.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/25911/25911-8.txt"
+        },
+        "download_count": 2252
+      },
+      {
+        "id": 25912,
+        "title": "Sea Power in its Relations to the War of 1812. Volume 2",
+        "authors": [
+          {
+            "name": "Mahan, A. T. (Alfred Thayer)",
+            "birth_year": 1840,
+            "death_year": 1914
+          }
+        ],
+        "summaries": [
+          "\"Sea Power in its Relations to the War of 1812. Volume 2\" by A. T. Mahan is a historical account written in the late 19th century. This work examines the influence of naval power on the events and strategies during the War of 1812, with a particular focus on key naval engagements and the broader implications of maritime supremacy. It delves into how the control of the seas shaped military outcomes, reflecting on the lessons that can be drawn from the interplay of maritime strategy and warfare.  The opening of the second volume begins with a detailed recounting of naval operations during the winter of 1812-1813. It highlights Commodore William Bainbridge's squadron's strategic maneuvers and examinations of naval engagements, specifically between the \"Constitution\" and the \"Java,\" as well as the \"Hornet\" and \"Peacock.\" Mahan discusses the evolving British blockade along the Atlantic coast and its constraining impact on American naval operations. Through these initial analyses, the text sets the stage for understanding the broader maritime dynamics and strategic considerations of the war as it unfolds in subsequent chapters. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Sea-power",
+          "United States -- History -- War of 1812",
+          "United States -- History -- War of 1812 -- Naval operations",
+          "United States. Navy -- History -- War of 1812"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: History - Modern (1750+)",
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/25912.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/25912.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25912.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/25912.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/25912/pg25912.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/25912/pg25912-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/25912.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/25912/25912-0.txt"
+        },
+        "download_count": 2190
+      },
+      {
+        "id": 60360,
+        "title": "Der Wille zur Macht: Eine Auslegung alles Geschehens",
+        "authors": [
+          {
+            "name": "Nietzsche, Friedrich Wilhelm",
+            "birth_year": 1844,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"Der Wille zur Macht: Eine Auslegung alles Geschehens\" by Friedrich Wilhelm Nietzsche is a compilation published in various forms since 1901. This controversial work assembles fragments from Nietzsche's unpublished notes, though Nietzsche himself abandoned plans to write such a book. Edited primarily by his sister Elisabeth Förster-Nietzsche and Heinrich Köselitz, these compilations are considered distorted and unreliable by scholars, containing deciphering errors, unauthorized alterations, and selective passages that misrepresent Nietzsche's intentions. Despite widespread academic criticism, the work continues to be published and influence philosophical discourse. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Brahn, Max",
+            "birth_year": 1873,
+            "death_year": 1944
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Nihilism (Philosophy)",
+          "Philosophy",
+          "Power (Philosophy)",
+          "Values"
+        ],
+        "bookshelves": [
+          "Category: German Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/60360.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/60360.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/60360.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/60360.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/60360/pg60360.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/60360/pg60360-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/60360.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/60360/60360-0.txt"
+        },
+        "download_count": 1728
+      },
+      {
+        "id": 72412,
+        "title": "Mahan on naval warfare : $b Selections from the writing of Rear Admiral Alfred T. Mahan",
+        "authors": [
+          {
+            "name": "Mahan, A. T. (Alfred Thayer)",
+            "birth_year": 1840,
+            "death_year": 1914
+          }
+        ],
+        "summaries": [
+          "\"Mahan on Naval Warfare\" edited by Allan Westcott is a historical account showcasing selections from the writings of Rear Admiral Alfred Thayer Mahan, written in the late 19th to early 20th century. The work compiles Mahan’s influential analyses on the role of naval power in international relations, primarily focusing on historical events and strategic principles related to naval warfare. It delves into the significance of sea power in shaping global politics, particularly through Mahan's famous theories that emphasize the decisive influence of maritime supremacy on national greatness.  The opening of this work provides biographical context for Mahan, detailing his upbringing, naval career, and intellectual journey that led him to become a pivotal figure in naval history. It introduces Mahan's early life and education, including his entry into the Naval Academy, as well as his eventual role as a lecturer at the Naval War College, where he formulated his theories on naval strategy. The text underscores Mahan’s belief in the necessity of historical study for military leaders and sets the stage for his exploration of key principles that guide naval war strategy, suggesting that understanding the past is essential for competent naval leadership in the present and future. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Westcott, Allan F. (Allan Ferguson)",
+            "birth_year": 1882,
+            "death_year": 1953
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Naval art and science",
+          "Naval strategy",
+          "Sea-power"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: History - Modern (1750+)",
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/72412.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/72412.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/72412.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/72412.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/72412/pg72412.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/72412/pg72412-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/72412.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/72412/72412-0.txt"
+        },
+        "download_count": 1221
+      },
+      {
+        "id": 15265,
+        "title": "The Quest of the Silver Fleece: A Novel",
+        "authors": [
+          {
+            "name": "Du Bois, W. E. B. (William Edward Burghardt)",
+            "birth_year": 1868,
+            "death_year": 1963
+          }
+        ],
+        "summaries": [
+          "\"The Quest of the Silver Fleece: A Novel\" by W. E. B. Du Bois is a fictional work written in the early 20th century. The narrative explores themes of identity, racial dynamics, and socio-economic struggles through the lives of its characters, particularly focusing on a boy named Bles Alwyn and a girl named Zora. As they navigate their world, they encounter the complexities of their environment, relationships, and aspirations.  The beginning of the novel introduces Bles Alwyn as he adjusts to life away from home, grappling with loneliness and the call of adventure. He ventures into a mysterious swamp, where he encounters Zora, a spirited girl connected to the natural world and filled with dreams. Their initial meeting establishes a bond formed through curiosity and companionship. Zora's enchanting presence and the allure of the swamp symbolize both beauty and danger, setting the stage for their subsequent quest for personal and collective fulfillment against the backdrop of a challenging societal landscape. Their interactions hint at themes of hope, ambition, and the heavy burden of their realities as they seek to carve out a better future amid the complexities surrounding them. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "African American women -- Fiction",
+          "African Americans -- Fiction",
+          "Cotton trade -- Fiction",
+          "Love stories",
+          "Power (Social sciences) -- Fiction",
+          "Psychological fiction",
+          "Race -- Fiction",
+          "Rejection (Psychology) -- Fiction",
+          "Social classes -- Fiction",
+          "Swamps -- Fiction"
+        ],
+        "bookshelves": [
+          "African American Writers",
+          "Category: American Literature",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/15265.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/15265.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15265.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/15265.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/15265/pg15265.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/15265/15265-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/15265.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15265/15265-8.txt"
+        },
+        "download_count": 1162
+      },
+      {
+        "id": 24797,
+        "title": "A History of Sea Power",
+        "authors": [
+          {
+            "name": "Stevens, William Oliver",
+            "birth_year": 1878,
+            "death_year": 1955
+          },
+          {
+            "name": "Westcott, Allan F. (Allan Ferguson)",
+            "birth_year": 1882,
+            "death_year": 1953
+          }
+        ],
+        "summaries": [
+          "\"A History of Sea Power\" by William Oliver Stevens and Allan F. Westcott is a historical account written in the early 20th century. The work explores the evolution and impact of sea power from ancient civilizations through major historical milestones, asserting its influence on the rise and fall of nations and civilizations. This broad survey aims to highlight the significance of naval history beyond mere battles, encompassing the vital role of maritime supremacy in shaping global trade and political dominance.  The opening of the book establishes the foundational theme of sea power by tracing the origins of naval influence in ancient civilizations, particularly in the Mediterranean. It highlights how sea trade emerged alongside economic and military power, beginning with the naval achievements of the Cretan civilizations and extending through the Phoenicians, who dominated maritime trade routes. This introduction sets the stage for subsequent chapters that promise to delve deeper into various sea powers across history, illustrating their strategic importance and the lessons modern naval leaders can draw from past conflicts. Overall, the opening portion presents a clear outline of the critical interconnectedness between sea power and civilization's progress, making it a compelling read for those interested in military history and maritime affairs. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Naval history",
+          "Sea-power"
+        ],
+        "bookshelves": [
+          "Category: History - Ancient",
+          "Category: History - European",
+          "Category: History - Modern (1750+)",
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/24797.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/24797.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/24797.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/24797.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/24797/pg24797.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/24797/24797-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/24797.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/24797/24797-8.txt"
+        },
+        "download_count": 1147
+      },
+      {
+        "id": 52589,
+        "title": "The Influence of Sea Power upon the French Revolution and Empire 1793-1812, vol 2",
+        "authors": [
+          {
+            "name": "Mahan, A. T. (Alfred Thayer)",
+            "birth_year": 1840,
+            "death_year": 1914
+          }
+        ],
+        "summaries": [
+          "\"The Influence of Sea Power upon the French Revolution and Empire 1793-1812\" by Alfred Thayer Mahan is a two-volume history of naval warfare published in 1892. This successor to Mahan's influential earlier work examines how naval supremacy shaped the late eighteenth and early nineteenth centuries. Mahan analyzes major battles including Trafalgar and the Nile, arguing that British control of the seas proved crucial in countering French ambitions and contributing to Napoleon's downfall. His detailed study of naval strategies and their political impacts established lasting influence on military doctrine and strategic thought. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "France -- History -- Consulate and First Empire, 1799-1815",
+          "France -- History -- Revolution, 1789-1799",
+          "France -- History, Naval",
+          "Sea-power"
+        ],
+        "bookshelves": [
+          "Category: History - European",
+          "Category: History - Modern (1750+)",
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/52589.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/52589.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52589.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/52589.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/52589/pg52589.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/52589/pg52589-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/52589.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/52589/52589-0.txt"
+        },
+        "download_count": 1088
+      },
+      {
+        "id": 52588,
+        "title": "The Influence of Sea Power upon the French Revolution and Empire 1793-1812, vol 1",
+        "authors": [
+          {
+            "name": "Mahan, A. T. (Alfred Thayer)",
+            "birth_year": 1840,
+            "death_year": 1914
+          }
+        ],
+        "summaries": [
+          "\"The Influence of Sea Power upon the French Revolution and Empire 1793-1812\" by Alfred Thayer Mahan is a naval history published in 1892. This two-volume work examines how naval supremacy shaped the struggle between Britain and France during the Revolutionary and Napoleonic Wars. Mahan analyzes major sea battles from the Glorious First of June to Trafalgar, arguing that British control of the oceans proved decisive in countering French ambitions and contributing to Napoleon's downfall. The work explores naval strategy, logistics, and the broader political consequences of maritime dominance. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "France -- History -- Consulate and First Empire, 1799-1815",
+          "France -- History -- Revolution, 1789-1799",
+          "France -- History, Naval",
+          "Sea-power"
+        ],
+        "bookshelves": [
+          "Category: History - European",
+          "Category: History - Modern (1750+)",
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/52588.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/52588.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52588.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/52588.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/52588/pg52588.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/52588/pg52588-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/52588.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/52588/52588-0.txt"
+        },
+        "download_count": 964
+      },
+      {
+        "id": 35861,
+        "title": "Congressional government : $b a study in American politics",
+        "authors": [
+          {
+            "name": "Wilson, Woodrow",
+            "birth_year": 1856,
+            "death_year": 1924
+          }
+        ],
+        "summaries": [
+          "\"Congresional Government: A Study in American Politics\" by Woodrow Wilson is an academic publication written in the late 19th century. The work examines the distinctive characteristics of the federal system in the United States, focusing particularly on the centrality of Congress and how its structure and functions differ from other governing bodies around the world. Wilson intends to highlight the peculiarities of American Congressional governance, shedding light on its historical development and its practical implications.  The opening of the text serves as a preface where Wilson reflects on the evolution of the United States' governmental structure since the Constitution's adoption. He emphasizes that while the Constitution was intended to establish a system of checks and balances, in practice, Congress has become the predominant force in American governance, often overshadowing the executive branch. Wilson notes the challenges in fully understanding the functioning of Congress due to its complex committee system, which often leads to a considerable amount of business being managed behind closed doors, limiting public insight. He argues for a critical assessment of the congressional system, exploring how it has deviated from its original design and what that means for the future of American politics. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Executive power -- United States",
+          "United States -- Politics and government",
+          "United States. Congress"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/35861.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/35861/35861-8.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/35861.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/35861.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35861.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/35861.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/35861/pg35861.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/35861/35861-8.zip"
+        },
+        "download_count": 930
+      },
+      {
+        "id": 66221,
+        "title": "Turkey, the Great Powers, and the Bagdad Railway: A study in imperialism",
+        "authors": [
+          {
+            "name": "Earle, Edward Mead",
+            "birth_year": 1894,
+            "death_year": 1954
+          }
+        ],
+        "summaries": [
+          "\"Turkey, the Great Powers, and the Bagdad Railway: A Study in Imperialism\" by Edward Mead Earle is a historical account written in the early 20th century. The book explores the intricate dynamics of imperialism as they relate to the rise of the Bagdad Railway project and its implications on Turkey and its global significance. Through meticulous analysis, it examines how various great powers engaged with the Ottoman Empire’s resources and strategic position.  The opening of the book details the historical context leading to the significance of the Bagdad Railway, introducing it as an essential link reviving ancient trade routes during the 19th century. Earle outlines the broader implications of rail development on the economic and political stability of Turkey, emphasizing both the hopes tied to modernization and the inherent dangers posed by international rivalries. The narrative sets the stage for a deeper discussion on how this railway project emerged in a landscape fraught with imperial aspirations and the challenges the Ottoman Empire faced in asserting its sovereignty amidst foreign interests. Overall, the initial chapters lay a foundation for understanding the complexities that surrounded the construction of the Bagdad Railway as a symbol of both progress and contention in modern imperialism. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Baghdad Railway",
+          "Eastern question",
+          "Great powers",
+          "Turkey -- Economic conditions -- 1918-1960"
+        ],
+        "bookshelves": [
+          "Category: History - European",
+          "Category: History - Modern (1750+)"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/66221.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66221/66221-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/66221.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/66221.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66221.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/66221.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/66221/pg66221.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/66221/pg66221-h.zip"
+        },
+        "download_count": 852
+      },
+      {
+        "id": 40076,
+        "title": "Atrocious Judges : Lives of Judges Infamous as Tools of Tyrants and Instruments of Oppression",
+        "authors": [
+          {
+            "name": "Campbell, John Campbell, Baron",
+            "birth_year": 1779,
+            "death_year": 1861
+          }
+        ],
+        "summaries": [
+          "\"Atrocious Judges: Lives of Judges Infamous as Tools of Tyrants and Instruments\" by John Lord Campbell is a historical account likely written in the mid-19th century. The book examines the lives and actions of judges notorious for their complicity with despots and the oppressive use of judicial power. Through this exploration, it delves into the themes of justice, tyranny, and the manipulation of the legal system.  The opening of this work sets the stage by discussing the historical significance of the judicial power, particularly in the context of the Anglo-Saxon and Norman influences on law and governance. It reflects on how the evolution of the English judicial system shaped the struggle for liberty and justice throughout British history. Additionally, the introduction mentions the biographies derived from Lord Campbell's writings, laying the groundwork for narratives on judges like Roger le Brabacon and Robert Tresilian, who played key roles in England's political and legal landscape, often at the expense of justice. The tone suggests a condemnation of those who abused their positions for power and tyranny, inviting readers to consider the implications of judicial authority in both the past and present. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Hildreth, Richard",
+            "birth_year": 1807,
+            "death_year": 1865
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Judges -- England -- Biography",
+          "Judicial corruption -- England -- History",
+          "Political questions and judicial power -- England -- History"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: History - British",
+          "Category: Law & Criminology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/40076.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/40076/40076-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/40076.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/40076.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/40076.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/40076.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/40076/pg40076.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/40076/pg40076-h.zip"
+        },
+        "download_count": 827
+      },
+      {
+        "id": 49012,
+        "title": "The postal power of Congress: A study in constitutional expansion",
+        "authors": [
+          {
+            "name": "Rogers, Lindsay",
+            "birth_year": 1891,
+            "death_year": 1970
+          }
+        ],
+        "summaries": [
+          "\"The Postal Power of Congress: A Study in Constitutional Expansion\" by Lindsay Rogers is a dissertation and constitutional analysis written in the early 20th century. The work examines the legislative and judicial history surrounding the power granted to Congress to establish postoffices and postroads, exploring how this power has expanded over time. Rogers argues that this expansion raises significant constitutional questions and implications regarding federal authority.   The opening of the work introduces the historical context of the postal power, referencing key figures and documents, such as \"The Federalist\", which had a limited view of the significance of this power. Rogers highlights the evolution of postal functions and the consequential legal debates surrounding the boundaries of Congress's authority. He notes the initial establishment of postal services in colonial America, Benjamin Franklin's contributions, and the critical role of Congress in responding to the communication needs of a growing nation. This foundational exploration sets the stage for a deeper analysis of the implications of postal power on federal control and individual rights throughout the book. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Postal service -- Law and legislation -- United States",
+          "Postal service -- United States -- History",
+          "Thesis (Ph. D.)",
+          "United States. Congress -- Powers and duties"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: Law & Criminology",
+          "Category: Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/49012.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/49012.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/49012.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/49012.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/49012/pg49012.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/49012/pg49012-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/49012.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/49012/49012-0.txt"
+        },
+        "download_count": 818
+      },
+      {
+        "id": 48134,
+        "title": "Electric Transmission of Water Power",
+        "authors": [
+          {
+            "name": "Adams, Alton D. (Alton Dermont)",
+            "birth_year": 1864,
+            "death_year": 1943
+          }
+        ],
+        "summaries": [
+          "\"Electric Transmission of Water Power\" by Alton D. Adams is a scientific publication written in the early 20th century. The work delves into the complexities and practicalities of using water-power for generating electrical energy and its distribution across varying distances, highlighting the advancements in electrical engineering. It likely targets those interested in electrical systems, engineering principles, and the historical context of energy transmission.  The opening of the book provides an overview of the integration of electrical systems derived from water-power into major North American cities, detailing how these systems operate over extensive distances. Adams outlines numerous water-power stations and their capabilities, emphasizing the significant role of water power in supplying electricity to urban centers while illustrating the implications for energy costs and competition with other energy sources such as coal and gas. The narrative sets the stage for a deeper exploration of electric power transmission methodologies and the economic considerations associated with different generation systems. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Electric power distribution",
+          "Hydroelectric power plants"
+        ],
+        "bookshelves": [
+          "Category: Engineering & Technology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/48134.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/48134.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/48134.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/48134.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/48134/pg48134.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/48134/pg48134-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/48134.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/48134/48134-0.txt"
+        },
+        "download_count": 736
+      },
+      {
+        "id": 15749,
+        "title": "The Interest of America in Sea Power, Present and Future",
+        "authors": [
+          {
+            "name": "Mahan, A. T. (Alfred Thayer)",
+            "birth_year": 1840,
+            "death_year": 1914
+          }
+        ],
+        "summaries": [
+          "\"The Interest of America in Sea Power, Present and Future\" by A. T. Mahan is a historical treatise written in the late 19th century. The work examines the role of sea power in shaping national policies and strategies, particularly in relation to America's growing economic and military interests as it looks outward into the world. The book discusses the implications of naval strength for the future of the United States, making a case for expanding maritime influence to secure commerce and international interests.  The opening of this work begins by outlining the prevailing attitude of Americans towards their domestic economy and industries, emphasizing a historical trend of insularity and protectionism. Mahan argues that such an inward focus is increasingly untenable given the nation's vast resources and industrial capabilities, which necessitate engagement with global markets. He highlights the changing geopolitical landscape, marked by the ambitions of European powers in distant territories, and stresses the importance of a robust navy as essential to protecting American interests and securing trade routes. The narrative suggests a critical juncture for the United States to decide between retreating into isolation or embracing its future as a maritime nation. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Sea-power",
+          "United States -- Defenses",
+          "United States. Navy"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: History - Modern (1750+)",
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/15749.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/15749.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15749.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/15749.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/15749/pg15749.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/15749/15749-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/15749.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15749/15749-8.txt"
+        },
+        "download_count": 720
+      },
+      {
+        "id": 66987,
+        "title": "Life of Frances Power Cobbe, as told by herself: with additions by the author, and introduction by Blanche Atkinson",
+        "authors": [
+          {
+            "name": "Cobbe, Frances Power",
+            "birth_year": 1822,
+            "death_year": 1904
+          }
+        ],
+        "summaries": [
+          "\"Life of Frances Power Cobbe, as told by herself\" by Frances Power Cobbe is an autobiographical account written in the early 20th century. This work recounts the life and experiences of Frances Power Cobbe, a prominent figure in the struggles for women's rights and animal welfare. It explores her upbringing, personal reflections, and socio-political activism, showcasing her commitment to various social causes.  The opening of the autobiography introduces Cobbe's life, hinting at her complex personal relationships and the emotional weight of her later years. It begins with a brief introduction by Blanche Atkinson, who sets the tone for Cobbe’s narrative by emphasizing her significant accomplishments and heartfelt relationships, particularly the profound impact of her mother and close friend, Miss Lloyd. Cobbe reflects on her early life, characterized by a nurturing upbringing, the love of her family, and the challenges she faced as an influential woman in a male-dominated society. As she recounts her journey, themes of friendship, loss, and the pursuit of social justice begin to emerge, positioning her as both a reflective narrator and an activist. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Authors, English -- 19th century -- Biography",
+          "Cobbe, Frances Power, 1822-1904",
+          "Feminists -- Great Britain -- Biography",
+          "Journalists -- Great Britain -- Biography",
+          "Reformers -- Great Britain -- Biography"
+        ],
+        "bookshelves": [
+          "Category: Biographies"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/66987.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66987/66987-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/66987.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/66987.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66987.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/66987.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/66987/pg66987.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/66987/pg66987-h.zip"
+        },
+        "download_count": 710
+      },
+      {
+        "id": 74067,
+        "title": "Powers of the President during crises",
+        "authors": [
+          {
+            "name": "Smith, J. Malcolm (John Malcolm)",
+            "birth_year": 1921,
+            "death_year": 2003
+          },
+          {
+            "name": "Cotter, Cornelius P.",
+            "birth_year": 1924,
+            "death_year": 1999
+          }
+        ],
+        "summaries": [
+          "\"Powers of the President during Crises\" by J. Malcolm Smith and Cornelius P. Cotter is a political science publication written in the late 20th century. The book explores the complexities surrounding the use of emergency powers by the U.S. president during significant national crises, particularly since 1933. It examines the constitutional framework for such powers and the delicate balance between preserving civil liberties and ensuring national security.  The opening of the book provides a foreword and preface that set the stage for its examination of presidential emergency powers. It begins with a reflection on the historical context and the constitutional basis for emergency powers, drawing parallels to medical prescriptions for powerful drugs like morphine, which can either alleviate suffering or become tools of tyranny if misused. The authors outline their methodology and intent to analyze how emergency powers have been utilized in the U.S. and provide a thorough account of the legal frameworks, oversight mechanisms, and real-life applications of such powers throughout crises, inviting readers to consider the implications for democracy and individual freedoms. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Constitutional history -- United States",
+          "Executive power -- United States"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: Law & Criminology",
+          "Category: Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/74067.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/74067.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/74067.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/74067.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/74067/pg74067.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/74067/pg74067-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/74067.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/74067/74067-0.txt"
+        },
+        "download_count": 654
+      },
+      {
+        "id": 70092,
+        "title": "The treatise of Lorenzo Valla on the Donation of Constantine",
+        "authors": [
+          {
+            "name": "Valla, Lorenzo",
+            "birth_year": 1407,
+            "death_year": 1457
+          }
+        ],
+        "summaries": [
+          "\"The Treatise of Lorenzo Valla on the Donation of Constantine\" by Lorenzo Valla is a critical historical treatise written in the early 15th century. The primary topic of this work revolves around the analysis and refutation of the purportedly authentic legal document known as the Donation of Constantine, which claimed to grant extensive powers and territories to the Roman Pontificate. Through his examination, Valla asserts the document is a forgery, challenging the foundations of papal authority and its implications for secular power in medieval Europe.  At the start of the text, Valla sets his stage for a bold critique of the Donation, addressing the potential backlash he faces for contesting a well-accepted narrative that legitimized papal supremacy. He emphasizes the historical significance of the Donation and how its acceptance shaped the relationship between the church and secular rulers. Valla's opening arguments highlight the absurdities and inconsistencies within the Donation's claims, including questions about the motivations of Constantine and the supposed acknowledgment by the papacy. He establishes his intent to promote a rigorous method of historical criticism, aiming to dismantle long-held misconceptions while laying groundwork for modern scholarly inquiry. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Coleman, Christopher Bush",
+            "birth_year": 1875,
+            "death_year": 1944
+          }
+        ],
+        "subjects": [
+          "Church and state -- Holy Roman Empire",
+          "Constitutum Constantini",
+          "Popes -- Temporal power -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: History - Medieval/Middle Ages",
+          "Category: History - Religious"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/70092.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/70092.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70092.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/70092.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/70092/pg70092.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/70092/70092-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/70092.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70092/70092-0.txt"
+        },
+        "download_count": 648
+      },
+      {
+        "id": 54587,
+        "title": "The Pope, the Kings and the People: A History of the Movement to Make the Pope Governor of the World by a Universal Reconstruction of Society from the Issue of the Syllabus to the Close of the Vatican Council",
+        "authors": [
+          {
+            "name": "Arthur, William",
+            "birth_year": 1819,
+            "death_year": 1901
+          }
+        ],
+        "summaries": [
+          "\"The Pope, the Kings and the People\" by William Arthur is a historical account written in the late 19th century. This work chronicles the movement to elevate the Pope to a position of universal governance over society, beginning with the issuance of the Syllabus of Errors and concluding with the close of the Vatican Council. The book likely explores the intersection of religious authority and political power, revealing the ambitions of the Papacy and the cultural and political ramifications of this movement during a significant period in European history.  At the start of the narrative, a pivotal meeting convened by Pope Pius IX is highlighted, where he expresses a desire for a General Council to address contemporary societal issues. The Pope believes the remedy lies in reaffirming the Church's authority, which he sees as a response to modern challenges to ecclesiastical power, including calls for religious equality and the independence of civil law from Church doctrine. This meeting sets the stage for a series of significant proclamations—including the Encyclical \"Quanta Cura\" and the Syllabus of Errors—that form the foundation for the Papal Council's later decisions and the Church's response to political upheaval. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Neatby, William Blair",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Catholic Church -- History -- 19th century",
+          "Papacy -- History -- 1799-1870",
+          "Pius IX, Pope, 1792-1878",
+          "Popes -- Infallibility",
+          "Popes -- Temporal power",
+          "Vatican Council (1st : 1869-1870 : Basilica di San Pietro in Vaticano)"
+        ],
+        "bookshelves": [
+          "Category: History - European",
+          "Category: History - Modern (1750+)",
+          "Category: History - Religious",
+          "Category: Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/54587.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/54587.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54587.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/54587.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/54587/pg54587.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/54587/pg54587-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/54587.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/54587/54587-0.txt"
+        },
+        "download_count": 600
+      },
+      {
+        "id": 17547,
+        "title": "The Navy as a Fighting Machine",
+        "authors": [
+          {
+            "name": "Fiske, Bradley A. (Bradley Allen)",
+            "birth_year": 1854,
+            "death_year": 1942
+          }
+        ],
+        "summaries": [
+          "\"The Navy as a Fighting Machine\" by Bradley A. Fiske is a military strategy treatise written in the early 20th century. The work explores the essential role of naval power in warfare and political stability, particularly emphasizing how a strong navy can prevent blockades and ensure a nation's trade and defense. Fiske presents historical examples to underline the vital contributions of naval forces to military success and international relations.  The opening of the book begins with the author addressing fundamental questions about the purpose of naval forces, the necessary components for effective naval power, and principles of naval design and operation. Fiske emphasizes the significance of the navy in shaping the outcomes of wars and political conflicts. He discusses the interplay between military power and the territorial integrity of nations, arguing that historical trends show an inclination toward using military force as a means of resolving disputes. The detailed examination of naval warfare's historical context sets the stage for the author's subsequent analyses of naval strategy and its implications for nations seeking to maintain power and stability on the global stage. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Naval art and science",
+          "Naval strategy",
+          "Navies",
+          "Sea-power",
+          "United States. Navy -- Management"
+        ],
+        "bookshelves": [
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/17547.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/17547.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/17547.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/17547.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/17547/pg17547.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/17547/17547-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/17547.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/17547/17547-0.txt"
+        },
+        "download_count": 598
+      },
+      {
+        "id": 19849,
+        "title": "Flag and Fleet: How the British Navy Won the Freedom of the Seas",
+        "authors": [
+          {
+            "name": "Wood, William",
+            "birth_year": 1864,
+            "death_year": 1947
+          }
+        ],
+        "summaries": [
+          "\"Flag and Fleet: How the British Navy Won the Freedom of the Seas\" by William Wood is a historical account written in the early 20th century. The book explores the pivotal role the British Navy played in establishing and maintaining maritime sovereignty and imperial power throughout history. Wood likely delves into key naval battles, strategies, and developments that contributed to the dominance of British sea power, underlining the importance of the Navy in shaping both the British Empire and global trade.  The opening of the work sets the stage by reflecting on the divine nature of the sea, illustrating its vastness and significance as a source of freedom. The introductory chapters describe the evolution of sea power, starting from ancient times with primitive rafts and canoes to the more sophisticated ships of the British Navy. Wood emphasizes the historical interplay between land and sea strategies and the necessity of naval dominance for a nation's survival. Additionally, concepts like the importance of unity in naval command and the critical judgments made by ancient leaders about sea engagements are explored, shaping a narrative that highlights naval history as vital to the strength and expansion of the British Empire. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Great Britain -- History, Naval",
+          "Sea-power"
+        ],
+        "bookshelves": [
+          "Category: History - British",
+          "Category: History - Warfare",
+          "World War I"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/19849.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/19849/19849-8.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/19849.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/19849.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/19849.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/19849.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/19849/pg19849.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/19849/19849-8.zip"
+        },
+        "download_count": 558
+      },
+      {
+        "id": 10694,
+        "title": "Sea-Power and Other Studies",
+        "authors": [
+          {
+            "name": "Bridge, Cyprian, Sir",
+            "birth_year": 1839,
+            "death_year": 1924
+          }
+        ],
+        "summaries": [
+          "\"Sea-Power and Other Studies\" by Admiral Sir Cyprian Bridge is a collection of essays on naval history and military strategy written in the early 20th century. The essays aim to underscoring the long-standing significance of sea-power in historical conflicts, addressing common misconceptions and emphasizing its continuous role throughout different eras. Bridge critiques widely held historical conclusions about naval forces, particularly the British Navy, while linking naval history with broader military and national narratives.  The opening of the work establishes the context for the essays, discussing the concept of sea-power with a focus on its historical implications. Bridge introduces the term \"sea-power\" as a multifaceted concept that has often been misunderstood and misinterpreted in historical discourse. He argues for the need to analyze sea-power through a historical lens, asserting that many critical events in history have pivoted on the strength of naval forces. Early examples from ancient Greece illustrate how pivotal naval engagements shaped the outcomes of significant conflicts, laying the groundwork for the interrelationship between naval and broader military history that will be explored further in subsequent essays. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Great Britain. Royal Navy -- History",
+          "Naval art and science",
+          "Sea-power"
+        ],
+        "bookshelves": [
+          "Category: History - British",
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/10694.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/10694.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/10694.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/10694.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/10694/pg10694.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/10694/pg10694-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/10694.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/10694/10694-0.txt"
+        },
+        "download_count": 552
+      },
+      {
+        "id": 39267,
+        "title": "The Power of the Popes: An Historical Essay on Their Temporal Dominion, and the Abuse of Their Spiritual Authority",
+        "authors": [
+          {
+            "name": "Daunou, P. C. F. (Pierre Claude François)",
+            "birth_year": 1761,
+            "death_year": 1840
+          }
+        ],
+        "summaries": [
+          "\"The Power of the Popes\" by P. C. F. Daunou is a historical account written in the early 19th century. This work delves into the evolution of papal authority, particularly the intersection of spiritual power and temporal dominion over the centuries. The text scrutinizes the historical context and claims made by the popes, especially in their attempts to assert their political influence alongside their spiritual leadership.  The opening of the text provides a foundation for the historical inquiry into the origins of the papal temporal power, starting from the establishment of early Christian authority. Daunou emphasizes that the original teachings of Jesus Christ did not support any form of political sovereignty, asserting that early popes were more focused on spiritual duties rather than governance. As he progresses, the text challenges the legitimacy of the papal claims to temporal authority, tracing the articulation of their power in later centuries, notably by examining how misattributed documents and historical events shaped the public perception and reality of papal supremacy. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Papacy -- History",
+          "Popes -- Temporal power"
+        ],
+        "bookshelves": [
+          "Category: History - Religious"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/39267.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/39267/39267-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/39267.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/39267.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39267.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/39267.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/39267/pg39267.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/39267/39267-0.zip"
+        },
+        "download_count": 524
+      },
+      {
+        "id": 14381,
+        "title": "The Roman Question",
+        "authors": [
+          {
+            "name": "About, Edmond",
+            "birth_year": 1828,
+            "death_year": 1885
+          }
+        ],
+        "summaries": [
+          "\"The Roman Question\" by Edmond About is a historical account written in the mid-19th century that delves deeply into the political and social tensions surrounding the Papal States and the authority of the Pope during a time of great upheaval in Italy. The book critically examines the structure of the Papal government, the grievances of its subjects, and the paradoxes inherent in the Pope's dual role as a spiritual leader and a temporal ruler, drawing from various personal observations and contemporary analyses.  The opening of the text serves as a preface, outlining the author's extensive research and motivations for writing this work. The author reveals his initial impressions and the challenges he faced while compiling his thoughts amidst political contention, particularly the backlash from the Pontifical government. He introduces his focus on the seemingly oppressive rule of the Pope, whose absolute power generates unrest among the subjects who yearn for reform and better governance. This section effectively sets the stage for exploring the complexities of the Roman political landscape, highlighting the dissatisfaction among clergy and laypeople alike regarding the governance of the Papal States, and foreshadowing further discussions on class struggles, societal issues, and the necessary independence of the Pope from secular power. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Coape, Henry C. (Henry Coe)",
+            "birth_year": 1810,
+            "death_year": 1890
+          }
+        ],
+        "subjects": [
+          "Popes -- Temporal power",
+          "Roman question"
+        ],
+        "bookshelves": [
+          "Category: History - European",
+          "Category: History - Modern (1750+)",
+          "Category: History - Religious",
+          "Category: Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/14381.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/14381.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14381.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/14381.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/14381/pg14381.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/14381/pg14381-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/14381.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14381/14381-0.txt"
+        },
+        "download_count": 463
+      },
+      {
+        "id": 73393,
+        "title": "Jack Carstairs of the power house : $b A tale of some very young men and a very young industry",
+        "authors": [
+          {
+            "name": "Sandys, Sydney",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"Jack Carstairs of the Power House\" by Sydney Sandys is a novel written in the early 20th century. The story centers around a young engineer named Jack Carstairs, who is working in an electric power station in Scotland. The narrative explores his ambitions and encounters, particularly focusing on a romantic relationship with a gipsy girl, delving into themes of love, aspirations, and the emerging industrial environment of the time.  At the start of the book, we are introduced to Jack as he admires the beauty of the Scottish landscape while working at the power house. He encounters a young gipsy girl scavenging for coal, which sparks a conversation that reveals their contrasting backgrounds. Their growing attraction is palpable as they share moments of connection, highlighting Jack's serious demeanor contrasted with the girl’s carefree spirit. As they spend time together, their conversations touch on broader themes, such as work, leisure, and their different life experiences. However, the initial romance is complicated by the presence of the girl's fiancé, setting the stage for a blend of ambition and personal conflict as Jack navigates his engineering career and burgeoning feelings. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Adventure stories",
+          "Electrical engineers -- Fiction",
+          "Great Britain -- Fiction",
+          "Man-woman relationships -- Fiction",
+          "Power-plants -- Fiction",
+          "Triangles (Interpersonal relations) -- Fiction",
+          "Young men -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/73393.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/73393.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/73393.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/73393.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/73393/pg73393.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/73393/pg73393-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/73393.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/73393/73393-0.txt"
+        },
+        "download_count": 433
+      },
+      {
+        "id": 61123,
+        "title": "Shafting, Pulleys, Belting and Rope Transmission",
+        "authors": [
+          {
+            "name": "Collins, Hubert E. (Hubert Edwin)",
+            "birth_year": 1872,
+            "death_year": 1932
+          }
+        ],
+        "summaries": [
+          "\"Shafting, Pulleys, Belting and Rope Transmission\" by Hubert E. Collins is a practical handbook written in the early 20th century. This work serves as a comprehensive guide for engineers and operators dealing with the installation, maintenance, and repair of various mechanical components such as shafting, pulleys, and belts. The text emphasizes the importance of proper handling to enhance efficiency and prevent accidents in engineering applications.  The opening of this work introduces readers to the critical role of shafting, pulleys, and belts in mechanical systems, highlighting that these components are often overlooked by operators despite their significance. Collins aims to provide practical advice and solutions for common operational issues, including the proper installation techniques and maintenance practices. Topics such as the importance of belt dressing, methods for managing pulleys, and understanding rope transmission are outlined, setting the foundation for further detailed discussions throughout the handbook. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Power transmission"
+        ],
+        "bookshelves": [
+          "Category: Engineering & Technology",
+          "Category: How To ..."
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/61123.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/61123.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/61123.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/61123.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/61123/pg61123.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/61123/pg61123-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/61123.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/61123/61123-0.txt"
+        },
+        "download_count": 413
+      },
+      {
+        "id": 39669,
+        "title": "Die großen Mächte",
+        "authors": [
+          {
+            "name": "Ranke, Leopold von",
+            "birth_year": 1795,
+            "death_year": 1886
+          }
+        ],
+        "summaries": [
+          "\"Die großen Mächte\" by Leopold von Ranke is a historical treatise written in the early 19th century. The work examines the dynamics and relationships among European powers, particularly in the context of political ideologies and the realities of statecraft. Ranke aims to present a nuanced understanding of how states navigate their interests, identity, and power during a transformative era in European history.  The opening of the work introduces Ranke's perspective on the relationship between political power and historical development. He emphasizes the need for a broader understanding of history that transcends simplistic ideological frameworks, asserting that the true essence of national identities and state dynamics is rooted in their real, lived experiences rather than abstract theories. Ranke critiques the extreme partisanship of his time and positions his analysis in contrast to both liberal and conservative dogmas. He sets the stage for a comprehensive exploration of the political landscape of Europe, focusing on major historical events and power shifts, particularly during the era of Louis XIV, which informs the evolution of the modern nation-state and its inherent complexities. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Meinecke, Friedrich",
+            "birth_year": 1862,
+            "death_year": 1954
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Balance of power",
+          "Europe -- Politics and government -- 18th century"
+        ],
+        "bookshelves": [
+          "Category: History - Early Modern (c. 1450-1750)",
+          "Category: History - European",
+          "Category: History - Modern (1750+)",
+          "DE Sachbuch"
+        ],
+        "languages": [
+          "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/39669.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/39669/39669-8.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/39669.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/39669.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39669.kf8.images",
+          "application/octet-stream": "https://www.gutenberg.org/files/39669/39669-page-images/c0001.jpg",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/39669.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/39669/pg39669.cover.medium.jpg"
+        },
+        "download_count": 394
+      },
+      {
+        "id": 24064,
+        "title": "Damned If You Don't",
+        "authors": [
+          {
+            "name": "Garrett, Randall",
+            "birth_year": 1927,
+            "death_year": 1987
+          }
+        ],
+        "summaries": [
+          "\"Damned If You Don't\" by Randall Garrett is a science fiction novel written in the early 1960s. The story revolves around a brilliant engineer named Sam Bending, who invents a revolutionary device called the Converter, capable of producing substantial electricity from water through fusion. The narrative explores themes of innovation, corporate greed, and the societal consequences of technological advancements.  As the plot unfolds, Bending faces ominous threats after his invention garners the attention of the powerful Power Utilities corporation, which fears the impact of the Converter on its monopoly over energy. Following a series of break-ins and the loss of his prototypes, Bending finds himself embroiled in a dangerous struggle involving not just corporate espionage but also government intervention. The story ultimately poses a moral dilemma about whether the benefits of such a powerful invention should be suppressed to protect the economy and society from the potential chaos that could ensue from its unchecked release into the market. Through suspense and a touch of humor, Garrett's tale examines the intricate balance between technological advancement and its broader implications on humanity. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Inventors -- Fiction",
+          "Power (Mechanics) -- Fiction",
+          "Science fiction"
+        ],
+        "bookshelves": [
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy",
+          "Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/24064.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/24064.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/24064.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/24064.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/24064/pg24064.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/24064/24064-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/24064.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/24064/24064-8.txt"
+        },
+        "download_count": 386
+      },
+      {
+        "id": 27244,
+        "title": "Operations Upon the Sea: A Study",
+        "authors": [
+          {
+            "name": "Edelsheim, Franz von",
+            "birth_year": 1868,
+            "death_year": 1939
+          }
+        ],
+        "summaries": [
+          "\"Operations Upon the Sea: A Study\" by Freiherr von Franz Edelsheim is a military treatise written in the early 20th century, specifically in the context of Germany’s naval strategies during World War I. This book focuses on the principles of conducting military operations across the sea, addressing various aspects such as troop transport, embarkation, and landing operations. Edelsheim analyzes historical examples to outline effective military strategies and underscores the necessity of detailed preparations for overseas operations.  The book provides a comprehensive examination of the logistical and tactical challenges faced by a nation seeking to execute operations over the sea. Edelsheim delves into the principles of sea transport, emphasizing the importance of efficient planning during peacetime and outlining the requirements for successful military campaigns. He discusses the need for naval superiority, efficient mobilization of land forces, and the significance of surprise as a tactical advantage. Through historical references and a detailed exploration of Germany's capabilities, the study acts as a guideline for integrating naval and land strategies, ultimately aimed at enhancing the effectiveness of military operations across the ocean. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Germany. Heer -- Transport service",
+          "Germany. Kriegsmarine",
+          "Sea-power",
+          "Transportation, Military"
+        ],
+        "bookshelves": [
+          "Category: History - Warfare"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/27244.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/27244.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27244.kf8.images",
+          "application/octet-stream": "https://www.gutenberg.org/files/27244/27244-page-images/f001.png",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/27244.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/27244/pg27244.cover.medium.jpg",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/27244.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/27244/27244-8.txt"
+        },
+        "download_count": 372
+      }
+    ]
+  }
+}

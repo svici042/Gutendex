@@ -1,0 +1,1535 @@
+{
+  "source": "https://gutendex.com/books?topic=Fiction",
+  "query": "/books?topic=Fiction",
+  "fetchedAt": "2026-09-23T13:50:43.258Z",
+  "data": {
+    "count": 31236,
+    "next": "https://gutendex.com/books/?page=2&topic=Fiction",
+    "previous": null,
+    "results": [
+      {
+        "id": 1342,
+        "title": "Pride and Prejudice",
+        "authors": [
+          {
+            "name": "Austen, Jane",
+            "birth_year": 1775,
+            "death_year": 1817
+          }
+        ],
+        "summaries": [
+          "\"Pride and Prejudice\" by Jane Austen is a novel published in 1813. It follows Elizabeth Bennet, who must learn to see past first impressions and hasty judgments. With five daughters and an estate that can only pass to male heirs, the Bennet family faces financial pressure to marry well. When wealthy Mr. Darcy arrives in their countryside neighborhood, his pride and Elizabeth's prejudice set the stage for misunderstandings, hidden truths, and unexpected revelations about character and love. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Courtship -- Fiction",
+          "Domestic fiction",
+          "England -- Fiction",
+          "Love stories",
+          "Sisters -- Fiction",
+          "Social classes -- Fiction",
+          "Young women -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Category: Romance",
+          "Harvard Classics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1342.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1342.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1342.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1342.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1342/pg1342.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1342/pg1342-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1342.txt.utf-8"
+        },
+        "download_count": 198164
+      },
+      {
+        "id": 2701,
+        "title": "Moby Dick; Or, The Whale",
+        "authors": [
+          {
+            "name": "Melville, Herman",
+            "birth_year": 1819,
+            "death_year": 1891
+          }
+        ],
+        "summaries": [
+          "\"Moby Dick; Or, The Whale\" by Herman Melville is an epic novel published in 1851. Sailor Ishmael narrates the obsessive quest of Captain Ahab, who commands the whaling ship Pequod in pursuit of Moby Dick, a giant white sperm whale that destroyed his leg. Ahab's monomaniacal hunt for vengeance drives the ship and its diverse crew across the world's oceans, blending realistic whaling details with profound explorations of good, evil, fate, and human nature in this cornerstone of American literature. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Adventure stories",
+          "Ahab, Captain (Fictitious character) -- Fiction",
+          "Mentally ill -- Fiction",
+          "Psychological fiction",
+          "Sea stories",
+          "Ship captains -- Fiction",
+          "Whales -- Fiction",
+          "Whaling -- Fiction",
+          "Whaling ships -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: Adventure",
+          "Category: American Literature",
+          "Category: Classics of Literature",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2701.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2701.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2701.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2701.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2701/pg2701.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2701/pg2701-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2701.txt.utf-8"
+        },
+        "download_count": 164301
+      },
+      {
+        "id": 65238,
+        "title": "The Secret of Chimneys",
+        "authors": [
+          {
+            "name": "Christie, Agatha",
+            "birth_year": 1890,
+            "death_year": 1976
+          }
+        ],
+        "summaries": [
+          "\"The Secret of Chimneys\" by Agatha Christie is a suspenseful detective novel written in the early 20th century. The story introduces the charming Anthony Cade, who finds himself embroiled in a web of intrigue involving royal secrets and political machinations in a fictional Balkan nation known as Herzoslovakia. As he sets off on a journey to deliver a manuscript of memoirs, he stumbles into a world of blackmail, missing persons, and a potential restoration of a monarchy.  At the start of the novel, we meet Anthony Cade while he is working as a tour guide in Africa, where he encounters an old friend, Jimmy McGrath. After a light-hearted exchange, McGrath reveals a plan that involves the delivery of Count Stylptitch's memoirs to a publisher in London, which promises a reward of a thousand pounds. Intrigued, Anthony agrees to take on the task, unaware of the dangerous implications, including confrontation with various factions, including a mysterious former royal and potential assassins. The opening sets the stage for a captivating interplay of romance, adventure, and the classic whodunit elements that Agatha Christie is known for. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Battle, Superintendent (Fictitious character) -- Fiction",
+          "Detective and mystery stories",
+          "Police -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/65238.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/65238/65238-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/65238.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/65238.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/65238.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/65238.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/65238/pg65238.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/65238/pg65238-h.zip"
+        },
+        "download_count": 133305
+      },
+      {
+        "id": 1661,
+        "title": "The Adventures of Sherlock Holmes",
+        "authors": [
+          {
+            "name": "Doyle, Arthur Conan",
+            "birth_year": 1859,
+            "death_year": 1930
+          }
+        ],
+        "summaries": [
+          "\"The Adventures of Sherlock Holmes\" by Arthur Conan Doyle is a collection of short stories first published in 1892. These twelve tales feature the legendary consulting detective Sherlock Holmes and his companion Dr. Watson, narrated from Watson's perspective. Each mystery explores social injustices while showcasing Holmes's brilliant deductive methods and unconventional approach to justice. The stories introduce memorable characters and cases that have captivated readers for over a century, establishing Holmes as one of literature's most enduring detectives. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Detective and mystery stories, English",
+          "Holmes, Sherlock (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Banned Books from Anne Haight's list",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories",
+          "Contemporary Reviews",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1661.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1661.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1661.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1661.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1661/pg1661-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1661.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1661/1661-0.txt"
+        },
+        "download_count": 119794
+      },
+      {
+        "id": 3268,
+        "title": "The Mysteries of Udolpho",
+        "authors": [
+          {
+            "name": "Radcliffe, Ann Ward",
+            "birth_year": 1764,
+            "death_year": 1823
+          }
+        ],
+        "summaries": [
+          "\"The Mysteries of Udolpho\" by Ann Radcliffe is a Gothic novel published in 1794. Young Emily St. Aubert endures a cascade of misfortunes after her parents' deaths, finding herself trapped in a sinister Italian castle controlled by the menacing Montoni. Surrounded by mysterious terrors, hidden secrets, and supernatural phenomena, Emily must navigate perilous intrigues while separated from her beloved Valancourt. This archetypal Gothic tale weaves romance, suspense, and dark mysteries through remote castles and haunted landscapes. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Castles -- Fiction",
+          "Gothic fiction",
+          "Guardian and ward -- Fiction",
+          "Horror tales",
+          "Inheritance and succession -- Fiction",
+          "Italy -- Fiction",
+          "Orphans -- Fiction",
+          "Young women -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Romance",
+          "Gothic Fiction",
+          "Italy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/3268.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/3268.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3268.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/3268.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/3268/pg3268.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/3268/3268-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/3268.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3268/3268-0.txt"
+        },
+        "download_count": 119554
+      },
+      {
+        "id": 2641,
+        "title": "A Room with a View",
+        "authors": [
+          {
+            "name": "Forster, E. M. (Edward Morgan)",
+            "birth_year": 1879,
+            "death_year": 1970
+          }
+        ],
+        "summaries": [
+          "\"A Room with a View\" by E. M. Forster is a novel published in 1908. Young Lucy Honeychurch travels to Italy with her uptight cousin as chaperone, where an unexpected encounter with the unconventional George Emerson stirs confusing emotions. Back in England, Lucy becomes engaged to the sophisticated but pompous Cecil Vyse. When the Emersons move nearby, Lucy must confront her true feelings and decide between societal expectations and genuine passion in Edwardian England's restrained culture. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "British -- Italy -- Fiction",
+          "England -- Fiction",
+          "Florence (Italy) -- Fiction",
+          "Humorous stories",
+          "Young women -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Novels",
+          "Category: Romance",
+          "Italy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2641.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2641.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2641.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2641.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2641/pg2641.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2641/pg2641-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2641.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2641/2641-0.txt"
+        },
+        "download_count": 115764
+      },
+      {
+        "id": 2465,
+        "title": "Carmen",
+        "authors": [
+          {
+            "name": "Mérimée, Prosper",
+            "birth_year": 1803,
+            "death_year": 1870
+          }
+        ],
+        "summaries": [
+          "\"Carmen\" by Prosper Mérimée is a novella written and first published in 1845. In the lonely hills of Andalusia, a scholar meets a notorious outlaw named Don José, who tells the tale of his tragic downfall. His story revolves around Carmen, a captivating Romani woman whose fierce independence and refusal to be tamed leads to jealousy, violence, and death. This dark narrative of passion and fate later inspired Bizet's famous opera. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Loyd, Mary, Lady",
+            "birth_year": 1853,
+            "death_year": 1936
+          }
+        ],
+        "subjects": [
+          "Carmen (Fictitious character) -- Fiction",
+          "Spain -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: French Literature",
+          "Category: Novels",
+          "Category: Romance",
+          "Opera"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2465.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2465.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2465.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2465.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2465/pg2465.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2465/pg2465-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2465.txt.utf-8"
+        },
+        "download_count": 111826
+      },
+      {
+        "id": 11,
+        "title": "Alice's Adventures in Wonderland",
+        "authors": [
+          {
+            "name": "Carroll, Lewis",
+            "birth_year": 1832,
+            "death_year": 1898
+          }
+        ],
+        "summaries": [
+          "\"Alice's Adventures in Wonderland\" by Lewis Carroll is a children's novel published in 1865. When a curious girl named Alice spots a White Rabbit with a pocket watch, she tumbles down a rabbit hole into an extraordinary fantasy world filled with peculiar anthropomorphic creatures. This pioneering work of literary nonsense plays with logic and language, creating a whimsical tale that delights both children and adults. Illustrated by John Tenniel, it helped transform children's literature from didactic instruction to pure entertainment. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Alice (Fictitious character from Carroll) -- Juvenile fiction",
+          "Children's stories",
+          "Fantasy fiction",
+          "Imaginary places -- Juvenile fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Children & Young Adult Reading",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Children's Literature"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/11.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/11.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/11.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/11/pg11-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/11/11-0.txt"
+        },
+        "download_count": 104902
+      },
+      {
+        "id": 67979,
+        "title": "The Blue Castle: a novel",
+        "authors": [
+          {
+            "name": "Montgomery, L. M. (Lucy Maud)",
+            "birth_year": 1874,
+            "death_year": 1942
+          }
+        ],
+        "summaries": [
+          "\"The Blue Castle: a novel by L. M. Montgomery\" is a novel published in 1926. Twenty-nine-year-old Valancy Stirling has spent her entire life suffocated by her controlling family's expectations. When she receives a shocking medical diagnosis, she decides to finally break free and live on her own terms. She scandalizes her relatives by speaking her mind, moving out, and eventually proposing marriage to the mysterious and supposedly disreputable Barney Snaith. Together they build a new life on a remote island—but secrets still linger. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Canada -- History -- 1914-1945 -- Fiction",
+          "Choice (Psychology) -- Fiction",
+          "Love -- Fiction",
+          "Romance fiction",
+          "Self-actualization (Psychology) -- Fiction",
+          "Single women -- Fiction",
+          "Young adult fiction"
+        ],
+        "bookshelves": [
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/67979.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/67979.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/67979.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/67979.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/67979/pg67979.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/67979/pg67979-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/67979.txt.utf-8"
+        },
+        "download_count": 104422
+      },
+      {
+        "id": 59828,
+        "title": "The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.",
+        "authors": [
+          {
+            "name": "Prest, Thomas Peckett",
+            "birth_year": 1810,
+            "death_year": 1859
+          },
+          {
+            "name": "Rymer, James Malcolm",
+            "birth_year": null,
+            "death_year": 1884
+          }
+        ],
+        "summaries": [
+          "\"The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.\" by Rymer et al. is a penny dreadful serial published from 1846 to 1847. This tale introduces Sweeney Todd, the murderous barber of Fleet Street who kills his customers and delivers their corpses to Mrs. Lovett, who bakes the flesh into meat pies. When a sailor mysteriously disappears after visiting Todd's shop, friends and loved ones investigate, uncovering a horrifying secret beneath St. Dunstan's church that reveals the true scale of Todd's crimes. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Bakers -- Fiction",
+          "Barbers -- Fiction",
+          "Cannibalism -- Fiction",
+          "Fleet Street (London, England) -- Fiction",
+          "Historical fiction",
+          "Horror tales",
+          "London (England) -- Social life and customs -- 18th century -- Fiction",
+          "Missing persons -- Fiction",
+          "Murder -- Fiction",
+          "Mystery fiction",
+          "Penny dreadfuls",
+          "Revenge -- Fiction",
+          "Suspense fiction",
+          "Todd, Sweeney (Legendary character) -- Fiction",
+          "Young women -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/59828.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/59828.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/59828.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/59828.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/59828/pg59828.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/59828/59828-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/59828.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/59828/59828-0.txt"
+        },
+        "download_count": 104191
+      },
+      {
+        "id": 345,
+        "title": "Dracula",
+        "authors": [
+          {
+            "name": "Stoker, Bram",
+            "birth_year": 1847,
+            "death_year": 1912
+          }
+        ],
+        "summaries": [
+          "\"Dracula\" by Bram Stoker is a Gothic horror novel published in 1897. Told through letters, diary entries, and newspaper articles, the story follows solicitor Jonathan Harker's terrifying encounter with Count Dracula in Transylvania. When the vampire Count travels to England and begins preying on victims in Whitby, a small group led by Professor Abraham Van Helsing must hunt him down. This seminal work of Gothic fiction has become the centrepiece of vampire literature, profoundly shaping the popular conception of vampires for generations. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Dracula, Count (Fictitious character) -- Fiction",
+          "Epistolary fiction",
+          "Gothic fiction",
+          "Horror tales",
+          "Transylvania (Romania) -- Fiction",
+          "Vampires -- Fiction",
+          "Whitby (England) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy",
+          "Gothic Fiction",
+          "Horror",
+          "Movie Books",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/345.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/345.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/345.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/345.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/345/pg345.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/345/pg345-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/345.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/345/345-0.txt"
+        },
+        "download_count": 103941
+      },
+      {
+        "id": 2868,
+        "title": "The Green Mummy",
+        "authors": [
+          {
+            "name": "Hume, Fergus",
+            "birth_year": 1859,
+            "death_year": 1932
+          }
+        ],
+        "summaries": [
+          "\"The Green Mummy\" by Fergus Hume is a novel likely written during the late 19th century. The story revolves around a young couple, Archie Hope and Lucy Kendal, as they navigate romance against a backdrop filled with mystery and intrigue, particularly centering on a rare mummy that Lucy's archaeologist stepfather, Professor Braddock, is eager to acquire.  At the start of the novel, readers are introduced to Archie and Lucy, who share a playful yet serious conversation about their engagement. Archie reveals the lengths he has gone to in order to gain Professor Braddock’s consent to marry Lucy, involving the purchase of a valuable Peruvian mummy from Malta. Their lighthearted banter is soon overshadowed by more foreboding concerns regarding the mysterious mummy, as Lucy expresses unease about her stepfather's obsession with archaeology. The opening establishes a combination of romantic elements and hints at darker, unforeseen complications, setting the stage for a larger mystery involving the disappearance of the mummy and the tragic fate of Braddock’s assistant, which subsequently unfolds. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Detective and mystery stories",
+          "Fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2868.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2868.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2868.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2868.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2868/pg2868.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/2868/2868-0.zip",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2868/2868.txt",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2868.txt.utf-8"
+        },
+        "download_count": 101171
+      },
+      {
+        "id": 62215,
+        "title": "Le Fantôme de l'Opéra",
+        "authors": [
+          {
+            "name": "Leroux, Gaston",
+            "birth_year": 1868,
+            "death_year": 1927
+          }
+        ],
+        "summaries": [
+          "\"Le Fantôme de l'Opéra\" by Gaston Leroux is a Gothic horror novel first published in 1909-1910. Set in the Paris Opera House, the story follows mysterious events surrounding a disfigured figure known as the Phantom. When young soprano Christine Daaé captures his obsession, a dangerous love triangle emerges between Christine, the Phantom, and her childhood love Raoul. As the Phantom's demands grow darker and more desperate, lives hang in the balance beneath the opera house. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Composers -- Fiction",
+          "French fiction -- 20th century",
+          "Horror tales",
+          "Musical fiction",
+          "Opera -- Fiction",
+          "Paris (France) -- Fiction",
+          "Phantom of the Opera (Fictitious character) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: French Literature",
+          "Category: Novels",
+          "Category: Romance",
+          "FR Littérature",
+          "FR Nouveautés"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/62215.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/62215.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/62215.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/62215.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/62215/pg62215.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/62215/pg62215-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/62215.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/62215/62215-0.txt"
+        },
+        "download_count": 101041
+      },
+      {
+        "id": 43,
+        "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+        "authors": [
+          {
+            "name": "Stevenson, Robert Louis",
+            "birth_year": 1850,
+            "death_year": 1894
+          }
+        ],
+        "summaries": [
+          "\"The Strange Case of Dr. Jekyll and Mr. Hyde\" by Robert Louis Stevenson is a Gothic horror novella published in 1886. When London lawyer Gabriel John Utterson investigates strange occurrences involving his old friend Dr. Henry Jekyll and a murderous criminal named Edward Hyde, he uncovers a disturbing mystery. This defining work of Gothic horror explores the duality of human nature and has profoundly influenced popular culture, making \"Jekyll and Hyde\" synonymous with hidden evil beneath respectable appearances. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Horror tales",
+          "London (England) -- Fiction",
+          "Multiple personality -- Fiction",
+          "Physicians -- Fiction",
+          "Psychological fiction",
+          "Science fiction",
+          "Self-experimentation in medicine -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Horror",
+          "Movie Books",
+          "Precursors of Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/43.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/43.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/43.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/43.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/43/pg43.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/43/43-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/43.txt.utf-8"
+        },
+        "download_count": 97689
+      },
+      {
+        "id": 1260,
+        "title": "Jane Eyre: An Autobiography",
+        "authors": [
+          {
+            "name": "Brontë, Charlotte",
+            "birth_year": 1816,
+            "death_year": 1855
+          }
+        ],
+        "summaries": [
+          "\"Jane Eyre: An Autobiography\" by Charlotte Brontë is a novel published in 1847. It follows the life of Jane Eyre from her oppressed childhood through her education and into adulthood, where she becomes governess at Thornfield Hall and falls in love with the mysterious Mr. Rochester. Told through intimate first-person narrative, this groundbreaking bildungsroman explores moral and spiritual development while addressing class, religion, sexuality, and feminism. The story unfolds across five distinct stages, each shaping Jane's journey toward independence and belonging. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Bildungsromans",
+          "Charity-schools -- Fiction",
+          "Country homes -- Fiction",
+          "England -- Fiction",
+          "Fathers and daughters -- Fiction",
+          "Governesses -- Fiction",
+          "Love stories",
+          "Married people -- Fiction",
+          "Mentally ill women -- Fiction",
+          "Orphans -- Fiction",
+          "Young women -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1260.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1260.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1260.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1260.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1260/pg1260.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1260/pg1260-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1260.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1260/1260-0.txt"
+        },
+        "download_count": 95505
+      },
+      {
+        "id": 8492,
+        "title": "The King in Yellow",
+        "authors": [
+          {
+            "name": "Chambers, Robert W. (Robert William)",
+            "birth_year": 1865,
+            "death_year": 1933
+          }
+        ],
+        "summaries": [
+          "\"The King in Yellow\" by Robert W. Chambers is a collection of short stories published in 1895. The book opens with supernatural horror tales connected by a forbidden play that drives readers to madness. A mysterious entity called the King in Yellow, an eerie Yellow Sign, and the cursed play itself haunt the first four stories, set in a future 1920s America and Paris. The collection gradually shifts tone, ending with romantic tales, but the opening horror stories have earned acclaim as classics of weird fiction. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Horror tales, American",
+          "Short stories, American",
+          "United States -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Category: Short Stories",
+          "Horror"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/8492.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/8492.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8492.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/8492.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/8492/pg8492.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/8492/pg8492-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/8492.txt.utf-8"
+        },
+        "download_count": 93459
+      },
+      {
+        "id": 2554,
+        "title": "Crime and Punishment",
+        "authors": [
+          {
+            "name": "Dostoyevsky, Fyodor",
+            "birth_year": 1821,
+            "death_year": 1881
+          }
+        ],
+        "summaries": [
+          "\"Crime and Punishment\" by Fyodor Dostoevsky is a novel published in 1866. It follows Rodion Raskolnikov, an impoverished former law student in Saint Petersburg who plans to murder an unscrupulous pawnbroker. He convinces himself that certain crimes are justifiable if committed by \"extraordinary\" men pursuing higher goals. Once the deed is done, however, he is consumed by confusion, paranoia, and guilt as his theoretical justifications crumble and he faces the internal and external consequences of his actions. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Garnett, Constance",
+            "birth_year": 1861,
+            "death_year": 1946
+          }
+        ],
+        "subjects": [
+          "Crime -- Psychological aspects -- Fiction",
+          "Detective and mystery stories",
+          "Murder -- Fiction",
+          "Psychological fiction",
+          "Saint Petersburg (Russia) -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Russian Literature",
+          "Crime Fiction",
+          "Harvard Classics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2554.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2554.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2554.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2554.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2554/pg2554.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2554/pg2554-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2554.txt.utf-8"
+        },
+        "download_count": 93352
+      },
+      {
+        "id": 145,
+        "title": "Middlemarch",
+        "authors": [
+          {
+            "name": "Eliot, George",
+            "birth_year": 1819,
+            "death_year": 1880
+          }
+        ],
+        "summaries": [
+          "\"Middlemarch\" by George Eliot is a novel published in 1871-1872. Set in a fictional English Midlands town from 1829 to 1832, it weaves together multiple intersecting stories exploring the status of women, marriage, idealism, and political reform. The narrative follows Dorothea Brooke's search for purpose, Dr. Lydgate's medical ambitions, and several other inhabitants navigating love, debt, scandal, and social change against the backdrop of the approaching Reform Act of 1832. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Bildungsromans",
+          "City and town life -- Fiction",
+          "Didactic fiction",
+          "Domestic fiction",
+          "England -- Fiction",
+          "Love stories",
+          "Married people -- Fiction",
+          "Young women -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Historical Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/145.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/145.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/145.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/145.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/145/pg145.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/145/pg145-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/145.txt.utf-8"
+        },
+        "download_count": 85772
+      },
+      {
+        "id": 1695,
+        "title": "The Man Who Was Thursday: A Nightmare",
+        "authors": [
+          {
+            "name": "Chesterton, G. K. (Gilbert Keith)",
+            "birth_year": 1874,
+            "death_year": 1936
+          }
+        ],
+        "summaries": [
+          "\"The Man Who Was Thursday: A Nightmare\" by G. K. Chesterton is a philosophical novel with elements of adventure and satire, written in the late 19th century. The story revolves around the enigmatic character Gabriel Syme, a police detective who infiltrates a group of anarchists in London to uncover their plans and identities. As the narrative unfolds, it explores complex themes of order, chaos, and the nature of evil, often through witty dialogue and absurd situations that challenge conventional thinking.  At the start of the novel, readers are introduced to the suburb of Saffron Park, with its colorful and eccentric inhabitants, primarily poets and artists. One evening, during a striking sunset, the anarchistic poet Lucian Gregory meets Gabriel Syme, who surprises him with bold arguments in favor of law and order, challenging Gregory's views. Their conversation escalates into a duel of ideologies when Gregory reveals his deep commitment to anarchism, which leads to a confrontation between the two. In a twist of fate, Syme's true identity as a detective is disclosed, and as he joins the anarchists disguised as one of them, the stage is set for a profound exploration of the philosophical conflict between chaos and structure in society. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Allegories",
+          "Anarchists -- Fiction",
+          "Detective and mystery stories",
+          "Fantasy fiction",
+          "London (England) -- Fiction",
+          "Police -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1695.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1695.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1695.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1695.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1695/pg1695.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/1695/1695-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1695.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1695/1695-0.txt"
+        },
+        "download_count": 85198
+      },
+      {
+        "id": 564,
+        "title": "The Mystery of Edwin Drood",
+        "authors": [
+          {
+            "name": "Dickens, Charles",
+            "birth_year": 1812,
+            "death_year": 1870
+          }
+        ],
+        "summaries": [
+          "\"The Mystery of Edwin Drood\" by Charles Dickens is a novel published in 1870. Dickens's final and unfinished work centers on John Jasper, a cathedral choirmaster and opium addict who desires his pupil Rosa Bud—the fiancée of his nephew Edwin Drood. When Edwin vanishes mysteriously after a tense reconciliation dinner with his rival Neville Landless, suspicion falls on Neville while Jasper's dark obsessions deepen. Set in the cathedral town of Cloisterham, this mystery remains unsolved, as Dickens died before revealing its conclusion. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Cathedrals -- Fiction",
+          "Choral conductors -- Fiction",
+          "England -- Fiction",
+          "Missing persons -- Fiction",
+          "Mystery fiction",
+          "Psychological fiction",
+          "Separation (Psychology) -- Fiction",
+          "Triangles (Interpersonal relations) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/564.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/564.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/564.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/564.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/564/pg564.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/564/564-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/564.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/564/564-0.txt"
+        },
+        "download_count": 82040
+      },
+      {
+        "id": 84,
+        "title": "Frankenstein; or, the modern prometheus",
+        "authors": [
+          {
+            "name": "Shelley, Mary Wollstonecraft",
+            "birth_year": 1797,
+            "death_year": 1851
+          }
+        ],
+        "summaries": [
+          "\"Frankenstein; Or, The Modern Prometheus\" by Mary Wollstonecraft Shelley is a Gothic novel published in 1818. It tells the story of Victor Frankenstein, a young scientist who creates a living creature from assembled body parts in an unorthodox experiment. When the creature awakens, Victor flees in horror, abandoning his creation. The conscious being must navigate a world that fears him, learning language and seeking connection, only to face repeated rejection. Embittered and alone, the creature confronts his creator with a desperate request that will set both on a dark path of vengeance and tragedy. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Frankenstein's monster (Fictitious character) -- Fiction",
+          "Frankenstein, Victor (Fictitious character) -- Fiction",
+          "Gothic fiction",
+          "Horror tales",
+          "Monsters -- Fiction",
+          "Science fiction",
+          "Scientists -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy",
+          "Gothic Fiction",
+          "Movie Books",
+          "Precursors of Science Fiction",
+          "Science Fiction by Women"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/84.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/84.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/84.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/84.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/84/pg84-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/84.txt.utf-8"
+        },
+        "download_count": 82024
+      },
+      {
+        "id": 53874,
+        "title": "Under the Red Dragon: A Novel",
+        "authors": [
+          {
+            "name": "Grant, James",
+            "birth_year": 1822,
+            "death_year": 1887
+          }
+        ],
+        "summaries": [
+          "\"Under the Red Dragon\" by James Grant is a historical novel written in the late 19th century. Set against the backdrop of military life during a time of conflict, the story centers on Lieutenant Harry Hardinge, who navigates his feelings for Lady Estelle Cressingham while juggling his duties as a soldier. The narrative unfolds in a period filled with romance, social dynamics, and the looming specter of war, specifically the Crimean War.  The opening of the novel introduces Lieutenant Harry Hardinge and his fellow officers as they lament their stagnant lives at barracks while anticipating possible deployment to the warfront. A letter from Sir Madoc Lloyd invites Hardinge to Craigaderyn Court, where he hopes to reunite with old friends, particularly Winifred Lloyd, whom he finds enchanting. As the chapter progresses, Hardinge reflects on his unrequited love for Lady Estelle Cressingham, who is present at the court, adding layers of drama and internal conflict to his military existence. These themes of love, ambition, and social status are richly intertwined in the early chapters, foreshadowing the complexities of relationships in the context of war. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Crimean War, 1853-1856 -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Historical Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/53874.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/53874.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/53874.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/53874.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/53874/pg53874.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/53874/pg53874-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/53874.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/53874/53874-0.txt"
+        },
+        "download_count": 81959
+      },
+      {
+        "id": 6133,
+        "title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
+        "authors": [
+          {
+            "name": "Leblanc, Maurice",
+            "birth_year": 1864,
+            "death_year": 1941
+          }
+        ],
+        "summaries": [
+          "\"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar\" by Maurice Leblanc is a collection of stories published in 1907. This debut collection introduces the charming and cunning Arsène Lupin, a master thief who outsmarts police and high society alike. Through nine tales of daring heists, clever disguises, and audacious escapes, Lupin proves himself an unmatched criminal genius. From shipboard robberies to prison breaks, he taunts authorities—including a famous English detective—while stealing priceless treasures with impeccable style and wit. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Adventure stories, French -- Translations into English",
+          "Burglars -- Fiction",
+          "Lupin, Arsène (Fictitious character) -- Fiction",
+          "Mystery and detective stories",
+          "Short stories"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: French Literature",
+          "Category: Novels",
+          "Crime Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/6133.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/6133.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6133.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/6133.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/6133/pg6133.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/6133/pg6133-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/6133.txt.utf-8"
+        },
+        "download_count": 81952
+      },
+      {
+        "id": 42,
+        "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+        "authors": [
+          {
+            "name": "Stevenson, Robert Louis",
+            "birth_year": 1850,
+            "death_year": 1894
+          }
+        ],
+        "summaries": [
+          "\"The Strange Case of Dr. Jekyll and Mr. Hyde\" by Robert Louis Stevenson is a Gothic horror novella published in 1886. When London lawyer Gabriel John Utterson investigates strange occurrences involving his old friend Dr. Henry Jekyll and a murderous criminal named Edward Hyde, he uncovers a disturbing mystery. This defining work of Gothic horror explores the duality of human nature, examining how good and evil can intertwine within a single person. The story's impact endures today, with \"Jekyll and Hyde\" becoming synonymous with those who possess hidden, shocking darkness. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Horror tales",
+          "London (England) -- Fiction",
+          "Multiple personality -- Fiction",
+          "Physicians -- Fiction",
+          "Psychological fiction",
+          "Science fiction",
+          "Self-experimentation in medicine -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Gothic Fiction",
+          "Horror",
+          "Movie Books",
+          "Precursors of Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/42.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/42.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/42.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/42/pg42.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/42/42-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/42.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42/42-0.txt"
+        },
+        "download_count": 81534
+      },
+      {
+        "id": 601,
+        "title": "The Monk: A Romance",
+        "authors": [
+          {
+            "name": "Lewis, M. G. (Matthew Gregory)",
+            "birth_year": 1775,
+            "death_year": 1818
+          }
+        ],
+        "summaries": [
+          "\"The Monk: A Romance\" by M. G. Lewis is a Gothic novel published in 1796. It follows Ambrosio, a virtuous monk who succumbs to forbidden desires when a mysterious figure infiltrates his monastery. His fall from grace spirals into a dark tale of lust, murder, and demonic pacts. Scandalous for its sexually explicit content and themes of rape and incest, it became the most controversial Gothic novel of the 18th century, shocking readers while achieving immense popularity and influencing the horror genre. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Gothic fiction",
+          "Horror tales",
+          "Madrid (Spain) -- Fiction",
+          "Monks -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Category: Romance",
+          "Gothic Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/601.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/601.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/601.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/601.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/601/pg601.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/601/601-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/601.txt.utf-8"
+        },
+        "download_count": 81058
+      },
+      {
+        "id": 76639,
+        "title": "Eloisa : $b or, A series of original letters",
+        "authors": [
+          {
+            "name": "Rousseau, Jean-Jacques",
+            "birth_year": 1712,
+            "death_year": 1778
+          }
+        ],
+        "summaries": [
+          "Eloisa: or, A series of original letters is the first English translation of Julie, ou La Nouvelle Heloise by the Swiss philosopher Jean-Jacques Rousseau. Written in letters, Eloisa concerns the forbidden love between a middle-rank tutor named St. Preux and his aristocratic student, the titular Eloisa. As different characters comment on the interclass romance, the novel examines prescient topics such as social rank, premarital sex, women's autonomy, and the definition of virtue. Prefatory materials include a meta-fictional dialogue wherein Rousseau debates the moral merit of his novel as well as a translator's note and a contemporary review by a Parisian journal. The novel is then structured as four volumes. The first and second volumes valorize the passionate young lovers, who are ultimately compelled to part. The third and fourth volumes revisit the characters years later. Eloisa has become a devoted wife and mother, while St. Preux has taken to the sea. They reunite at Eloisa's country manor and, through the case study of Eloisa's household, propose a unique vision of domestic bliss. The novel's surprising and controversial ending prompts readers to grapple with its central themes and questions.",
+          "This book concerns the forbidden love between a middle-rank tutor named St. Preux and his aristocratic student, the titular Eloisa."
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Kenrick, W. (William)",
+            "birth_year": null,
+            "death_year": 1779
+          }
+        ],
+        "subjects": [
+          "Alps Region -- History -- 18th century -- Fiction",
+          "Epistolary fiction",
+          "French fiction -- Translations into English",
+          "Man-woman relationships -- Fiction",
+          "Psychological fiction",
+          "Women -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: French Literature",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/76639.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/76639.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/76639.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/76639.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/76639/pg76639.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/76639/pg76639-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/76639.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/76639/76639-0.txt"
+        },
+        "download_count": 78866
+      },
+      {
+        "id": 2852,
+        "title": "The Hound of the Baskervilles",
+        "authors": [
+          {
+            "name": "Doyle, Arthur Conan",
+            "birth_year": 1859,
+            "death_year": 1930
+          }
+        ],
+        "summaries": [
+          "\"The Hound of the Baskervilles\" by Arthur Conan Doyle is a crime novel serialized from 1901 to 1902. Sherlock Holmes and Watson investigate a centuries-old legend of a demonic hound haunting the Baskerville family on the desolate moors of Dartmoor. When Sir Charles Baskerville dies under mysterious circumstances, his heir Sir Henry arrives from Canada to claim his inheritance—only to face strange threats and supernatural dangers. Holmes must determine whether the curse is real or if a cunning murderer lurks behind the legend. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Blessing and cursing -- Fiction",
+          "Dartmoor (England) -- Fiction",
+          "Detective and mystery stories",
+          "Dogs -- Fiction",
+          "Holmes, Sherlock (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Bestsellers, American, 1895-1923",
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2852.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2852.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2852.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2852.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2852/pg2852.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2852/pg2852-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2852.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2852/2852-0.txt"
+        },
+        "download_count": 75965
+      },
+      {
+        "id": 75201,
+        "title": "A farewell to arms",
+        "authors": [
+          {
+            "name": "Hemingway, Ernest",
+            "birth_year": 1899,
+            "death_year": 1961
+          }
+        ],
+        "summaries": [
+          "\"A farewell to arms\" by Ernest Hemingway is a novel first published in 1929. Set during World War I's Italian campaign, it follows American lieutenant Frederic Henry, who serves in the Italian ambulance corps. When he meets English nurse Catherine Barkley, a passionate love affair develops against the brutal backdrop of war. As battle intensifies and their relationship deepens, the lovers face devastating choices that will test whether their bond can survive the chaos surrounding them. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Man-woman relationships -- Fiction",
+          "Military deserters -- Fiction",
+          "Military hospitals -- Fiction",
+          "Soldiers -- United States -- Fiction",
+          "War stories",
+          "War wounds -- Fiction",
+          "World War, 1914-1918 -- Campaigns -- Italy -- Fiction",
+          "World War, 1914-1918 -- Fiction",
+          "World War, 1914-1918 -- Medical care -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Classics of Literature",
+          "Category: History - Warfare",
+          "Category: Novels",
+          "Category: Romance",
+          "Nobel Prizes in Literature"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/75201.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/75201.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/75201.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/75201.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/75201/pg75201.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/75201/pg75201-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/75201.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/75201/75201-0.txt"
+        },
+        "download_count": 75011
+      },
+      {
+        "id": 468,
+        "title": "Manon Lescaut",
+        "authors": [
+          {
+            "name": "Prévost, abbé",
+            "birth_year": 1697,
+            "death_year": 1763
+          }
+        ],
+        "summaries": [
+          "\"Manon Lescaut\" by Abbé Prévost is a novel first published in 1731. It tells the tragic love story of a young nobleman and a common woman who choose to live together unmarried, beginning a moral descent into gambling, fraud, and crime. Their passionate relationship leads them from Paris to imprisonment and ultimately to deportation in New Orleans. Narrated retrospectively by the Chevalier des Grieux, this confessional tale shocked eighteenth-century readers with its realistic depiction of society's underbelly and became one of French literature's most reprinted classics. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Adventure stories",
+          "Lescaut, Manon, 1689-1721 -- Fiction",
+          "Man-woman relationships -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: French Literature",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/468.html.images",
+          "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/468/468-h/468-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/468.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/468.kf8.images",
+          "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/468/468-8.txt",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/468.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/468/pg468.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/468/pg468-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/468.txt.utf-8"
+        },
+        "download_count": 74997
+      },
+      {
+        "id": 51428,
+        "title": "That Which Hath Wings: A Novel of the Day",
+        "authors": [
+          {
+            "name": "Dehan, Richard",
+            "birth_year": 1863,
+            "death_year": 1932
+          }
+        ],
+        "summaries": [
+          "\"That Which Hath Wings: A Novel of the Day\" by Richard Dehan is a novel written in the early 20th century. The story centers around the lives of Francis, Viscount Norwater, and his wife Margot, who navigate the trials and tribulations of their newlywed life just before the onset of World War I. Their passionate romance is juxtaposed against societal expectations and Miss Margot's struggle with the idea of motherhood which complicates their relationship.  At the start of the novel, we are introduced to Franky and Margot on the occasion of their wedding in January 1914. The narrative captures their vibrant courtship, set against the backdrop of a glamorous but superficial social scene. Yet, their idyllic life takes a drastic turn as Margot grapples with the implications of impending motherhood and societal pressure, leading to poignant conversations between the couple. This opening sets the stage for the exploration of love, societal norms, and the looming shadows of war that threaten to reshape their lives. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "World War, 1914-1918 -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/51428.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/51428.epub3.images",
+          "application/pdf": "https://www.gutenberg.org/ebooks/51428.pdf.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51428.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/51428.rdf",
+          "text/x-rst": "https://www.gutenberg.org/ebooks/51428.rst.gen",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/51428/pg51428.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/51428/51428-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/51428.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/51428/51428-0.txt"
+        },
+        "download_count": 74360
+      },
+      {
+        "id": 2148,
+        "title": "The Works of Edgar Allan Poe — Volume 2",
+        "authors": [
+          {
+            "name": "Poe, Edgar Allan",
+            "birth_year": 1809,
+            "death_year": 1849
+          }
+        ],
+        "summaries": [
+          "\"The Works of Edgar Allan Poe — Volume 2\" by Edgar Allan Poe is a collection of literary works, including short stories and essays, written during the early to mid-19th century. This volume contains a range of tales that delve into themes of mystery, horror, and the uncanny, showcasing Poe's mastery of suspenseful and psychological storytelling. Notable pieces include \"The Purloined Letter,\" which features the brilliant detective C. Auguste Dupin as he solves a complex crime involving a stolen letter of great importance, highlighting both the ingenuity of the detective and the folly of the authorities.  The opening of the volume features \"The Purloined Letter,\" where the narrator and Dupin engage in deep contemplation over previous mysteries when they are visited by Monsieur G, the Prefect of the Parisian police. The Prefect brings details of a perplexing case involving a missing letter that holds significant political power, stolen by the Minister D. As the Prefect describes his failed attempts to recover the letter, Dupin's insights reveal that the straightforward nature of the theft has eluded the authorities. The narrative sets a tone of intellectual intrigue as Dupin prepares to outsmart both the Prefect and the clever Minister, emphasizing Poe’s exploration of human intellect and the nature of perception. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "American fiction -- 19th century",
+          "Fantasy fiction",
+          "Horror tales, American",
+          "Short stories"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories",
+          "Detective Fiction",
+          "Gothic Fiction",
+          "Horror",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2148.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2148.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2148.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2148.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2148/pg2148.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2148/pg2148-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2148.txt.utf-8"
+        },
+        "download_count": 73908
+      },
+      {
+        "id": 53154,
+        "title": "Cameron of Lochiel",
+        "authors": [
+          {
+            "name": "Aubert de Gaspé, Philippe",
+            "birth_year": 1786,
+            "death_year": 1871
+          }
+        ],
+        "summaries": [
+          "\"Cameron of Lochiel\" by Philippe Aubert de Gaspé is a historical romance written in the mid-19th century. The narrative centers around Archibald Cameron of Lochiel, a young Scotch exile in Canada, and his friendship with Jules D'Haberville, a Canadian seigneur's son. The story explores themes of identity, loyalty, and the cultural interplay between French and English Canadian societies during a time of political tension.  At the start of the novel, readers are introduced to the vibrant life in Quebec as two young men, Jules D'Haberville and Archibald Cameron, prepare to part ways after their studies at the Jesuits' College. The opening portrays their camaraderie, showcasing Jules's lively personality against Archie's more reserved nature, hinting at the deep bond that will be tested by their differing allegiances in the brewing conflicts of their era. As they prepare to navigate their futures, the story promises a rich exploration of their friendship against the backdrop of Canada’s historical landscape, filled with cultural references, local traditions, and the trials faced by exiles and Canadians alike. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Roberts, Charles G. D., Sir",
+            "birth_year": 1860,
+            "death_year": 1943
+          }
+        ],
+        "subjects": [
+          "Canada -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: French Literature",
+          "Category: Historical Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/53154.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/53154.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/53154.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/53154.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/53154/pg53154.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/53154/pg53154-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/53154.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/53154/53154-0.txt"
+        },
+        "download_count": 71985
+      }
+    ]
+  }
+}

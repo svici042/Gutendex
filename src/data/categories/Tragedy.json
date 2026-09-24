@@ -1,0 +1,1357 @@
+{
+  "source": "https://gutendex.com/books?topic=Tragedy",
+  "query": "/books?topic=Tragedy",
+  "fetchedAt": "2026-09-23T14:29:32.771Z",
+  "data": {
+    "count": 31,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "id": 51356,
+        "title": "The Birth of Tragedy; or, Hellenism and Pessimism",
+        "authors": [
+          {
+            "name": "Nietzsche, Friedrich Wilhelm",
+            "birth_year": 1844,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"The Birth of Tragedy; or, Hellenism and Pessimism\" by Friedrich Wilhelm Nietzsche is a work of dramatic theory published in 1872. Nietzsche introduces a bold dichotomy between the Dionysian and Apollonian forces—disorder versus order—that he believed shaped ancient Greek tragedy. He argues that Greek tragedy achieved art's highest form by uniting these opposing elements, allowing audiences to experience the full human condition. Nietzsche traces tragedy's decline through rationalism and suggests Richard Wagner's operas might revive this lost balance. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Levy, Oscar",
+            "birth_year": 1867,
+            "death_year": 1946
+          }
+        ],
+        "translators": [
+          {
+            "name": "Haussmann, William A.",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "subjects": [
+          "Aesthetics",
+          "Greek drama (Tragedy) -- History and criticism -- Theory, etc.",
+          "Music -- Philosophy and aesthetics",
+          "Mythology, Greek, in literature",
+          "Tragedy",
+          "Tragic, The"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/51356.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/51356.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51356.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/51356.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/51356/pg51356.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/51356/pg51356-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/51356.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/51356/51356-0.txt"
+        },
+        "download_count": 17136
+      },
+      {
+        "id": 31,
+        "title": "Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone",
+        "authors": [
+          {
+            "name": "Sophocles",
+            "birth_year": -496,
+            "death_year": -406
+          }
+        ],
+        "summaries": [
+          "\"Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone\" by Sophocles is a collection of classic Greek tragedies likely written in the 5th century BC. The central themes explore fate, free will, and the tragic consequences of human actions, revolving mainly around the lives of Oedipus and his family, highlighting his fall from grace and the ensuing curses that plague his lineage.  The opening of \"Oedipus the King\" sets the stage in Thebes, where King Oedipus learns about a devastating plague afflicting his city. As he vows to find the cause, he is determined to uncover the truth, leading him down a path of self-discovery and horrifying realizations about his identity and past. The characters introduced, including the priest, Creon, and the blind seer Teiresias, foreshadow the tragic unraveling of Oedipus's life, particularly as themes of hubris and fate begin to prevail, laying the groundwork for the unfolding tragedy. The pleads of the Theban citizens highlight the desperation of those under Oedipus’s reign, marking him as both a capable but ultimately doomed leader. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Storr, Francis",
+            "birth_year": 1839,
+            "death_year": 1919
+          }
+        ],
+        "subjects": [
+          "Antigone (Mythological character) -- Drama",
+          "Greek drama (Tragedy) -- Translations into English",
+          "Oedipus (Greek mythological figure) -- Drama",
+          "Tragedies (Drama)"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: Classics of Literature",
+          "Category: Plays/Films/Dramas",
+          "Harvard Classics",
+          "Plays"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/31.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/31.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/31.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/31/pg31.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/31/31-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/31.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/31/31-0.txt"
+        },
+        "download_count": 4497
+      },
+      {
+        "id": 268,
+        "title": "The Octopus : A Story of California",
+        "authors": [
+          {
+            "name": "Norris, Frank",
+            "birth_year": 1870,
+            "death_year": 1902
+          }
+        ],
+        "summaries": [
+          "\"The Octopus: A Story of California\" by Frank Norris is a novel published in 1901. It chronicles the brutal conflict between wheat farmers in California's San Joaquin Valley and a powerful railroad corporation seeking to seize their land. As ranchers band together to defend their livelihoods against monopolistic forces, loyalties fracture, violence erupts, and lives are destroyed. Through bribery, betrayal, and bloodshed, Norris depicts how impersonal economic powers crush individuals caught in their path, culminating in tragedy for both the innocent and the corrupt. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "California -- Fiction",
+          "Didactic fiction",
+          "Farm life -- Fiction",
+          "Farmers -- Fiction",
+          "Mussel Slough Tragedy, 1880 -- Fiction",
+          "Railroad stories",
+          "San Joaquin Valley (Calif.) -- Fiction",
+          "Wheat farmers -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/268.html.images",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/268/268-h/268-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/268.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/268.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/268.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/268/pg268.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/268/pg268-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/268.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/268/268.txt"
+        },
+        "download_count": 1445
+      },
+      {
+        "id": 69344,
+        "title": "Poine: a study in ancient Greek blood-vengeance",
+        "authors": [
+          {
+            "name": "Treston, Hubert Joseph",
+            "birth_year": 1888,
+            "death_year": 1959
+          }
+        ],
+        "summaries": [
+          "\"Poine: a study in ancient Greek blood-vengeance\" by Hubert Joseph Treston is a scholarly examination written in the early 20th century. The work delves into the complex aspects of blood-vengeance in ancient Greek society, particularly as depicted in Homeric texts. The author aims to illuminate various forms of vendetta, their underlying principles, and how these customs evolved within Greek civilization.  At the start of the study, Treston outlines the purpose of his analysis, emphasizing the lack of comprehensive works specifically addressing Greek blood-vengeance. He categorizes vengeance methods among different cultures, including unrestricted vendetta and tribal compensation systems like wergeld, setting the tone for a thorough exploration of these themes. The opening establishes Treston’s argument that understanding blood-vengeance is crucial to grasping the broader sociocultural and legal frameworks of ancient Greek life, engaging with Homeric texts to support his analyses. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Criminal law (Greek law)",
+          "Greece -- Civilization",
+          "Greek drama (Tragedy) -- History and criticism",
+          "Homicide (Greek law)",
+          "Vendetta"
+        ],
+        "bookshelves": [
+          "Category: Archaeology & Anthropology",
+          "Category: History - Ancient",
+          "Category: Law & Criminology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/69344.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/69344.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69344.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/69344.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/69344/pg69344.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/69344/pg69344-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/69344.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69344/69344-0.txt"
+        },
+        "download_count": 1006
+      },
+      {
+        "id": 36011,
+        "title": "Œuvres de P. Corneille, Tome 03",
+        "authors": [
+          {
+            "name": "Corneille, Pierre",
+            "birth_year": 1606,
+            "death_year": 1684
+          }
+        ],
+        "summaries": [
+          "\"Œuvres de P. Corneille, Tome 03\" by Pierre Corneille is a collection of dramatic works written in the early 17th century. This volume features some of Corneille's renowned plays, including his famous tragedy \"Le Cid.\" The text explores themes of honor, love, and the complexity of human relationships, presenting characters such as Rodrigue and Chimène, whose passionate and tumultuous interactions serve as a central focus.  The opening of this volume provides insight into the background and significance of \"Le Cid,\" recounting its creation and the impact it had upon its release. The narrative begins with a commentary on the influence of M. de Chalon, who encouraged Corneille to explore Spanish subjects for dramatization. It details Corneille's initial studies and inspirations taken from Spanish literature, leading to the crafting of a masterpiece that garnered widespread acclaim and sparked debate about its adherence to the rules of drama. The piece gained immense popularity at the court and in Paris, despite facing criticism from contemporaries, highlighting both its dramatic merits and the controversies surrounding its stylistic choices. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "French drama (Tragedy) -- 17th century"
+        ],
+        "bookshelves": [
+          "Category: French Literature",
+          "Category: Plays/Films/Dramas",
+          "FR Théâtre"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/36011.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/36011/36011-8.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/36011.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/36011.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/36011.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/36011.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/36011/pg36011.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/36011/36011-8.zip"
+        },
+        "download_count": 997
+      },
+      {
+        "id": 7073,
+        "title": "Specimens of Greek Tragedy — Aeschylus and Sophocles",
+        "authors": [
+          {
+            "name": "Sophocles",
+            "birth_year": -496,
+            "death_year": -406
+          },
+          {
+            "name": "Aeschylus",
+            "birth_year": -525,
+            "death_year": -456
+          }
+        ],
+        "summaries": [
+          "\"Specimens of Greek Tragedy\" by Aeschylus and Sophocles is a collection of translated excerpts of ancient Greek plays that dates back to the late 19th century. The book serves as an insightful resource into the realm of Greek drama, exploring key themes such as fate, morality, and the dichotomy between human desire and divine intervention. Two of the most significant playwrights represented are Aeschylus, considered the father of tragedy, and Sophocles, who successfully advanced the genre with deeper character development and complex plots.  The opening of the collection provides a comprehensive preface discussing the origins and evolution of Greek drama, emphasizing its beginnings associated with religious festivals honoring Dionysus. It highlights the dramatic structure and the use of chorus, along with detailed discussions of the plays' thematic essence and the societal context in which they were performed. From Prometheus's defiance against Zeus and the tragic demise of Agamemnon to the heart-wrenching narratives of familial duty and betrayal in Electra, the beginning of this compilation sets the stage for understanding the powerful emotional and philosophical undercurrents that defined Greek tragedy. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Smith, Goldwin",
+            "birth_year": 1823,
+            "death_year": 1910
+          }
+        ],
+        "subjects": [
+          "Greek drama (Tragedy) -- Translations into English"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Plays/Films/Dramas",
+          "Classical Antiquity",
+          "Harvard Classics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/7073.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/7073.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/7073.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/7073.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/7073/pg7073.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/7073/7073-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/7073.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/7073/7073-8.txt"
+        },
+        "download_count": 951
+      },
+      {
+        "id": 7206,
+        "title": "Die Geburt der Tragödie: Versuch einer Selbstkritik",
+        "authors": [
+          {
+            "name": "Nietzsche, Friedrich Wilhelm",
+            "birth_year": 1844,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"Die Geburt der Tragödie: Versuch einer Selbstkritik\" by Friedrich Wilhelm Nietzsche is a philosophical work published in 1872. Nietzsche challenges the classical view of ancient Greeks as purely cheerful, revealing instead a tragic worldview. He introduces his theory of two opposing artistic forces embodied by the gods Apollo and Dionysus—the harmonious versus the ecstatic. Through analyzing Greek tragedy's birth and decline, the young philology professor presents bold cultural and aesthetic ideas that distanced him from traditional scholarship and influenced twentieth-century thought. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Aesthetics",
+          "Greek drama (Tragedy) -- History and criticism -- Theory, etc.",
+          "Music -- Philosophy and aesthetics",
+          "Mythology, Greek, in literature",
+          "Philosophy, German",
+          "Tragedy",
+          "Tragic, The"
+        ],
+        "bookshelves": [
+          "Category: Philosophy & Ethics",
+          "DE Sachbuch",
+          "Philosophy"
+        ],
+        "languages": [
+          "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/7206.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/7206.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/7206.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/7206.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/7206/pg7206.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/7206/7206-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/7206.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/7206/7206-8.txt"
+        },
+        "download_count": 870
+      },
+      {
+        "id": 39739,
+        "title": "Œuvres de P. Corneille, Tome 04",
+        "authors": [
+          {
+            "name": "Corneille, Pierre",
+            "birth_year": 1606,
+            "death_year": 1684
+          }
+        ],
+        "summaries": [
+          "\"Œuvres de P. Corneille, Tome 04\" by Pierre Corneille is a collection of dramatic works written in the 17th century. This volume primarily includes the tragedy \"Pompée,\" which explores themes of power, loyalty, and ambition against the backdrop of ancient Rome. The central figures involve the conflicted characters of Pompée, Cléopâtre, and various agents of political intrigue, demonstrating the complexity of human emotions intertwined with grand historical narratives.  The opening of \"Pompée\" sets the stage with a tense political discussion among the characters Ptolomée, Photin, and Achillas regarding the fate of the defeated general Pompée, who seeks refuge in Egypt after being overthrown. The dialogue reveals Ptolomée's inner turmoil as he weighs the decision to either protect Pompée or betray him to the rising power of Julius Caesar. As the arguments unfold, the themes of moral obligation versus self-preservation emerge, foreshadowing the intertwined destinies of Rome and Egypt as well as the tragic consequences of political decisions. The characters' motivations and the socio-political climate create a gripping introduction that draws readers into the complexities of loyalty and power dynamics in Corneille's work. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "French drama (Tragedy) -- 17th century"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: French Literature",
+          "Category: Plays/Films/Dramas",
+          "FR Théâtre"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/39739.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/39739/39739-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/39739.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/39739.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39739.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/39739.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/39739/pg39739.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/39739/39739-0.zip"
+        },
+        "download_count": 727
+      },
+      {
+        "id": 35472,
+        "title": "Euripides and His Age",
+        "authors": [
+          {
+            "name": "Murray, Gilbert",
+            "birth_year": 1866,
+            "death_year": 1957
+          }
+        ],
+        "summaries": [
+          "\"Euripides and His Age\" by Gilbert Murray is a comprehensive historical analysis written in the early 20th century. This work explores the life and significance of the ancient Greek playwright Euripides, discussing both his contributions to drama and the cultural context of his time. It examines how Euripides's innovative approaches to tragedy reflect the complexities of human experience, as well as his perspectives on society and morality.  At the start of the book, the author provides an insightful introduction into Euripides's life, highlighting his background and the ironies of his career, including his posthumous acclaim despite his struggles for recognition during his lifetime. Murray addresses the contrasting views of Euripides as a thinker and a poet, detailing how his works were received by contemporaries and their lasting impact on literature and thought. The opening sets the stage for a deeper examination of Euripides’s plays and the themes that defined his artistry, emphasizing the critical relationship between the playwright and the Athenian society of his day. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Euripides -- Criticism and interpretation",
+          "Mythology, Greek, in literature",
+          "Tragedy"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: History - Ancient",
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/35472.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/35472/35472-8.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/35472.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/35472.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/35472.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/35472.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/35472/pg35472.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/35472/35472-8.zip"
+        },
+        "download_count": 619
+      },
+      {
+        "id": 74167,
+        "title": "Greek tragedy",
+        "authors": [
+          {
+            "name": "Norwood, Gilbert",
+            "birth_year": 1880,
+            "death_year": 1954
+          }
+        ],
+        "summaries": [
+          "\"Greek Tragedy\" by Gilbert Norwood is a scholarly examination of the field of Greek tragedy written in the early 20th century. The text aims to provide classical students with essential facts while also appealing to a broader audience that seeks to appreciate these ancient plays without necessarily having knowledge of the Greek language. Norwood meticulously discusses the dramatic structure, scansion of lyrics, and the contributions of prominent playwrights like Aeschylus, Sophocles, and Euripides, providing insight into the evolution and significance of this dramatic form.  The opening of the work introduces the literary history of Greek tragedy, tracing its origins back to the worship of Dionysus and the performance of dithyrambs. It delves into how early forms of drama evolved through the contributions of figures such as Thespis, who introduced the first actor, and discusses the role of various playwrights in shaping the genre. Literary advancements, including the introduction of spoken dialogue, comedic elements, and the significance of dramatic structure, are highlighted as essential to the growth of Greek theatrical art. Overall, the beginning sets up an informative framework for understanding the profound influence and legacy of Greek tragedy in the context of both historical and contemporary literary analysis. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Greek drama (Tragedy) -- History and criticism",
+          "Mythology, Greek, in literature"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/74167.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/74167.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/74167.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/74167.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/74167/pg74167.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/74167/pg74167-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/74167.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/74167/74167-0.txt"
+        },
+        "download_count": 618
+      },
+      {
+        "id": 38711,
+        "title": "Tragedy",
+        "authors": [
+          {
+            "name": "Thorndike, Ashley Horace",
+            "birth_year": 1871,
+            "death_year": 1933
+          }
+        ],
+        "summaries": [
+          "\"Tragedy\" by Ashley H. Thorndike is a scholarly examination of English tragedy as a literary genre written in the early 20th century. The work seeks to trace the evolution of English tragedy from its origins to the mid-19th century, highlighting its significance in the development of theater and literature, with a particular focus on influential playwrights such as Shakespeare and Marlowe. The book aims to address previously neglected periods of tragedy in the 18th and 19th centuries, positioning itself as a pioneering study in this area.  The opening of \"Tragedy\" establishes the author's intention to explore the complexities of defining tragedy and its historical development. Thorndike begins by discussing the nature of tragedy, referencing key characteristics shared across various interpretations and time periods. He outlines how tragedy is distinguished from comedy and melodrama by its focus on the human experience of suffering, moral conflict, and the development of characters in crisis. Particularly noteworthy is Thorndike's acknowledgment of the influence of classical traditions on the modern understanding of tragedy, setting the stage for deeper exploration of specific playwrights and works in subsequent chapters. The opening serves as a thorough introduction to the study of tragedy, laying a foundation for the detailed analysis that follows. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "English drama (Tragedy) -- History and criticism"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/38711.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/38711/38711-8.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/38711.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/38711.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/38711.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/38711.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/38711/pg38711.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/38711/38711-8.zip"
+        },
+        "download_count": 573
+      },
+      {
+        "id": 73500,
+        "title": "Obras dramáticas de Eurípides (1 de 3)",
+        "authors": [
+          {
+            "name": "Euripides",
+            "birth_year": null,
+            "death_year": -406
+          }
+        ],
+        "summaries": [
+          "\"Obras dramáticas de Eurípides (1 de 3): Hécuba, Hipólito, Las Fenicias...\" is a collection of dramatic works attributed to Euripides, likely written in the 5th century BC. This anthology includes several of Euripides' significant tragedies that explore complex themes of human suffering, fate, and moral ambiguity, primarily focusing on characters from mythological backgrounds, including Hécuba, the former queen of Troy.   The opening of Hécuba presents a tragic narrative following the aftermath of the fall of Troy, centering on Hécuba, who grieves the losses of her children, Polidoro and Políxena, amidst betrayal and impending sacrifice. As the Greeks prepare to make Políxena a sacrificial offering to appease the spirit of Achilles, Hécuba's despair becomes palpable. The scene delves into her frantic emotional state, her pleas to Odysseus for mercy, and the harrowing family tragedies that underline both personal and collective suffering in the wake of war. The play sets a tone of impending doom, marked by themes of vengeance, the brutality of fate, and the quest for dignity in the face of overwhelming loss. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Mier, Eduardo de",
+            "birth_year": 1829,
+            "death_year": 1914
+          }
+        ],
+        "subjects": [
+          "Greek drama (Tragedy) -- Translations into Spanish"
+        ],
+        "bookshelves": [
+          "Category: Mythology, Legends & Folklore",
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "es"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/73500.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/73500.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/73500.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/73500.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/73500/pg73500.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/73500/pg73500-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/73500.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/73500/73500-0.txt"
+        },
+        "download_count": 549
+      },
+      {
+        "id": 52276,
+        "title": "竇娥冤",
+        "authors": [
+          {
+            "name": "Guan, Hanqing",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"竇娥冤\" by Hanqing Guan is a Chinese zaju play written during the Yuan dynasty (c. 1241–1320). The story follows Dou E, a young widow wrongly convicted of murder by a corrupt official. After her execution, three supernatural phenomena occur to prove her innocence: blood falling upward, snow in midsummer, and a three-year drought. Her father, now a government official, encounters her ghost and reopens the case to vindicate her and punish the guilty. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Chinese drama (Tragedy)"
+        ],
+        "bookshelves": [
+          "Category: Literature - Other",
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "zh"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/52276.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/52276.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52276.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/52276.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/52276/pg52276.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/52276/pg52276-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/52276.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/52276/52276-0.txt"
+        },
+        "download_count": 544
+      },
+      {
+        "id": 14994,
+        "title": "Stories from the Greek Tragedians",
+        "authors": [
+          {
+            "name": "Church, Alfred John",
+            "birth_year": 1829,
+            "death_year": 1912
+          }
+        ],
+        "summaries": [
+          "\"Stories from the Greek Tragedians\" by Alfred John Church is a collection of retellings of classic Greek tragedies, likely written in the late 19th century. This work aims to present the tales of well-known characters from Greek mythology, making their profound themes accessible to a modern audience. The stories explored within this collection include the loves, betrayals, and tragic fates of legendary figures such as Alcestis, Medea, Hercules, and Antigone, among others.  At the start of the collected stories, the narrative begins with \"The Story of the Love of Alcestis,\" detailing the devotion of Alcestis, who willingly sacrifices herself for her husband's life, King Admetus. The text captures her quiet bravery as she prepares for her own death, displaying a poignant mix of love and resignation. The opening also introduces the intervention of Apollo and Death, setting a mythological backdrop that underscores the themes of sacrifice and the inevitability of fate. Church's adaptation intricately weaves together elements of love, honor, and tragedy, establishing a rich foundation for the tragic tales that follow in this collection. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Greek drama (Tragedy) -- Stories, plots, etc."
+        ],
+        "bookshelves": [
+          "Category: Mythology, Legends & Folklore"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/14994.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/14994.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14994.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/14994.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/14994/pg14994.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/14994/14994-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/14994.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14994/14994-8.txt"
+        },
+        "download_count": 527
+      },
+      {
+        "id": 65461,
+        "title": "Greek Tragedy in the Light of Vase Paintings",
+        "authors": [
+          {
+            "name": "Huddilston, John H. (John Homer)",
+            "birth_year": 1869,
+            "death_year": 1956
+          }
+        ],
+        "summaries": [
+          "\"Greek Tragedy in the Light of Vase Paintings\" by John H. Huddilston is a scholarly publication written in the late 19th century. The work aims to explore the intricate relationship between Greek tragedy and vase painting, highlighting how ancient artworks serve as visual narratives that complement the literary forms of tragedy from playwrights like Aeschylus, Sophocles, and Euripides. Huddilston posits that these vase paintings not only illustrate mythological tales but may also draw inspiration directly from tragic performances themselves.  At the start of the text, the author sets the stage by discussing the significance of Greek vases in the context of classical literature, particularly tragedy. He argues that while many in the field focus on archaeology and mythology, those studying literature can greatly benefit from understanding these vases as artistic representations of stories found in works by Homer and the tragic poets. The introductory chapter details the influence of tragedy on various forms of ancient art, including sculpture and painting, before narrowing down to how these influences manifest specifically in vase painting. Huddilston emphasizes the importance of examining this intersection to gain deeper insights into the cultural and artistic traditions of ancient Greece, setting an academic tone for the exploration that follows. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Greek drama (Tragedy)",
+          "Vase-painting, Greek"
+        ],
+        "bookshelves": [
+          "Category: Art",
+          "Category: Mythology, Legends & Folklore"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/65461.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/65461/65461-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/65461.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/65461.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/65461.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/65461.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/65461/pg65461.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/65461/pg65461-h.zip"
+        },
+        "download_count": 521
+      },
+      {
+        "id": 74704,
+        "title": "Obras dramáticas de Eurípides (2 de 3)",
+        "authors": [
+          {
+            "name": "Euripides",
+            "birth_year": null,
+            "death_year": -406
+          }
+        ],
+        "summaries": [
+          "\"Obras dramáticas de Eurípides (2 de 3)\" by Eurípides is a collection of Greek tragedies written in the classical period of ancient Greece. This volume includes powerful narratives such as \"Las Troyanas,\" which portrays the devastating aftermath of the fall of Troy, focusing on the fates of its captive women. The central figure is Hécuba, the former queen of Troy, whose emotional turmoil reflects the broader themes of loss, suffering, and the capriciousness of fate.  The opening of \"Las Troyanas\" introduces the tragic setting after the fall of Troy, where Hécuba and other captured women lament their fate as they face enslavement at the hands of their Greek conquerors. The god Poseidón sets the scene, indicating the ruin brought upon the once-great city. Hécuba is distraught over her lost family and her impending servitude, and she is soon joined by other women who mourn their shared misfortunes. As the Greeks decide the destinies of the captives, dark omens surround Hécuba's daughter, Casandra, leading to further heart-wrenching developments. This opening sets the tone for a deeply emotional exploration of the consequences of war and human suffering. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Mier, Eduardo de",
+            "birth_year": 1829,
+            "death_year": 1914
+          }
+        ],
+        "subjects": [
+          "Greek drama (Tragedy) -- Translations into Spanish"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: History - Ancient",
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "es"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/74704.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/74704.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/74704.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/74704.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/74704/pg74704.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/74704/pg74704-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/74704.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/74704/74704-0.txt"
+        },
+        "download_count": 494
+      },
+      {
+        "id": 51612,
+        "title": "Œuvres de P. Corneille, Tome 07",
+        "authors": [
+          {
+            "name": "Corneille, Pierre",
+            "birth_year": 1606,
+            "death_year": 1684
+          }
+        ],
+        "summaries": [
+          "\"Œuvres de P. Corneille, Tome 07\" by Pierre Corneille is a collection of plays written during the 17th century. This volume includes the tragedy \"Agésilas,\" which explores themes of love, ambition, and political intrigue set against the backdrop of ancient Sparta. The audience follows the titular character, Agésilas, as he navigates complex relationships and power dynamics, particularly involving other prominent figures like Lysander and various royal suitors.  The opening of the tragedy introduces the characters Elpinice and Aglatide, daughters of Lysander, as they discuss their impending marriages to kings. The dialogue highlights Aglatide's ambition for a royal match, contrasting with Elpinice’s more pragmatic views on love and duty. The characters express their feelings and expectations regarding their suitors, Cotys and Spitridate, revealing underlying tensions and desires as political motives intertwine with personal affections. This sets the stage for the unfolding drama, as both love and duty will play crucial roles in the decisions that the characters will face. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Marty-Laveaux, Charles Joseph",
+            "birth_year": 1823,
+            "death_year": 1899
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "French drama (Tragedy) -- 17th century"
+        ],
+        "bookshelves": [
+          "Category: French Literature",
+          "Category: Plays/Films/Dramas",
+          "FR Théâtre"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/51612.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/51612.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51612.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/51612.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/51612/pg51612.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/51612/pg51612-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/51612.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/51612/51612-0.txt"
+        },
+        "download_count": 491
+      },
+      {
+        "id": 14899,
+        "title": "Some Remarks on the Tragedy of Hamlet, Prince of Denmark, Written by Mr. William Shakespeare (1736)",
+        "authors": [],
+        "summaries": [
+          "“Some Remarks on the Tragedy of Hamlet, Prince of Denmark” attributed to Thomas Hanmer is a critical essay written in the early 18th century. This work discusses Shakespeare's famous play \"Hamlet,\" offering an analysis of its themes, characters, and structure while engaging with contemporary critical debates. The essay focuses on the importance of reason and nature in evaluating the play's artistic merit, challenging the rules established by previous critics.  The opening of the essay introduces the author's intent to critique \"Hamlet\" by examining its qualities through the lens of reason and nature, rather than adhering strictly to traditional criticism. The author immediately asserts the value of true criticism as one that highlights a work's beauties while addressing its flaws only as necessary. The essay emphasizes Shakespeare's genius and his characters' alignment with human nature, while also pointing out perceived flaws within the tragedies, such as structural absurdities. Importantly, the author hints at a balance between admiring Shakespeare's work and being candid about its imperfections, setting the stage for a more detailed analysis of the play's characters and events as the essay unfolds. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Hamlet (Legendary character) -- Early works to 1800",
+          "Shakespeare, William, 1564-1616. Hamlet",
+          "Tragedy -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Essays, Letters & Speeches"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/14899.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/14899.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14899.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/14899.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/14899/pg14899.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/14899/14899-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/14899.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14899/14899-8.txt"
+        },
+        "download_count": 490
+      },
+      {
+        "id": 31628,
+        "title": "Œuvres de P. Corneille, Tome 01",
+        "authors": [
+          {
+            "name": "Corneille, Pierre",
+            "birth_year": 1606,
+            "death_year": 1684
+          }
+        ],
+        "summaries": [
+          "\"Œuvres de P. Corneille, Tome 01\" by Pierre Corneille is a collection of dramatic works and poetry written in the 17th century. This first volume showcases Corneille's approach to both the theatrical elements of his time and his language, often reflecting on the accuracy of text from previous editions. It serves as a comprehensive compilation and revision of his classic works, highlighting his legacy in French literature and drama.  At the start of this collection, the editor Ch. Marty-Laveaux emphasizes the importance of accuracy in presenting Corneille's texts, addressing the various alterations made by previous editors to the author's original works. The introduction includes details about Corneille's contributions to literature, as well as the historical context surrounding his writing. The opening portion discusses the significant changes to the language and style of the dramatic works over time, with the aim of giving readers a faithful representation of Corneille's genius as it was intended in the original prints. The notice also points out that this edition includes unpublished pieces, annotations, and variants that enrich the understanding of Corneille's writing and its evolution. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "French drama (Tragedy) -- 17th century"
+        ],
+        "bookshelves": [
+          "Category: French Literature",
+          "Category: Plays/Films/Dramas",
+          "Category: Poetry",
+          "FR Théâtre"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/31628.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/31628.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31628.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/31628.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/31628/pg31628.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/31628/31628-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/31628.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/31628/31628-8.txt"
+        },
+        "download_count": 470
+      },
+      {
+        "id": 19559,
+        "title": "Book of illustrations : Ancient Tragedy",
+        "authors": [
+          {
+            "name": "Sophocles",
+            "birth_year": -496,
+            "death_year": -406
+          },
+          {
+            "name": "Euripides",
+            "birth_year": null,
+            "death_year": -406
+          },
+          {
+            "name": "Aeschylus",
+            "birth_year": -525,
+            "death_year": -456
+          },
+          {
+            "name": "Moulton, Richard G. (Richard Green)",
+            "birth_year": 1849,
+            "death_year": 1924
+          }
+        ],
+        "summaries": [
+          "\"Book of Illustrations: Ancient Tragedy\" by Richard G. Moulton is a scholarly compilation written in the early 20th century. This work not only presents illustrations of ancient tragedies but also offers insights into prominent Greek works, including Aeschylus' \"Oresteia\", Sophocles' \"Electra\", and Euripides’ plays. It serves as a resource for understanding the narratives and themes of these classic tragedies, enhancing the reader's appreciation for ancient drama.  The opening portion of the book outlines the foundational elements of the \"Oresteia\", detailing the tragic lineage of the House of Atreus and the brutal events that follow Agamemnon's return from the Trojan War. It introduces key characters such as Agamemnon, the conflicted Clytaemnestra, and Orestes, who is propelled towards avenging his father's murder. The initial scenes highlight the tension between victory and impending doom, foreshadowing the cycle of violence that unfolds throughout the trilogy. As the Watchman reveals the long-awaited signal of victory, the Chorus reflects on the dual nature of glory and vengeance that permeates these tragedies, setting the tone for the dramatic exploration to come. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Greek drama (Tragedy) -- Translations into English"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/19559.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/19559.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/19559.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/19559.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/19559/pg19559.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/19559/19559-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/19559.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/19559/19559-8.txt"
+        },
+        "download_count": 415
+      },
+      {
+        "id": 75775,
+        "title": "Obras dramáticas de Eurípides (3 de 3)",
+        "authors": [
+          {
+            "name": "Euripides",
+            "birth_year": null,
+            "death_year": -406
+          }
+        ],
+        "summaries": [
+          "\"Obras dramáticas de Eurípides (3 de 3)\" by Euripides is a collection of classical Greek plays, likely written during the late 5th century BC. This volume, presented in a modern Spanish translation, focuses on the tragic and dramatic stories surrounding gods and mortals, notably exploring intense human emotions and the intervention of deities in mortal affairs. The excerpt begins with the play \"Ion,\" whose main characters include Ion, Creúsa, Juto (her husband), and the gods Apollo and Hermes. The central theme revolves around hidden parentage, divine intervention, and the complex relationships between fate and human action.  The opening of the book sets the stage for \"Ion\" with a detailed summary of the myth and dramatic context: Apollo has fathered a child with Creúsa, who abandons the baby to conceal her shame, and the child is raised in Apollo's temple unknown to his parents. The narrative then unfolds in dialogues and choral interludes, introducing the dilemma of Creúsa and Juto's childlessness, their consultation of Apollo's oracle, and Ion’s role as a temple servant with mysterious origins. The scene captures emotional intensity as Creúsa laments her fate, Ion reflects on his unknown parentage, and both grapple with the consequences of Apollo's actions. The intrigue escalates with schemes of jealousy, attempted poisoning, and the intervention of divine and mortal characters, expertly building suspense and exploring themes of recognition, justice, and the search for identity. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Mier, Eduardo de",
+            "birth_year": 1829,
+            "death_year": 1914
+          }
+        ],
+        "subjects": [
+          "Greek drama (Tragedy) -- Translations into Spanish"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "es"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/75775.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/75775.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/75775.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/75775.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/75775/pg75775.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/75775/pg75775-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/75775.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/75775/75775-0.txt"
+        },
+        "download_count": 389
+      },
+      {
+        "id": 48590,
+        "title": "Œuvres de P. Corneille, Tome 06",
+        "authors": [
+          {
+            "name": "Corneille, Pierre",
+            "birth_year": 1606,
+            "death_year": 1684
+          }
+        ],
+        "summaries": [
+          "\"Œuvres de P. Corneille, Tome 06\" by Pierre Corneille is a collection of dramatic works written during the 17th century. This volume specifically presents the tragedy \"Pertharite, Roi des Lombards,\" which deals with themes of power, betrayal, and familial conflict. The play centers around the character of Pertharite, the titular king, whose struggles against the tyranny of his brother Gundebert and an adversarial nobleman, Grimoald, create a rich backdrop for examining loyalty and ambition.  The opening of \"Pertharite, Roi des Lombards\" sets the stage for a world where political intrigues and personal vendettas collide. It begins with a discourse between Rodelinde, the wife of Pertharite, and Unulphe, as they discuss the fallout from Pertharite's defeat and his subsequent exile. Rodelinde's fierce determination to uphold the honor of her husband contrasts with the political machinations of those around her, including Grimoald's ambitions and her own conflicted emotions about power and loyalty. As she navigates her grief and anger, the complex relationships between the characters hint at the larger themes of vengeance, love, and the consequences of ambition that will unfold throughout the play. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Marty-Laveaux, Charles Joseph",
+            "birth_year": 1823,
+            "death_year": 1899
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "French drama (Tragedy) -- 17th century"
+        ],
+        "bookshelves": [
+          "Category: French Literature",
+          "Category: Plays/Films/Dramas",
+          "FR Théâtre"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/48590.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/48590.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/48590.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/48590.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/48590/pg48590.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/48590/pg48590-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/48590.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/48590/48590-0.txt"
+        },
+        "download_count": 383
+      },
+      {
+        "id": 24004,
+        "title": "竇娥寃",
+        "authors": [
+          {
+            "name": "Guan, Hanqing",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"竇娥寃\" by Hanqing Guan is a Chinese zaju play written during the Yuan dynasty (c. 1241–1320). The story follows Dou E, a young widow who is wrongly convicted of murder by a corrupt official after rejecting a suitor's advances. Before her execution, she prophesies three supernatural events to prove her innocence: blood will not touch the ground, snow will fall in midsummer, and drought will strike for three years. When all three occur, her ghost seeks justice through her father, now a government official. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Chinese drama (Tragedy)"
+        ],
+        "bookshelves": [
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "zh"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/24004.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/24004.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/24004.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/24004.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/24004/pg24004.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/24004/24004-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/24004.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/24004/24004-0.txt"
+        },
+        "download_count": 374
+      },
+      {
+        "id": 65357,
+        "title": "Ismael; an oriental tale. With other poems",
+        "authors": [
+          {
+            "name": "Lytton, Edward Bulwer Lytton, Baron",
+            "birth_year": 1803,
+            "death_year": 1873
+          }
+        ],
+        "summaries": [
+          "\"Ismael; An Oriental Tale\" by Edward George Lytton Bulwer is a narrative poem written in the early 19th century. The poem centers around Ismael, a young prince with noble lineage, who embarks on a quest to reclaim the throne of Persia, drawing on themes of love, war, and destiny. The characters include Ismael, whose valor is tested in battle, and Selyma, his beloved, whose faithfulness plays a pivotal role in his story.  The opening of the poem sets a picturesque scene in Caymyr, where the tranquility of the evening is contrasted with the impending chaos of war. We are introduced to Ismael, who is depicted as a gallant and handsome youth, torn between his love for Selyma and his duty to avenge his father’s wrongful death. As he prepares to rally allies around his cause, the narrative delves into his memories of love and his childhood, foreshadowing the conflicts that lie ahead as he seeks to restore honor to his family and reclaim his rightful place in the kingdom. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "English poetry -- 19th century",
+          "Greek drama (Tragedy) -- Translations into English",
+          "Ismaʻil I, Shah of Iran, 1487-1524 -- Poetry",
+          "Latin poetry -- Translations into English",
+          "Novels in verse",
+          "Waterloo, Battle of, Waterloo, Belgium, 1815 -- Poetry"
+        ],
+        "bookshelves": [
+          "Category: Historical Novels",
+          "Category: Poetry"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/65357.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/65357/65357-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/65357.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/65357.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/65357.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/65357.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/65357/pg65357.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/65357/pg65357-h.zip"
+        },
+        "download_count": 367
+      },
+      {
+        "id": 34445,
+        "title": "Œuvres de P. Corneille, Tome 02",
+        "authors": [
+          {
+            "name": "Corneille, Pierre",
+            "birth_year": 1606,
+            "death_year": 1684
+          }
+        ],
+        "summaries": [
+          "\"Œuvres de P. Corneille, Tome 02\" by Pierre Corneille is a collection of plays written in the early 17th century. This volume includes Corneille's works, such as \"La Galerie du Palais\", which are significant contributions to French theatre and drama. The text explores themes of love, societal expectations, and the intricate dynamics between characters, particularly in romantic entanglements.  The opening of \"La Galerie du Palais\" introduces us to several characters, primarily focusing on Célidée and Lysandre, who are entangled in a love affair that is complicated by misunderstandings and rival affections. Célidée grapples with her feelings while maintaining a façade of indifference, whereas Lysandre is deeply affected by her coldness. The play also includes the interactions between their confidants, such as Florice and Aronte, who influence the romantic developments. With witty dialogues and a lively setting depicting Parisian society, the beginning sets the stage for a comedic exploration of love and the games people play. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "French drama (Tragedy) -- 17th century"
+        ],
+        "bookshelves": [
+          "Category: French Literature",
+          "Category: Plays/Films/Dramas",
+          "FR Théâtre"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/34445.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/34445.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/34445.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/34445.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/34445/pg34445.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/34445/34445-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/34445.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/34445/34445-8.txt"
+        },
+        "download_count": 361
+      },
+      {
+        "id": 36002,
+        "title": "Time in the Play of Hamlet",
+        "authors": [
+          {
+            "name": "Vining, Edward Payson",
+            "birth_year": 1847,
+            "death_year": 1920
+          }
+        ],
+        "summaries": [
+          "\"Time in the Play of Hamlet\" by Edward Payson Vining is a scholarly analysis written in the late 19th century. This work focuses on the intricacies of time as portrayed in Shakespeare’s tragedy \"Hamlet,\" exploring the differing interpretations of how much time the events of the play encompass. The book aims to clarify the timeline of the actions within the play, challenging various critical opinions regarding the duration and implications of these actions.  In this analytical piece, Vining meticulously examines the timeline of events in \"Hamlet,\" asserting that the play's action unfolds over a defined period rather than the broad spans suggested by some critics. He breaks down the play act by act, noting specific scenes that indicate time lapses, from the initial midnight setting of the first act to a series of intervals and the final scenes. Vining argues against the notion of Shakespeare employing confusing temporal manipulations, positing instead that there is a coherent structure to the narrative that allows the audience to understand the timeline clearly. The analysis highlights key moments, such as Hamlet’s feigned madness, Polonius's death, and the political machinations at court, all of which contribute to a very specific chronology underpinning the tragedy's unfolding events. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Shakespeare, William, 1564-1616. Hamlet",
+          "Time in literature",
+          "Tragedy"
+        ],
+        "bookshelves": [
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/36002.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/36002/36002-8.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/36002.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/36002.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/36002.kf8.images",
+          "application/octet-stream": "https://www.gutenberg.org/files/36002/36002-page-images/f0001.png",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/36002.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/36002/pg36002.cover.medium.jpg"
+        },
+        "download_count": 358
+      },
+      {
+        "id": 46527,
+        "title": "Œuvres de P. Corneille, Tome 05",
+        "authors": [
+          {
+            "name": "Corneille, Pierre",
+            "birth_year": 1606,
+            "death_year": 1684
+          }
+        ],
+        "summaries": [
+          "\"Œuvres de P. Corneille, Tome 05\" by Pierre Corneille is a collection of dramatic works written in the mid-17th century. This volume particularly features the tragedy \"Théodore, vierge et martyre,\" which explores themes of faith, sacrifice, and the struggle against societal norms. The central character, Théodore, is a Christian virgin facing the perils of persecution and moral dilemmas in a tumultuous political and social environment.  The opening of this tragedy sets the stage for intense character interactions and dramatic conflicts. We are introduced to Placide, the son of the governor Valens, who struggles with his affections for Théodore, despite his commitments and the pressure from his family to marry another. Marcelle, Placide's mother, exhibits a fierce determination to eliminate Théodore, viewing her as an obstacle to her ambitions for her daughter Flavie. The narrative explores the tension between personal desires and societal expectations, with Théodore's unwavering faith and purity clashing against the corrupt and politically motivated actions of those around her. As the characters navigate their complex relationships, the audience is drawn into a tale of love, jealousy, and the quest for redemption amidst impending doom. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Marty-Laveaux, Charles Joseph",
+            "birth_year": 1823,
+            "death_year": 1899
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "French drama (Tragedy) -- 17th century"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: French Literature",
+          "Category: Plays/Films/Dramas",
+          "FR Théâtre"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/46527.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/46527.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/46527.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/46527.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/46527/pg46527.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/46527/pg46527-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/46527.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/46527/46527-0.txt"
+        },
+        "download_count": 358
+      },
+      {
+        "id": 36257,
+        "title": "The Fatal Falsehood: A Tragedy. In Five Acts",
+        "authors": [
+          {
+            "name": "More, Hannah",
+            "birth_year": 1745,
+            "death_year": 1833
+          }
+        ],
+        "summaries": [
+          "\"The Fatal Falsehood: A Tragedy. In Five Acts\" by Hannah More is a play written in the early 19th century. This dramatic work explores themes of love, betrayal, and the human struggle with honor and morality. Set against the backdrop of aristocratic society, it illuminates the complexities of personal relationships and the consequences of deceit.  The narrative revolves around the tangled emotions and loyalties of its characters, primarily focusing on Orlando and his complicated feelings for both Julia and Emmelina, while Rivers—Orlando's close friend—also becomes ensnared in this web of love. As the story unfolds, Orlando grapples with guilt and jealousy, leading to a tragic climax involving betrayal and murder, driven by the malevolent machinations of Bertrand. Ultimately, the play paints a poignant picture of the devastating effects of unchecked passion and revenge, culminating in a heart-wrenching conclusion that underscores the fragility of human relationships. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "English drama (Tragedy)",
+          "Verse Drama, English -- Early Works to 1800"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/36257.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/36257/36257-8.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/36257.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/36257.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/36257.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/36257.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/36257/pg36257.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/36257/36257-8.zip"
+        },
+        "download_count": 287
+      },
+      {
+        "id": 69997,
+        "title": "La vita che ti diedi : $b Tragedia in tre atti",
+        "authors": [
+          {
+            "name": "Pirandello, Luigi",
+            "birth_year": 1867,
+            "death_year": 1936
+          }
+        ],
+        "summaries": [
+          "\"La vita che ti diedi\" by Luigi Pirandello is a tragedy first performed in 1923. A mother has nurtured the memory of her absent son for seven years, keeping him alive in her imagination. When he suddenly returns after this long separation, she cannot recognize the stranger before her—he bears no resemblance to the vivid image she has preserved. His unexpected death soon after creates a profound question: which son has truly died, the real one or the one who lived in her memory? (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Italian drama (Tragedy)"
+        ],
+        "bookshelves": [
+          "Category: Plays/Films/Dramas",
+          "Nobel Prizes in Literature"
+        ],
+        "languages": [
+          "it"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/69997.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/69997.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69997.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/69997.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/69997/pg69997.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/69997/pg69997-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/69997.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69997/69997-0.txt"
+        },
+        "download_count": 274
+      },
+      {
+        "id": 31079,
+        "title": "Agide",
+        "authors": [
+          {
+            "name": "Alfieri, Vittorio",
+            "birth_year": 1749,
+            "death_year": 1803
+          }
+        ],
+        "summaries": [
+          "\"Agide\" by Vittorio Alfieri is a tragic play written in the late 18th century. The story centers around Agide, a character inspired by Agis IV of Sparta, whose noble intentions of restoring equality and virtue to Sparta come into conflict with personal vendettas and political intrigue. As the play unfolds, themes of power, betrayal, and the pursuit of justice emerge against the backdrop of Spartan society.   At the start of the play, the dedication indicates Alfieri’s intention to honor King Carlo Primo of England, with Agide's fate being likened to that of an unjustly deposed monarch. The opening scene presents a tense political landscape where Leonida, the rival to Agide, is in a vulnerable position, fearing the rise of Agide among the populace who view him as a liberator. Characters such as Agesistrata and Anfare discuss the dire implications of Agide's resurgence, foreshadowing the conflict between differing values of power and the state. As the narrative progresses into the first act, the stage is set for a confrontation that is deeply rooted in the characters’ relationships, loyalties, and broader societal struggles, ultimately hinting at the tragic consequences rooted in both ambition and noble intentions. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Italian drama (Tragedy)"
+        ],
+        "bookshelves": [
+          "Category: Plays/Films/Dramas",
+          "IT Teatro in versi"
+        ],
+        "languages": [
+          "it"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/31079.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/31079.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31079.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/31079.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/31079/pg31079.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/31079/31079-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/31079.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/31079/31079-8.txt"
+        },
+        "download_count": 207
+      },
+      {
+        "id": 8375,
+        "title": "Der Streit über die Tragödie",
+        "authors": [
+          {
+            "name": "Lipps, Theodor",
+            "birth_year": 1851,
+            "death_year": 1914
+          }
+        ],
+        "summaries": [
+          "\"Der Streit über die Tragödie\" by Theodor Lipps is a philosophical exploration of tragedy written in the late 19th century. The work delves into the various theories surrounding tragic art, addressing fundamental concepts like the resignation of the tragic hero, poetic justice, and the nature of suffering in relation to tragedy, offering a critical examination of how these ideas affect our understanding and appreciation of tragic works.  The opening of the text presents a thorough introduction to Lipps' examination of the aesthetic experience of tragedy. He argues that artistic enjoyment does not rely on a rational understanding of the artwork’s effects, suggesting that misinterpretations of tragic art can lead to a diminished appreciation of its true value. Lipps critiques prevailing theories that ascribe a didactic role to tragedy, emphasizing instead that the true experience of a tragic work lies within its representation of suffering and conflict, rather than in deriving optimistic perspectives or moral lessons from them. Through his analysis, Lipps establishes a foundation for a deeper philosophical discourse on tragedy and invites readers to rethink their assumptions about the genre. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Psychology, Applied",
+          "Tragedy"
+        ],
+        "bookshelves": [
+          "Category: German Literature",
+          "Category: Philosophy & Ethics",
+          "Category: Plays/Films/Dramas",
+          "DE Sachbuch"
+        ],
+        "languages": [
+          "de"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/8375.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/8375.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8375.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/8375.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/8375/pg8375.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/8375/8375-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/8375.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8375/8375-8.txt"
+        },
+        "download_count": 202
+      }
+    ]
+  }
+}

@@ -20,7 +20,7 @@ export default function BookPage() {
   const request = useBooks(validId ? `/books/${bookId}` : null)
   // Invalid IDs and missing books have dedicated views; other failures remain retryable.
   if (!validId) return <NotFound title="Ugyldig boknummer" />
-  if (request.error?.status === 404) return <NotFound title="Boken finnes ikke" />
+  if (request.error?.status === 404 && !request.data) return <NotFound title="Boken finnes ikke" />
   const book = request.data
   if (!book) return <RequestState {...request} />
 
@@ -36,6 +36,7 @@ export default function BookPage() {
   return (
     <>
       <Link className="back-link" to="/">← Til biblioteket</Link>
+      <RequestState {...request} />
       <article className="book-detail">
         <div className="detail-cover"><Cover book={book} /></div>
         <div>

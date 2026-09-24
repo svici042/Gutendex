@@ -1,0 +1,1495 @@
+{
+  "source": "https://gutendex.com/books?topic=War",
+  "query": "/books?topic=War",
+  "fetchedAt": "2026-09-23T14:32:35.582Z",
+  "data": {
+    "count": 5985,
+    "next": "https://gutendex.com/books/?page=2&topic=War",
+    "previous": null,
+    "results": [
+      {
+        "id": 3268,
+        "title": "The Mysteries of Udolpho",
+        "authors": [
+          {
+            "name": "Radcliffe, Ann Ward",
+            "birth_year": 1764,
+            "death_year": 1823
+          }
+        ],
+        "summaries": [
+          "\"The Mysteries of Udolpho\" by Ann Radcliffe is a Gothic novel published in 1794. Young Emily St. Aubert endures a cascade of misfortunes after her parents' deaths, finding herself trapped in a sinister Italian castle controlled by the menacing Montoni. Surrounded by mysterious terrors, hidden secrets, and supernatural phenomena, Emily must navigate perilous intrigues while separated from her beloved Valancourt. This archetypal Gothic tale weaves romance, suspense, and dark mysteries through remote castles and haunted landscapes. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Castles -- Fiction",
+          "Gothic fiction",
+          "Guardian and ward -- Fiction",
+          "Horror tales",
+          "Inheritance and succession -- Fiction",
+          "Italy -- Fiction",
+          "Orphans -- Fiction",
+          "Young women -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Romance",
+          "Gothic Fiction",
+          "Italy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/3268.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/3268.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3268.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/3268.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/3268/pg3268.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/3268/3268-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/3268.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3268/3268-0.txt"
+        },
+        "download_count": 119554
+      },
+      {
+        "id": 75201,
+        "title": "A farewell to arms",
+        "authors": [
+          {
+            "name": "Hemingway, Ernest",
+            "birth_year": 1899,
+            "death_year": 1961
+          }
+        ],
+        "summaries": [
+          "\"A farewell to arms\" by Ernest Hemingway is a novel first published in 1929. Set during World War I's Italian campaign, it follows American lieutenant Frederic Henry, who serves in the Italian ambulance corps. When he meets English nurse Catherine Barkley, a passionate love affair develops against the brutal backdrop of war. As battle intensifies and their relationship deepens, the lovers face devastating choices that will test whether their bond can survive the chaos surrounding them. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Man-woman relationships -- Fiction",
+          "Military deserters -- Fiction",
+          "Military hospitals -- Fiction",
+          "Soldiers -- United States -- Fiction",
+          "War stories",
+          "War wounds -- Fiction",
+          "World War, 1914-1918 -- Campaigns -- Italy -- Fiction",
+          "World War, 1914-1918 -- Fiction",
+          "World War, 1914-1918 -- Medical care -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Classics of Literature",
+          "Category: History - Warfare",
+          "Category: Novels",
+          "Category: Romance",
+          "Nobel Prizes in Literature"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/75201.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/75201.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/75201.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/75201.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/75201/pg75201.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/75201/pg75201-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/75201.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/75201/75201-0.txt"
+        },
+        "download_count": 75011
+      },
+      {
+        "id": 560,
+        "title": "Mr. Standfast",
+        "authors": [
+          {
+            "name": "Buchan, John",
+            "birth_year": 1875,
+            "death_year": 1940
+          }
+        ],
+        "summaries": [
+          "\"Mr. Standfast\" by John Buchan is a novel published in 1919. Brigadier-General Richard Hannay is pulled from the Western Front for a dangerous secret mission: hunting a German spy network operating in Britain. Disguised as a pacifist, he must work undercover to track enemy agents across the country and into the Swiss Alps. With coded messages hidden in \"Pilgrim's Progress\" and allies in unexpected places, Hannay faces his most complex assignment yet—one that could determine the fate of Europe. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Hannay, Richard (Fictitious character) -- Fiction",
+          "Intelligence service -- Great Britain -- Fiction",
+          "Spy stories",
+          "War stories",
+          "World War, 1914-1918 -- Fiction"
+        ],
+        "bookshelves": [
+          "Adventure",
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Historical Novels",
+          "Category: Novels",
+          "Contemporary Reviews",
+          "Movie Books",
+          "World War I"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/560.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/560.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/560.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/560.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/560/pg560.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/560/pg560-h.zip",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/560/560-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/560.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/560/560.txt"
+        },
+        "download_count": 61239
+      },
+      {
+        "id": 558,
+        "title": "The Thirty-Nine Steps",
+        "authors": [
+          {
+            "name": "Buchan, John",
+            "birth_year": 1875,
+            "death_year": 1940
+          }
+        ],
+        "summaries": [
+          "\"The Thirty-Nine Steps\" by John Buchan is an adventure novel published in 1915. Richard Hannay, a mining engineer from Rhodesia, finds himself caught in a deadly conspiracy when his neighbor is murdered in his London flat. Possessing only a cryptic coded notebook, Hannay flees to Scotland, pursued by both police and German spies seeking to steal Britain's naval secrets. Racing against time before war erupts across Europe, he must decipher the mystery of the thirty-nine steps and stop an international plot that could change history. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Hannay, Richard (Fictitious character) -- Fiction",
+          "Intelligence service -- Great Britain -- Fiction",
+          "Spy stories",
+          "World War, 1914-1918 -- Fiction"
+        ],
+        "bookshelves": [
+          "Adventure",
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Movie Books",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/558.html.images",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/558/558-h/558-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/558.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/558.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/558.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/558/pg558.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/558/pg558-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/558.txt.utf-8"
+        },
+        "download_count": 61200
+      },
+      {
+        "id": 1931,
+        "title": "The Zeppelin's Passenger",
+        "authors": [
+          {
+            "name": "Oppenheim, E. Phillips (Edward Phillips)",
+            "birth_year": 1866,
+            "death_year": 1946
+          }
+        ],
+        "summaries": [
+          "\"The Zeppelin's Passenger\" by E. Phillips Oppenheim is a novel likely written in the early 20th century, set during World War I. The story begins with a group of characters, including Captain Griffiths and Helen Fairclough, discussing a mysterious Zeppelin incident, sparking a mixture of curiosity and concern. The narrative seems to center around themes of espionage, loyalty, and romantic entanglements against the backdrop of the war, particularly focusing on Helen and her fiancé, Major Felstead, who has been reported missing.  The opening of the book takes place in a comfortable library where tea is being served to guests. The conversation reveals concern over a Zeppelin's observation car that has landed unexpectedly. The characters engage in light banter, yet an underlying tension is present due to the war and the fate of Major Felstead, who has been captured. Helen expresses anguish over her fiancé's situation, while Captain Griffiths appears to be harboring deeper, more personal feelings towards Helen. This mix of ordinary concerns and the strain of war sets the stage for a story intertwined with suspense and emotional depth as the narrative unfolds. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Historical fiction",
+          "World War, 1914-1918 -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1931.html.images",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/1931/1931-h/1931-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1931.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1931.kf8.images",
+          "text/plain; charset=iso-8859-1": "https://www.gutenberg.org/files/1931/1931-8.txt",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1931.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1931/pg1931.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1931/pg1931-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1931.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1931/1931.txt"
+        },
+        "download_count": 60763
+      },
+      {
+        "id": 75883,
+        "title": "The Roll of Honour, Volume 1 : $b A biographical record of all members of His Majesty's naval  and military forces who have fallen in the war",
+        "authors": [
+          {
+            "name": "Ruvigny et Raineval, Melville Henry Massue, marquis de",
+            "birth_year": 1868,
+            "death_year": 1921
+          }
+        ],
+        "summaries": [
+          "\"The Roll of Honour, Volume 1: A Biographical Record of All Members of His Majesty’s Naval and Military Forces Who Have Fallen in the War\" by the Marquis de Ruvigny is a historical reference work written in the early 20th century. This volume is an extensive biographical register dedicated to British and Commonwealth soldiers, sailors, and officers who lost their lives during a major conflict, almost certainly the First World War. The book collects and preserves individual stories and service details, providing not only names and ranks but also personal backgrounds and circumstances of death. Its primary aim is to offer permanent tribute and remembrance for the fallen, ensuring their sacrifices are not forgotten by future generations.  The opening of this volume sets a solemn, respectful tone, with introductory remarks that reflect on the significance of the war and the lasting debt owed to those who died. The editor emphasizes that history’s judgment on the war’s causes and conduct will come in time, but that the nobility of those who gave their lives stands above interpretation. The preface thoroughly explains the methodical approach to the compilation: biographies are arranged alphabetically, and details such as parentage, education, careers, military service, and, where possible, excerpts from letters are included. The first entries themselves provide poignant, individualized portraits—concise yet personal—of servicemen from a wide array of backgrounds, each record honoring their life, military service, and ultimate sacrifice. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Soldiers -- Great Britain -- Biography",
+          "World War, 1914-1918 -- Registers of dead -- Great Britain"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: Encyclopedias/Dictionaries/Reference",
+          "Category: History - British",
+          "Category: History - Modern (1750+)"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/75883.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/75883.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/75883.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/75883.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/75883/pg75883.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/75883/pg75883-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/75883.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/75883/75883-0.txt"
+        },
+        "download_count": 50131
+      },
+      {
+        "id": 851,
+        "title": "Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson",
+        "authors": [
+          {
+            "name": "Rowlandson, Mary White",
+            "birth_year": null,
+            "death_year": 1711
+          }
+        ],
+        "summaries": [
+          "\"Narrative of the Captivity and Restoration of Mrs. Mary Rowlandson\" by Mary Rowlandson is a memoir published in 1682. During King Philip's War, Rowlandson and her three children were captured by Native Americans after an attack on their Massachusetts settlement. Held for ransom for eleven weeks, she endured injury, separation from her family, and the death of her youngest daughter. Her account of survival, faith, and eventual release became one of America's first bestsellers and a foundational example of captivity narratives. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Indian captivities -- Massachusetts",
+          "King Philip's War, 1675-1676",
+          "Lancaster (Mass.) -- History -- Colonial period, ca. 1600-1775",
+          "Massachusetts -- Biography",
+          "Rowlandson, Mary White, approximately 1635-1711"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: History - American"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/851.html.images",
+          "text/html; charset=us-ascii": "https://www.gutenberg.org/files/851/851-h/851-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/851.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/851.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/851.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/851/pg851.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/851/pg851-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/851.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/851/851.txt"
+        },
+        "download_count": 43836
+      },
+      {
+        "id": 4085,
+        "title": "The Adventures of Roderick Random",
+        "authors": [
+          {
+            "name": "Smollett, T. (Tobias)",
+            "birth_year": 1721,
+            "death_year": 1771
+          }
+        ],
+        "summaries": [
+          "\"The Adventures of Roderick Random\" by T. Smollett is a picaresque novel published in 1748. Born to a Scottish gentleman and cast out by his family, young Roderick Random must survive by his wits alone in eighteenth-century Britain. From London to the West Indies, he encounters malice, deception, and hypocrisy at every turn while pursuing wealthy women and seeking his rightful place as a gentleman. Drawing on Smollett's own naval experience, this satirical tale exposes the brutality and corruption of its age. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "England -- Fiction",
+          "Impressment -- Fiction",
+          "Picaresque literature",
+          "Rogues and vagabonds -- Fiction",
+          "Sailors -- Fiction",
+          "Scots -- England -- Fiction",
+          "Sea stories",
+          "Warships -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: British Literature",
+          "Category: Novels",
+          "Historical Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/4085.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/4085.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4085.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/4085.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/4085/pg4085.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/4085/pg4085-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/4085.txt.utf-8"
+        },
+        "download_count": 42790
+      },
+      {
+        "id": 55,
+        "title": "The Wonderful Wizard of Oz",
+        "authors": [
+          {
+            "name": "Baum, L. Frank (Lyman Frank)",
+            "birth_year": 1856,
+            "death_year": 1919
+          }
+        ],
+        "summaries": [
+          "\"The Wonderful Wizard of Oz\" by L. Frank Baum is a children's novel written in 1900. When a cyclone sweeps young Dorothy and her dog Toto from Kansas to the magical Land of Oz, she discovers only one way home: she must destroy the Wicked Witch of the West. Joined by a Scarecrow seeking brains, a Tin Woodman wanting a heart, and a Cowardly Lion desiring courage, Dorothy follows the yellow brick road to seek help from the mysterious Wizard of Oz. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Courage -- Juvenile fiction",
+          "Cowardly Lion (Fictitious character) -- Juvenile fiction",
+          "Cyclones -- Juvenile fiction",
+          "Dreams -- Juvenile fiction",
+          "Fantasy literature",
+          "Gale, Dorothy (Fictitious character) -- Juvenile fiction",
+          "Good and evil -- Juvenile fiction",
+          "Home -- Juvenile fiction",
+          "Oz (Imaginary place) -- Juvenile fiction",
+          "Scarecrow (Fictitious character from Baum) -- Juvenile fiction",
+          "Tin Woodman (Fictitious character) -- Juvenile fiction",
+          "Toto (Fictitious character) -- Juvenile fiction",
+          "Witches -- Juvenile fiction",
+          "Wizard of Oz (Fictitious character) -- Juvenile fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: American Literature",
+          "Category: Children & Young Adult Reading",
+          "Category: Science-Fiction & Fantasy",
+          "Children's Literature",
+          "Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/55.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/55.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/55.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/55.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/55/pg55.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/55/55-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/55.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/55/55-0.txt"
+        },
+        "download_count": 42548
+      },
+      {
+        "id": 6130,
+        "title": "The Iliad",
+        "authors": [
+          {
+            "name": "Homer",
+            "birth_year": -750,
+            "death_year": -650
+          }
+        ],
+        "summaries": [
+          "\"The Iliad\" by Homer is an ancient Greek epic poem composed around the late 8th or early 7th century BC. Set during the final weeks of the ten-year Trojan War, it follows the devastating anger of Achilles, the greatest Greek warrior, sparked by a bitter quarrel with King Agamemnon. As pride and wrath collide, the conflict escalates from personal dispute to battlefield tragedy, culminating in the death of Troy's champion, Hector. Gods intervene, heroes clash, and the fate of nations hangs in the balance. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Pope, Alexander",
+            "birth_year": 1688,
+            "death_year": 1744
+          }
+        ],
+        "subjects": [
+          "Achilles (Mythological character) -- Poetry",
+          "Classical literature",
+          "Epic poetry, Greek -- Translations into English",
+          "Trojan War -- Poetry"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Poetry",
+          "Classical Antiquity"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/6130.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/6130.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6130.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/6130.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/6130/pg6130.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/6130/pg6130-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/6130.txt.utf-8"
+        },
+        "download_count": 42392
+      },
+      {
+        "id": 30849,
+        "title": "The Works of Robert Louis Stevenson - Swanston Edition, Vol. 20",
+        "authors": [
+          {
+            "name": "Stevenson, Robert Louis",
+            "birth_year": 1850,
+            "death_year": 1894
+          }
+        ],
+        "summaries": [
+          "\"The Works of Robert Louis Stevenson - Swanston Edition, Vol. 20\" by Stevenson is a collection of literary works likely compiled in the early 20th century. This volume primarily features \"St. Ives,\" which tells the story of a French prisoner during the Napoleonic Wars, detailing his experiences and interactions while imprisoned in Edinburgh. The narrative navigates themes of honor, identity, and affection, particularly involving the protagonist's encounters with the young lady Flora.  At the start of \"St. Ives,\" we are introduced to the main character, a French soldier captured and imprisoned in Edinburgh Castle. Despite the difficult circumstances, he finds solace in his ability to connect with the officers and other prisoners, engaging in activities that ease his captivity. He recounts how his proficiency in English aids him in forming relationships, one of them being with a noble and spirited young woman named Flora, who often visits the prison. The protagonist is captivated by her beauty, leading to the development of a romantic plotline intertwined with the challenges faced within the prison's walls. The opening chapters set up a suspenseful atmosphere of longing and rivalry, foreshadowing the complex relationships and conflicts that will unfold. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "French -- England -- Fiction",
+          "Prisoners of war -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Historical Novels",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/30849.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/30849.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30849.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/30849.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/30849/pg30849.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/30849/30849-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/30849.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/30849/30849-8.txt"
+        },
+        "download_count": 40042
+      },
+      {
+        "id": 98,
+        "title": "A Tale of Two Cities",
+        "authors": [
+          {
+            "name": "Dickens, Charles",
+            "birth_year": 1812,
+            "death_year": 1870
+          }
+        ],
+        "summaries": [
+          "\"A Tale of Two Cities\" by Charles Dickens is a historical novel published in 1859. Set in London and Paris during the tumultuous French Revolution, it follows Dr. Alexandre Manette after his mysterious 18-year imprisonment in the Bastille and his reunion with his daughter Lucie. Their lives become entangled with a French aristocrat fleeing his heritage and a dissolute English lawyer who harbors secret devotion. Against the backdrop of revolutionary terror and violence, personal sacrifices and hidden connections shape their intertwined fates. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "British -- France -- Paris -- Fiction",
+          "Executions and executioners -- Fiction",
+          "France -- History -- Revolution, 1789-1799 -- Fiction",
+          "French -- England -- London -- Fiction",
+          "Historical fiction",
+          "London (England) -- History -- 18th century -- Fiction",
+          "Lookalikes -- Fiction",
+          "Paris (France) -- History -- 1789-1799 -- Fiction",
+          "War stories"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Historical Novels",
+          "Historical Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/98.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/98.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/98.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/98.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/98/pg98.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/98/pg98-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/98.txt.utf-8"
+        },
+        "download_count": 38643
+      },
+      {
+        "id": 78033,
+        "title": "The silent Baltic : $b or, Detained near Kiel",
+        "authors": [
+          {
+            "name": "Knox, Marcus",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "The silent Baltic by Marcus Knox is a first-person wartime memoir and travel narrative written in the early 20th century. It follows an English visitor stranded in Holstein near Kiel at the outbreak of World War I, tracing her detention amid mobilization and suspicion, and her effort to reach safety.\n\nThe book opens with idyllic summer scenes in a small Baltic town that are abruptly replaced by mobilization, censorship, and fear. Staying at a vicarage, the narrator watches soldiers depart, hears patriotic songs and propaganda, endures anti-British sentiment, and lives under restrictions that forbid even walking by the shore. She observes food hoarding, Red Cross preparations, and the town’s tense vigilance against spies, while meeting another English family under guard. After weeks of isolation, she goes to Hamburg to seek papers, then undertakes a difficult, largely solitary journey by train through Lübeck and Osnabrück, passing rigorous inspections at Bentheim and Oldenzaal, with scarce food and help from a few kind officials. Crossing into the Netherlands brings relief; from Rotterdam she reaches England, closing with a grateful reflection on freedom and home. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "World War, 1914-1918 -- Personal narratives"
+        ],
+        "bookshelves": [],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/78033.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/78033.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/78033.kf8.images",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/78033.txt.utf-8",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/78033.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/78033/pg78033.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/78033/pg78033-h.zip"
+        },
+        "download_count": 37335
+      },
+      {
+        "id": 2199,
+        "title": "The Iliad",
+        "authors": [
+          {
+            "name": "Homer",
+            "birth_year": -750,
+            "death_year": -650
+          }
+        ],
+        "summaries": [
+          "\"The Iliad\" by Homer is an ancient Greek epic poem composed around the late 8th or early 7th century BC. Set during the final weeks of the ten-year Trojan War, it follows the devastating anger of Achilles, the greatest Greek warrior. After a bitter quarrel with King Agamemnon over honor and pride, Achilles withdraws from battle, setting off a chain of tragic events. The poem weaves together fierce combat, divine intervention by the Olympian gods, and intimate human moments, exploring themes of glory, fate, and wrath as it builds toward its climactic conclusion. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Butler, Samuel",
+            "birth_year": 1835,
+            "death_year": 1902
+          }
+        ],
+        "subjects": [
+          "Achilles (Mythological character)",
+          "Classical literature",
+          "Epic poetry, Greek -- Translations into English",
+          "Trojan War"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: History - Ancient",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Poetry",
+          "Classical Antiquity"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2199.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2199.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2199.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2199.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2199/pg2199.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2199/pg2199-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2199.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2199/2199-0.txt"
+        },
+        "download_count": 35555
+      },
+      {
+        "id": 2600,
+        "title": "War and Peace",
+        "authors": [
+          {
+            "name": "Tolstoy, Leo, graf",
+            "birth_year": 1828,
+            "death_year": 1910
+          }
+        ],
+        "summaries": [
+          "\"War and Peace\" by graf Leo Tolstoy is a literary work published in 1869. Set during the Napoleonic Wars, it chronicles the French invasion of Russia through five interlocking narratives following different Russian aristocratic families. The work blends fictional storytelling with philosophical discussions about history, war, and power. Tolstoy himself hesitated to classify it, saying it is \"not a novel, even less is it a poem, and still less a historical chronicle.\" It remains one of the most praised classics of world literature. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Maude, Aylmer",
+            "birth_year": 1858,
+            "death_year": 1938
+          },
+          {
+            "name": "Maude, Louise",
+            "birth_year": 1855,
+            "death_year": 1939
+          }
+        ],
+        "subjects": [
+          "Aristocracy (Social class) -- Russia -- Fiction",
+          "Historical fiction",
+          "Napoleonic Wars, 1800-1815 -- Campaigns -- Russia -- Fiction",
+          "Russia -- History -- Alexander I, 1801-1825 -- Fiction",
+          "War stories"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: Classics of Literature",
+          "Category: Historical Novels",
+          "Category: Novels",
+          "Category: Russian Literature",
+          "Historical Fiction",
+          "Movie Books",
+          "Napoleonic(Bookshelf)",
+          "Opera"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2600.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2600.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2600.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2600.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2600/pg2600.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/2600/2600-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2600.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2600/2600-0.txt"
+        },
+        "download_count": 35526
+      },
+      {
+        "id": 76576,
+        "title": "The Belle of Bowling Green",
+        "authors": [
+          {
+            "name": "Barr, Amelia E.",
+            "birth_year": 1831,
+            "death_year": 1919
+          }
+        ],
+        "summaries": [
+          "\"The Belle of Bowling Green\" by Amelia E. Barr is a novel written in the early 20th century. Set in New York City around the War of 1812, it blends historical romance and society drama as the admired Sapphira Bloommaert navigates love, family pride, and the mounting stir of war. Her growing attachment to Leonard Murray clashes with her father’s cool disapproval, while the social whirl around the Battery and Bowling Green frames questions of duty, heritage, and choice of heart.  The opening of the novel celebrates Bowling Green as the city’s historic heart, then settles into the Bloommaert household: the dignified judge, his spirited wife Carlita, formidable grandmother, steadfast son Christopher, pretty cousin Annette, and “belle” Sapphira. War fever rises—flags fly, drums beat, the judge delivers an impromptu speech that rouses volunteers, and Leonard emerges as a gallant young leader. Domestic and social scenes follow: a lively tea, moonlit Battery promenade, and a cotillion in which Sapphira and Leonard’s mutual feeling quietly crystallizes, provoking the judge’s private resentment. Tensions flare when Leonard asks the women to choose his company’s uniform and when he sends Sapphira white roses; sharp words, Annette’s jealous mischief, and then a tender reconciliation at home mark the family’s strain. Soon news comes that Leonard’s company will man harbor defenses, and, as evening falls, Sapphira waits composedly for the inevitable farewell visit—the moment the excerpt reaches as his steps approach. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "New York (N.Y.) -- Social life and customs -- 19th century -- Fiction",
+          "United States -- History -- War of 1812 -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Historical Novels",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/76576.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/76576.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/76576.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/76576.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/76576/pg76576.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/76576/pg76576-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/76576.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/76576/76576-0.txt"
+        },
+        "download_count": 33743
+      },
+      {
+        "id": 1837,
+        "title": "The Prince and the Pauper",
+        "authors": [
+          {
+            "name": "Twain, Mark",
+            "birth_year": 1835,
+            "death_year": 1910
+          }
+        ],
+        "summaries": [
+          "\"The Prince and the Pauper\" by Mark Twain is a novel first published in 1881. Two identical boys—Prince Edward Tudor and pauper Tom Canty—meet by chance and swap clothes, only to find themselves trapped in each other's lives. As Edward experiences the brutal reality of poverty and injustice firsthand, Tom struggles to maintain the royal charade. This tale of mistaken identity explores class inequality and the harsh English judicial system, while both boys discover what it truly means to walk in another's shoes. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Boys -- Fiction",
+          "Edward VI, King of England, 1537-1553 -- Fiction",
+          "Historical fiction",
+          "Impostors and imposture -- Fiction",
+          "London (England) -- Fiction",
+          "Lookalikes -- Fiction",
+          "Poor children -- Fiction",
+          "Princes -- Fiction",
+          "Social classes -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Children & Young Adult Reading",
+          "Category: Classics of Literature",
+          "Category: Historical Novels",
+          "Historical Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1837.html.images",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/1837/1837-h/1837-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1837.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1837.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1837.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1837/pg1837.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1837/pg1837-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1837.txt.utf-8"
+        },
+        "download_count": 31941
+      },
+      {
+        "id": 6235,
+        "title": "The Battle of the Strong: A Romance of Two Kingdoms — Volume 6",
+        "authors": [
+          {
+            "name": "Parker, Gilbert",
+            "birth_year": 1862,
+            "death_year": 1932
+          }
+        ],
+        "summaries": [
+          "\"The Battle of the Strong: A Romance of Two Kingdoms — Volume 6\" by Gilbert Parker is a historical novel written in the late 19th century. The story revolves around complex themes of love, betrayal, and the quest for justice, set against the backdrop of the conflicts involving the British and French. Key characters include Admiral Prince Philip d'Avranche, who faces dire consequences for his past actions, and Guida, a woman wronged yet determined to reclaim her dignity and her child.  At the start of the novel, the Royal Court in Jersey prepares for the solemn Assise d'Heritage, where both Admiral Prince Philip and Guida are central figures amid growing tensions. Guida disrupts the proceedings with a desperate cry for justice, claiming that Philip has wronged her by taking her child. As tension mounts, Philip faces accusations of a profound nature, leading to revelations about his past and the fallout from his decisions. The courtroom drama unfolds with escalating stakes, revealing themes of loyalty and retribution as both characters confront their intertwined destinies. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Anglo-French War, 1793-1802 -- Fiction",
+          "Channel Islands -- Fiction"
+        ],
+        "bookshelves": [
+          "Bestsellers, American, 1895-1923",
+          "Category: British Literature",
+          "Category: French Literature",
+          "Category: Historical Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/6235.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/6235.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6235.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/6235.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/6235/pg6235.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/6235/6235.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/6235.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6235/6235.txt"
+        },
+        "download_count": 31284
+      },
+      {
+        "id": 203,
+        "title": "Uncle Tom's Cabin",
+        "authors": [
+          {
+            "name": "Stowe, Harriet Beecher",
+            "birth_year": 1811,
+            "death_year": 1896
+          }
+        ],
+        "summaries": [
+          "\"Uncle Tom's Cabin\" by Harriet Beecher Stowe is a novel written in the mid-19th century that explores the moral complexities surrounding slavery in America. The story introduces us to a variety of characters affected by the institution of slavery, focusing particularly on Uncle Tom, a devout and dignified enslaved man, alongside other figures like Eliza, who is desperate to save her child from being sold, reflecting the heart-wrenching realities of such a system.  The opening of the book sets the stage in Kentucky, where Mr. Shelby, in financial distress, contemplates selling Uncle Tom and the young boy Harry to settle debts while conversing with the trader Haley. Through their dialogue, Stowe highlights the inhumane circumstances under which slaves are viewed as property rather than human beings, and we witness the initial stirrings of turmoil that compel Eliza to flee with her son upon hearing of their impending sale. The emotional depth and ethical dilemmas presented in these early chapters lay the groundwork for a powerful narrative that challenges readers to confront the harsh truths of slavery. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "African Americans -- Fiction",
+          "Didactic fiction",
+          "Enslaved persons -- Fiction",
+          "Fugitive slaves -- Fiction",
+          "Master and servant -- Fiction",
+          "Plantation life -- Fiction",
+          "Political fiction",
+          "Slavery -- Fiction",
+          "Southern States -- Fiction",
+          "Uncle Tom (Fictitious character) -- Fiction"
+        ],
+        "bookshelves": [
+          "Banned Books from Anne Haight's list",
+          "Category: American Literature",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Slavery",
+          "US Civil War"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/203.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/203.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/203.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/203.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/203/pg203.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/203/203-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/203.txt.utf-8"
+        },
+        "download_count": 30027
+      },
+      {
+        "id": 53874,
+        "title": "Under the Red Dragon: A Novel",
+        "authors": [
+          {
+            "name": "Grant, James",
+            "birth_year": 1822,
+            "death_year": 1887
+          }
+        ],
+        "summaries": [
+          "\"Under the Red Dragon\" by James Grant is a historical novel written in the late 19th century. Set against the backdrop of military life during a time of conflict, the story centers on Lieutenant Harry Hardinge, who navigates his feelings for Lady Estelle Cressingham while juggling his duties as a soldier. The narrative unfolds in a period filled with romance, social dynamics, and the looming specter of war, specifically the Crimean War.  The opening of the novel introduces Lieutenant Harry Hardinge and his fellow officers as they lament their stagnant lives at barracks while anticipating possible deployment to the warfront. A letter from Sir Madoc Lloyd invites Hardinge to Craigaderyn Court, where he hopes to reunite with old friends, particularly Winifred Lloyd, whom he finds enchanting. As the chapter progresses, Hardinge reflects on his unrequited love for Lady Estelle Cressingham, who is present at the court, adding layers of drama and internal conflict to his military existence. These themes of love, ambition, and social status are richly intertwined in the early chapters, foreshadowing the complexities of relationships in the context of war. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Crimean War, 1853-1856 -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Historical Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/53874.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/53874.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/53874.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/53874.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/53874/pg53874.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/53874/pg53874-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/53874.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/53874/53874-0.txt"
+        },
+        "download_count": 29739
+      },
+      {
+        "id": 36223,
+        "title": "The Boy with Wings",
+        "authors": [
+          {
+            "name": "Ruck, Berta",
+            "birth_year": 1878,
+            "death_year": 1978
+          }
+        ],
+        "summaries": [
+          "\"The Boy with Wings\" by Berta Ruck is a novel written in the early 20th century. The story centers around Gwenna Williams, a young Welsh girl who has left her rural home to pursue a life in London. Here, amidst the excitement of the aviation world, she dreams of adventure and love, particularly with a charming airman named Paul Dampier.  The opening of the novel introduces Gwenna and her friends as they attend a flying exhibition at Hendon. Enchanted by the sight of biplanes soaring through the sky, Gwenna feels a spark of passion and longing for a life filled with excitement. As the story unfolds, she expresses her desire to fly and becomes enthralled by Paul Dampier, who embodies the adventurous spirit she yearns for. The narrative captures her youthful enthusiasm as she navigates new experiences, friendships, and the throes of first love, setting the stage for her journey of self-discovery and the challenges she may face as the backdrop of World War I looms ahead. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Air pilots, Military -- Fiction",
+          "England -- Social life and customs -- 20th century -- Fiction",
+          "Love stories",
+          "World War, 1914-1918 -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Historical Novels",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/36223.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/36223/36223-8.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/36223.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/36223.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/36223.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/36223.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/36223/pg36223.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/36223/36223-8.zip"
+        },
+        "download_count": 28790
+      },
+      {
+        "id": 73,
+        "title": "The Red Badge of Courage: An Episode of the American Civil War",
+        "authors": [
+          {
+            "name": "Crane, Stephen",
+            "birth_year": 1871,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"The Red Badge of Courage: An Episode of the American Civil War\" by Stephen Crane is a war novel published in 1895. The story follows Henry Fleming, a young Union Army private who flees from battle during the American Civil War. Overwhelmed by shame and cowardice, he desperately longs for a wound—a \"red badge of courage\"—to redeem himself. When his regiment faces combat again, Henry must confront his fears. Known for its psychological realism and vivid battle sequences, the novel explores themes of maturation, heroism, and the true nature of courage. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Chancellorsville, Battle of, Chancellorsville, Va., 1863 -- Fiction",
+          "Historical fiction",
+          "United States -- History -- Civil War, 1861-1865 -- Fiction",
+          "Virginia -- History -- Civil War, 1861-1865 -- Fiction",
+          "War stories"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Bestsellers, American, 1895-1923",
+          "Category: American Literature",
+          "Category: Classics of Literature",
+          "Category: History - American",
+          "Category: History - Warfare",
+          "Category: Novels",
+          "Historical Fiction",
+          "US Civil War"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/73.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/73.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/73.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/73.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/73/pg73.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/73/pg73-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/73.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/73/73-0.txt"
+        },
+        "download_count": 27559
+      },
+      {
+        "id": 7700,
+        "title": "Lysistrata",
+        "authors": [
+          {
+            "name": "Aristophanes",
+            "birth_year": -450,
+            "death_year": -388
+          }
+        ],
+        "summaries": [
+          "\"Lysistrata\" by Aristophanes is an ancient Greek comedy first staged in 411 BCE. When the Peloponnesian War drags on endlessly, an Athenian woman named Lysistrata devises a bold plan: convince women from all warring Greek city-states to withhold sex from their husbands until peace is negotiated. Leading a rebellion that includes seizing the Acropolis and its treasury, Lysistrata sparks a battle between the sexes that tests whether desire or duty will prevail in this audacious comedy about war and power. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Lindsay, Jack",
+            "birth_year": 1900,
+            "death_year": 1990
+          }
+        ],
+        "subjects": [
+          "Aristophanes -- Translations into English",
+          "Comedy plays",
+          "Greece -- History -- Peloponnesian War, 431-404 B.C. -- Drama",
+          "Greek drama (Comedy) -- Translations into English",
+          "Lysistrata (Fictitious character) -- Drama",
+          "Peace movements -- Drama",
+          "Women and peace -- Drama"
+        ],
+        "bookshelves": [
+          "Banned Books from Anne Haight's list",
+          "Category: Classics of Literature",
+          "Category: History - Ancient",
+          "Category: Humour",
+          "Category: Plays/Films/Dramas",
+          "Classical Antiquity"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/7700.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/7700.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/7700.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/7700.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/7700/pg7700.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/7700/7700-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/7700.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/7700/7700.txt"
+        },
+        "download_count": 27172
+      },
+      {
+        "id": 67804,
+        "title": "The First of the English: A Novel",
+        "authors": [
+          {
+            "name": "Gunter, Archibald Clavering",
+            "birth_year": 1847,
+            "death_year": 1907
+          }
+        ],
+        "summaries": [
+          "\"The First of the English: A Novel\" by Archibald Clavering Gunter is a historical novel written in the late 19th century. The book appears to unfold in the tumultuous backdrop of the late 16th century during the Spanish control of the Netherlands. The central character, Captain Guy Stanhope Chester, is depicted as a young English sailor navigating the dangerous waters both literally and metaphorically, embodying the tensions of his time while also embarking on a personal quest influenced by love and duty.  The opening of the narrative introduces Captain Chester aboard his ship, the Dover Lass, through a chaotic storm as they approach the Schelde River during a disastrous flood impacting the Netherlands. The captain's early interactions with his crew depict a blend of camaraderie and competence amid chaos, as they navigate not just the treacherous waters but the threat of encountering Spanish forces. As the scene progresses, Chester's selfless motives unfold as he decides to rescue a captured Spanish lady, hinting at both adventure and romance to come. The discovery of vital papers on a drowned Italian man connects the unfolding personal narrative to larger political intrigues, setting up a story of espionage, bravery, and the pursuit of freedom in a decidedly perilous era. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Historical fiction",
+          "Netherlands -- History -- Eighty Years' War, 1568-1648 -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Historical Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/67804.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/67804.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/67804.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/67804.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/67804/pg67804.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/67804/pg67804-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/67804.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/67804/67804-0.txt"
+        },
+        "download_count": 26763
+      },
+      {
+        "id": 45,
+        "title": "Anne of Green Gables",
+        "authors": [
+          {
+            "name": "Montgomery, L. M. (Lucy Maud)",
+            "birth_year": 1874,
+            "death_year": 1942
+          }
+        ],
+        "summaries": [
+          "\"Anne of Green Gables\" by L. M. Montgomery is a novel published in 1908. When eleven-year-old orphan Anne Shirley arrives at Green Gables farm by mistake, the Cuthbert siblings had requested a boy to help with farmwork. Imaginative, talkative, and eager to belong, Anne must prove herself worthy of staying. The story follows her adventures in the village of Avonlea—making friends, excelling at school, clashing with rival Gilbert Blythe, and transforming the lives of everyone around her. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Bildungsromans",
+          "Canada -- History -- 1867-1914 -- Fiction",
+          "Country life -- Prince Edward Island -- Fiction",
+          "Friendship -- Fiction",
+          "Girls -- Fiction",
+          "Islands -- Fiction",
+          "Orphans -- Fiction",
+          "Prince Edward Island -- History -- 20th century -- Fiction",
+          "Shirley, Anne (Fictitious character) -- Fiction"
+        ],
+        "bookshelves": [
+          "Canada",
+          "Category: Children & Young Adult Reading",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Children's Literature"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/45.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/45.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/45.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/45.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/45/pg45.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/45/pg45-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/45.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/45/45-0.txt"
+        },
+        "download_count": 25806
+      },
+      {
+        "id": 78078,
+        "title": "The adventures of an ensign",
+        "authors": [
+          {
+            "name": "Williams, Valentine",
+            "birth_year": 1883,
+            "death_year": 1946
+          }
+        ],
+        "summaries": [
+          "The adventures of an ensign by Valentine Williams is a novel written in the early 20th century. It follows a young Guards subaltern—referred to as “our Ensign”—through his first experiences of World War I, from departure at Waterloo Station and the Channel crossing to training at the Guards’ Base, service in the Ypres Salient, and movement toward the Somme, blending camaraderie, routine duty, and the stark reality of trench warfare.\n\nThe opening of this novel traces the Ensign’s journey from London to France in the summer of the Somme offensive, his wait at the Guards’ Base with vast parade-ground training and bayonet lectures, and his first baptism of shellfire on arrival in Belgium. Separated from his friend “The Lad,” he joins No. 2 Company, learns ration runs and night moves, sleeps in dug-outs, and witnesses his first casualties. Rotating into reserve, he discovers the double-company mess, long night fatigues of wiring and parapet work, and occasional patrols, before the unit marches south through French villages to an orchard encampment overseen by a kindly local baron, with river baths, church parades, and even a royal visit. Sent at last to the Somme front, the company’s task is to “clean up” shattered trenches—wiring, repairing, burying the dead, salvaging equipment—culminating in an eerie walk through an abandoned, corpse-strewn line, after which they withdraw to rest in a forest camp. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Somme, 1st Battle of the, France, 1916",
+          "World War, 1914-1918 -- Personal narratives, British"
+        ],
+        "bookshelves": [],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/78078.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/78078.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/78078.kf8.images",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/78078.txt.utf-8",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/78078.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/78078/pg78078.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/78078/pg78078-h.zip"
+        },
+        "download_count": 24633
+      },
+      {
+        "id": 78074,
+        "title": "Chroniques de J. Froissart, tome 09/13 : $b 1377-1380 (Depuis la prise de Bergerac jusqu'à la mort de Charles V)",
+        "authors": [
+          {
+            "name": "Froissart, Jean",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "Jean Froissart ou Jehan Froissart, né vers 1337 à Valenciennes et mort vers 1410 à Chimay, est l'un des plus importants chroniqueurs de l'époque médiévale d'Europe de l'Ouest.\nSes Chroniques couvrent la première moitié de la guerre de Cent Ans, à partir de la déposition d'Édouard II en 1326 jusqu'à 1400. Elles constituent une source essentielle pour la connaissance du XIVe siècle et de la culture chevaleresque de l'époque en Angleterre et en France.\nEn conformité avec les techniques du roman courtois, Froissart s'attache à narrer les prouesses des rois et de leurs preux chevaliers ; il ne s'efface pas derrière le récit des événements mais les commente et prend parfois à témoin son lecteur. Toutefois, en tant qu'historien, il dit ne relater que ce qu'il a vu lui-même ou ce qui lui a été raconté par des témoins sûrs et affirme l'impartialité de son récit. Avec les Vrayes chroniques du chroniqueur liégeois Jean le Bel, dont il s'est beaucoup inspiré, ces Chroniques, qui sont d'une grande cohérence interne, ont fait apparaître la guerre entre les rois de France et d'Angleterre — que l'on appellera plus tard « guerre de Cent Ans » — comme un tout cohérent et un épisode signifiant de l'histoire de ces deux pays.\nOutre quelques recueils de poèmes, Froissart est aussi l'auteur de Meliador, un long roman en octosyllabes qui met en scène les exploits des héros arthuriens. (This summary is from Wikipedia.)"
+        ],
+        "editors": [
+          {
+            "name": "Raynaud, Gaston",
+            "birth_year": 1850,
+            "death_year": 1911
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Burgundy (France) -- History",
+          "Europe -- History -- 476-1492",
+          "Flanders -- History",
+          "France -- History -- House of Valois, 1328-1589",
+          "Great Britain -- History -- 14th century",
+          "Hundred Years' War, 1339-1453"
+        ],
+        "bookshelves": [],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/78074.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/78074.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/78074.kf8.images",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/78074.txt.utf-8",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/78074.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/78074/pg78074.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/78074/pg78074-h.zip"
+        },
+        "download_count": 24510
+      },
+      {
+        "id": 4206,
+        "title": "The Letters of Franklin K. Lane, Personal and Political",
+        "authors": [
+          {
+            "name": "Lane, Franklin K.",
+            "birth_year": 1864,
+            "death_year": 1921
+          }
+        ],
+        "summaries": [
+          "\"The Letters of Franklin K. Lane, Personal and Political\" by Franklin K. Lane is a collection of personal and political correspondence written in the early 20th century. The book offers a glimpse into the life of Franklin K. Lane, who served as the Secretary of the Interior under President Woodrow Wilson, presenting his views on political activities and personal relationships as they unfolded during his career.  The opening of this work introduces the background of Franklin K. Lane and sets the stage for a retrospective look at his life through the lens of his letters. The preface highlights the dedication of his editors, who curated a collection from thousands of his letters, focusing on those that effectively communicate his experiences and thoughts. Lane's letters reveal his engagement with various subjects, including his deep commitment to public service and the struggles he faced within the political landscape of his time, as well as insights into his character and personal reflections on his relationships with family, friends, and colleagues. Through these communications, readers can expect a richly detailed narrative about the intersection of personal and public life in the context of American politics. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Lane, Anne Wintermute",
+            "birth_year": null,
+            "death_year": null
+          },
+          {
+            "name": "Wall, Louise Herrick",
+            "birth_year": 1866,
+            "death_year": null
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "United States -- Politics and government -- 1913-1921",
+          "World War, 1914-1918 -- United States"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: Essays, Letters & Speeches",
+          "Category: History - American"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/4206.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/4206.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4206.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/4206.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/4206/pg4206.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/4206/4206.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/4206.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4206/4206.txt"
+        },
+        "download_count": 24374
+      },
+      {
+        "id": 78096,
+        "title": "Hajamuistelmia pakolaiselämästä",
+        "authors": [
+          {
+            "name": "Sirén, Aatto",
+            "birth_year": 1873,
+            "death_year": 1955
+          }
+        ],
+        "summaries": [
+          "\"Hajamuistelmia pakolaiselämästä\" by Aatto Sirén is a collection of memoiristic sketches written in the early 20th century. It portrays a Finnish socialist refugee’s life in revolutionary Russia after the Finnish Civil War, blending personal observations, political reflection, travel notes, and community portraits from places like Petrograd and the Bui settlement.\n\nThe opening of the volume sets its scope and tone: brief, immediate vignettes rather than systematic history, focused on first-hand impressions amid chaos. Sirén recalls the tense nights in the Finnish Parliament just before the outbreak of civil war, his surprise at how swiftly events escalated, and his skepticism about the feasibility of workers’ power in Finland, framed through Marxist reasoning and a debate with a comrade about whether the catastrophe could have been avoided. He then narrates a fraught attempt to return home through rail lines cut by German forces, a roundabout trek via small stations and villages, and the eventual move through Viipuri to Petrograd. The narrative widens to contrast the lost pomp of Tsarist palaces and preserves with their Soviet-era transformation into museums and people’s parks. It follows refugees east to Bui, depicting a Finnish colony riddled with seedy opportunists, frictions over rations and communal rules, but also competent health care and even the solace of a grand sauna. Early chapters close with life at the community’s factory, the author’s many roles from medic to administrator, and a reflective digression on ancient Finno-Ugric settlements around the Kostroma region, tying present exile to deep-time migrations. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Finland -- History -- Civil War, 1918 -- Refugees"
+        ],
+        "bookshelves": [],
+        "languages": [
+          "fi"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/78096.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/78096.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/78096.kf8.images",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/78096.txt.utf-8",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/78096.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/78096/pg78096.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/78096/pg78096-h.zip"
+        },
+        "download_count": 24115
+      },
+      {
+        "id": 76462,
+        "title": "The adventures of Heine",
+        "authors": [
+          {
+            "name": "Wallace, Edgar",
+            "birth_year": 1875,
+            "death_year": 1932
+          }
+        ],
+        "summaries": [
+          "\"The adventures of Heine\" by Edgar Wallace is a collection of espionage stories written in the early 20th century. The narrative follows Heine, a boastful German secret agent, as he recounts his wartime exploits in Britain with sardonic humor and self-aggrandizing flair. Expect sly reversals, covert schemes, and satirical portraits of both spies and the supposed “enemy,” all filtered through Heine’s unreliable bravado.  The opening of the narrative finds Heine reassigned from New York to London at the outbreak of war, where he quickly deploys agents using quirky identifiers and basks in his own cleverness. His star operative, Alexander Koos, courts a Woolwich engineer’s daughter for armament secrets but is outplayed by a young woman from British Intelligence and executed, forcing Heine to flee to Scotland. There, a supposed ally on a Highland hill proves to be a Swiss forger; Heine escapes while his colleague is arrested. Shifted to industrial propaganda in Manchester, Heine funds a fiery labor agitator, targets a chemical firm’s secret grenade plans, and clashes with the enigmatic Miss Harrymore—stealing a march on her by denouncing her as a German spy—only to learn she was actually a German agent, leaving him to spin a face-saving report as the section closes with mention of another captured operative and the introduction of Mister Haynes. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Germans -- England -- Fiction",
+          "Spy stories, English",
+          "World War, 1914-1918 -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/76462.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/76462.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/76462.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/76462.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/76462/pg76462.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/76462/pg76462-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/76462.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/76462/76462-0.txt"
+        },
+        "download_count": 23625
+      },
+      {
+        "id": 51428,
+        "title": "That Which Hath Wings: A Novel of the Day",
+        "authors": [
+          {
+            "name": "Dehan, Richard",
+            "birth_year": 1863,
+            "death_year": 1932
+          }
+        ],
+        "summaries": [
+          "\"That Which Hath Wings: A Novel of the Day\" by Richard Dehan is a novel written in the early 20th century. The story centers around the lives of Francis, Viscount Norwater, and his wife Margot, who navigate the trials and tribulations of their newlywed life just before the onset of World War I. Their passionate romance is juxtaposed against societal expectations and Miss Margot's struggle with the idea of motherhood which complicates their relationship.  At the start of the novel, we are introduced to Franky and Margot on the occasion of their wedding in January 1914. The narrative captures their vibrant courtship, set against the backdrop of a glamorous but superficial social scene. Yet, their idyllic life takes a drastic turn as Margot grapples with the implications of impending motherhood and societal pressure, leading to poignant conversations between the couple. This opening sets the stage for the exploration of love, societal norms, and the looming shadows of war that threaten to reshape their lives. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "World War, 1914-1918 -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/51428.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/51428.epub3.images",
+          "application/pdf": "https://www.gutenberg.org/ebooks/51428.pdf.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51428.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/51428.rdf",
+          "text/x-rst": "https://www.gutenberg.org/ebooks/51428.rst.gen",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/51428/pg51428.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/51428/51428-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/51428.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/51428/51428-0.txt"
+        },
+        "download_count": 22963
+      },
+      {
+        "id": 76899,
+        "title": "The man who saved New York",
+        "authors": [
+          {
+            "name": "Cummings, Ray",
+            "birth_year": 1887,
+            "death_year": 1957
+          }
+        ],
+        "summaries": [
+          "\"The man who saved New York by Ray Cummings\" is a science fiction short story written in the mid-20th century. Blending wartime adventure with speculative fantasy, it follows a man whose roaming ego can possess other beings, culminating in an extraordinary intervention that thwarts a Nazi attack on New York.  The narrator’s friend Porky discovers he can slip his consciousness into strangers and control them, a power he nervously demonstrates by making an old woman direct traffic. Seeing a chance to help the war effort, the group schemes to have Porky possess a U-boat commander and sabotage enemy submarines. On a moonlit beach, as an air raid approaches, Porky instead slips into a colossal green sea giant that rises offshore and destroys several Nazi bombers, saving the city. Afterward, Porky and Lisbeth fall in love, and his strange ability vanishes, ending any hope of using it to end the war, even though it has already averted disaster for New York. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "New York (N.Y.) -- Fiction",
+          "Psychic ability -- Fiction",
+          "Science fiction",
+          "Short stories",
+          "World War, 1939-1945 -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Science-Fiction & Fantasy",
+          "Category: Short Stories"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/76899.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/76899.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/76899.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/76899.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/76899/pg76899.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/76899/pg76899-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/76899.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/76899/76899-0.txt"
+        },
+        "download_count": 22909
+      }
+    ]
+  }
+}

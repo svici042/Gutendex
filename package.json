@@ -4,6 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "test": "node --test src/api.test.js",
+    "test:browser": "npm run build && playwright test",
+    "test:live": "npm run build && node scripts/live-check.mjs",
+    "snapshots:refresh": "node scripts/refresh-snapshots.mjs",
+    "archive": "powershell -NoProfile -ExecutionPolicy RemoteSigned -File scripts/source-archive.ps1",
     "dev": "vite",
     "build": "vite build",
     "lint": "oxlint",
@@ -15,6 +20,7 @@
     "react-router-dom": "^7.18.4"
   },
   "devDependencies": {
+    "@playwright/test": "^1.63.0",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.7",
     "@vitejs/plugin-react": "^6.1.1",

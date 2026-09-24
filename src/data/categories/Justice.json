@@ -1,0 +1,1479 @@
+{
+  "source": "https://gutendex.com/books?topic=Justice",
+  "query": "/books?topic=Justice",
+  "fetchedAt": "2026-09-23T14:29:16.395Z",
+  "data": {
+    "count": 76,
+    "next": "https://gutendex.com/books/?page=2&topic=Justice",
+    "previous": null,
+    "results": [
+      {
+        "id": 1497,
+        "title": "The Republic",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"The Republic\" by Plato is a Socratic dialogue written around 375 BC. Through conversations between Socrates and various Athenians, the work explores the meaning of justice and whether the just person is happier than the unjust. Socrates examines existing forms of government and proposes an ideal city-state ruled by philosopher-kings. The dialogue ranges across profound questions: the nature of the soul, the role of poetry, love, aging, and the purpose of political power itself. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Jowett, Benjamin",
+            "birth_year": 1817,
+            "death_year": 1893
+          }
+        ],
+        "subjects": [
+          "Classical literature",
+          "Justice -- Early works to 1800",
+          "Political science -- Early works to 1800",
+          "Utopias -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Philosophy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1497.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1497.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1497.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1497.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1497/pg1497.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1497/pg1497-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1497.txt.utf-8"
+        },
+        "download_count": 18829
+      },
+      {
+        "id": 55201,
+        "title": "The Republic of Plato",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"The Republic of Plato\" by Plato is a Socratic dialogue written around 375 BC. In this foundational work of philosophy and political theory, Socrates debates the nature of justice with Athenians and foreigners, asking whether the just person is happier than the unjust. The discussion ranges from definitions of justice to the design of an ideal city-state ruled by philosopher-kings, exploring aging, love, the soul's immortality, and poetry's role in society along the way. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Jowett, Benjamin",
+            "birth_year": 1817,
+            "death_year": 1893
+          }
+        ],
+        "subjects": [
+          "Justice -- Early works to 1800",
+          "Political science -- Early works to 1800",
+          "Utopias -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/55201.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/55201.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/55201.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/55201.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/55201/pg55201.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/55201/pg55201-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/55201.txt.utf-8"
+        },
+        "download_count": 18809
+      },
+      {
+        "id": 150,
+        "title": "The Republic",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"The Republic\" by Plato is a Socratic dialogue written around 375 BC. Through conversations between Socrates and various Athenians, this influential philosophical work explores the meaning of justice and whether the just person is happier than the unjust. Socrates examines existing governments and proposes a utopian city-state ruled by philosopher-kings. The dialogue also delves into aging, love, the immortality of the soul, and poetry's role in society, creating one of history's most enduring works of philosophy and political theory. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Jowett, Benjamin",
+            "birth_year": 1817,
+            "death_year": 1893
+          }
+        ],
+        "subjects": [
+          "Justice -- Early works to 1800",
+          "Political science -- Early works to 1800",
+          "Utopias -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/150.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/150.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/150.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/150.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/150/pg150.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/150/pg150-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/150.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/150/150.txt"
+        },
+        "download_count": 2416
+      },
+      {
+        "id": 1938,
+        "title": "Resurrection",
+        "authors": [
+          {
+            "name": "Tolstoy, Leo, graf",
+            "birth_year": 1828,
+            "death_year": 1910
+          }
+        ],
+        "summaries": [
+          "\"Resurrection\" by graf Leo Tolstoy is a novel published in 1899. A nobleman serving on a jury recognizes the prostitute on trial as a young woman he seduced and abandoned years earlier. Confronted by his past crime, he embarks on a journey of moral awakening, following her into Siberian exile while witnessing the brutal injustices hidden beneath Russia's aristocratic surface. Tolstoy's final major work challenges institutionalized hypocrisy and explores one man's desperate quest for redemption. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Maude, Louise",
+            "birth_year": 1855,
+            "death_year": 1939
+          }
+        ],
+        "subjects": [
+          "Aristocracy (Social class) -- Russia -- Fiction",
+          "Atonement -- Fiction",
+          "Change -- Religious aspects -- Fiction",
+          "Prostitutes -- Russia -- Fiction",
+          "Russia -- Social conditions -- 1801-1917 -- Fiction",
+          "Social justice -- Russia -- Fiction",
+          "Trials (Murder) -- Russia -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Novels",
+          "Category: Russian Literature"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1938.html.images",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/1938/1938-h/1938-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1938.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1938.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1938.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1938/pg1938.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1938/pg1938-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1938.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1938/1938.txt"
+        },
+        "download_count": 2277
+      },
+      {
+        "id": 1657,
+        "title": "Crito",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"Crito\" by Plato is a dialogue written around 399 BC. It depicts a conversation between Socrates and his friend Crito as Socrates awaits execution in prison. Crito urges Socrates to escape, offering money and refuge, but Socrates refuses. Through their debate about justice and injustice, Socrates personifies the Laws of Athens to argue that wrongdoing cannot be answered with wrongdoing. The dialogue presents an early statement of social contract theory. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Jowett, Benjamin",
+            "birth_year": 1817,
+            "death_year": 1893
+          }
+        ],
+        "subjects": [
+          "Classical literature",
+          "Dialogues, Greek -- Translations into English",
+          "Justice -- Early works to 1800",
+          "Philosophy, Ancient"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Harvard Classics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1657.html.images",
+          "text/html; charset=iso-8859-1": "https://www.gutenberg.org/files/1657/1657-h/1657-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1657.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1657.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1657.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1657/pg1657.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1657/pg1657-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1657.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1657/1657.txt"
+        },
+        "download_count": 2084
+      },
+      {
+        "id": 220,
+        "title": "The Secret Sharer",
+        "authors": [
+          {
+            "name": "Conrad, Joseph",
+            "birth_year": 1857,
+            "death_year": 1924
+          }
+        ],
+        "summaries": [
+          "\"The Secret Sharer\" by Joseph Conrad is a short story written in 1909. A young captain, commanding his first ship, discovers a fugitive clinging to his vessel at night—a first mate who has killed a crew member and escaped arrest. Recognizing the stranger as his mirror image in appearance and background, the captain hides him aboard, risking his command and credibility. As authorities search and his crew grows suspicious, he must execute a dangerous maneuver to help his double escape while proving himself as captain. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Fugitives from justice -- Fiction",
+          "Psychological fiction",
+          "Sea stories",
+          "Ship captains -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/220.html.images",
+          "text/html; charset=us-ascii": "https://www.gutenberg.org/files/220/220-h/220-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/220.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/220.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/220.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/220/pg220.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/220/pg220-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/220.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/220/220.txt"
+        },
+        "download_count": 1925
+      },
+      {
+        "id": 79406,
+        "title": "Stories from the Faerie Queene",
+        "authors": [
+          {
+            "name": "Spenser, Edmund",
+            "birth_year": 1551,
+            "death_year": 1599
+          },
+          {
+            "name": "Macleod, Mary",
+            "birth_year": 1859,
+            "death_year": 1914
+          }
+        ],
+        "summaries": [],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Allegories",
+          "Chastity -- Juvenile fiction",
+          "Chivalry -- Juvenile fiction",
+          "Christian life -- Juvenile fiction",
+          "Fairies -- Juvenile fiction",
+          "Fantasy literature",
+          "Friendship -- Juvenile fiction",
+          "Justice -- Juvenile fiction",
+          "Knights and knighthood -- Juvenile fiction",
+          "Queens -- Juvenile fiction",
+          "Romance fiction",
+          "Temperance -- Juvenile fiction"
+        ],
+        "bookshelves": [],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/79406.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/79406.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/79406.kf8.images",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/79406.txt.utf-8",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/79406.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/79406/pg79406.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/79406/pg79406-h.zip"
+        },
+        "download_count": 1742
+      },
+      {
+        "id": 65775,
+        "title": "The Cry for Justice: An Anthology of the Literature of Social Protest: The writings of philosophers, poets, novelists, social reformers, and others who have voiced the struggle against social injustice; selected from twenty-five languages; covering a period of five thousand years",
+        "authors": [],
+        "summaries": [
+          "\"The Cry for Justice: An Anthology of the Literature of Social Protest\" edited by Upton Sinclair is a collection of literary works spanning many genres, written in the early 20th century. The anthology features writings from philosophers, poets, novelists, and social reformers who advocate against social injustice, reflecting the struggles of humanity across various cultures and time periods. The central theme revolves around the outcry for justice in the face of systemic oppression and the plight of the working class throughout history.  The opening of the anthology establishes a foundational context by introducing the concept of social protest through a powerful dedication and a profound introduction by Jack London. Sinclair, in the preface, underscores the significance of unifying voices from different times and places to address issues of inequality, exploitation, and the human condition. He emphasizes that the collection seeks to uplift those who have labored under the weight of injustice, illustrating the hardship faced by the oppressed while simultaneously offering their cries for change and hope for a better world. This anthology serves as both a historical account of social dissent and a rallying cry for future action in the pursuit of equity and understanding among all people. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Sinclair, Upton",
+            "birth_year": 1878,
+            "death_year": 1968
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Social justice",
+          "Social problems"
+        ],
+        "bookshelves": [
+          "Category: Essays, Letters & Speeches",
+          "Category: Politics",
+          "Category: Sociology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/65775.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/65775/65775-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/65775.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/65775.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/65775.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/65775.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/65775/pg65775.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/65775/pg65775-h.zip"
+        },
+        "download_count": 1631
+      },
+      {
+        "id": 44800,
+        "title": "The Law",
+        "authors": [
+          {
+            "name": "Bastiat, Frédéric",
+            "birth_year": 1801,
+            "death_year": 1850
+          }
+        ],
+        "summaries": [
+          "\"The Law\" by Frédéric Bastiat is an essay written in 1850. Bastiat argues that government's only legitimate purpose is to protect natural rights—life, liberty, and property. He warns that law becomes perverted when used to plunder citizens rather than defend them. The work examines how governments overstep their bounds, turning legal systems into tools of exploitation. Bastiat critiques socialism, tariffs, and slavery as forms of \"legal plunder\" that violate individual rights while claiming moral authority. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Justice, Administration of",
+          "Law -- Philosophy",
+          "Law and socialism",
+          "Property",
+          "Socialism and liberty"
+        ],
+        "bookshelves": [
+          "Category: Essays, Letters & Speeches",
+          "Category: French Literature",
+          "Category: Philosophy & Ethics",
+          "Category: Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/44800.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/44800/44800-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/44800.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/44800.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44800.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/44800.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/44800/pg44800.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/44800/pg44800-h.zip"
+        },
+        "download_count": 1513
+      },
+      {
+        "id": 32298,
+        "title": "Anciennes loix des François conservées dans les coutumes angloises recueillies par Littleton, Vol. II",
+        "authors": [
+          {
+            "name": "Littleton, Thomas, Sir",
+            "birth_year": null,
+            "death_year": 1481
+          },
+          {
+            "name": "Hoüard, David",
+            "birth_year": 1725,
+            "death_year": 1802
+          }
+        ],
+        "summaries": [
+          "\"Anciennes loix des François conservées dans les coutumes angloises recueillies…\" is a historical account likely written in the late 18th century. The book explores the intersection of ancient French laws and English customs, especially as they pertain to jurisprudence and historical points of interest. It aims to provide a comprehensive overview of how these laws and customs evolved and intertwined, making it a valuable resource for historians and legal scholars.  The opening of this work presents a nuanced discussion about the historical text known as Glanville, which deals with the laws and customs practiced during the reign of King Henry II in England. The author provides insights into the structure and content of Glanville's work, detailing its division into various books that cover legal procedures, the roles of different courts, and the rights of individuals, including mention of serfs and property issues. Additionally, there are reflections on the procedural aspects related to the enforcement and acknowledgment of ancient French laws within a changing legal landscape. The discussion notably emphasizes the importance of understanding legal precedents and the implications of jurisdiction during that period. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Customary law -- France",
+          "Customary law -- Great Britain"
+        ],
+        "bookshelves": [
+          "British Law",
+          "Category: History - European",
+          "Category: Law & Criminology",
+          "FR Droit et Justice"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/32298.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/32298.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/32298.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/32298.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/32298/pg32298.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/32298/32298-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/32298.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/32298/32298-8.txt"
+        },
+        "download_count": 991
+      },
+      {
+        "id": 1954,
+        "title": "Colonel Chabert",
+        "authors": [
+          {
+            "name": "Balzac, Honoré de",
+            "birth_year": 1799,
+            "death_year": 1850
+          }
+        ],
+        "summaries": [
+          "\"Colonel Chabert\" by Honoré de Balzac is a novella published in 1832. A French cavalry officer, believed dead after the Battle of Eylau, survives his grave and returns to Paris years later. He discovers his wife has remarried into high society and claimed his inheritance. Seeking to reclaim his identity and fortune, Chabert hires a lawyer to fight for justice. The story contrasts Napoleonic honor with Restoration-era values, where social rank and wealth matter more than truth or loyalty. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Marriage, Ellen",
+            "birth_year": 1865,
+            "death_year": 1946
+          },
+          {
+            "name": "Bell, Clara",
+            "birth_year": 1834,
+            "death_year": 1927
+          }
+        ],
+        "subjects": [
+          "France -- Fiction",
+          "French fiction -- Translations into English",
+          "Historical fiction",
+          "Justice, Administration of -- Political aspects -- France -- Fiction",
+          "Legal stories",
+          "Napoleonic Wars, 1800-1815 -- Veterans -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: French Literature",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1954.html.images",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/1954/1954-h/1954-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1954.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1954.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1954.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1954/pg1954.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1954/pg1954-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1954.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1954/1954.txt"
+        },
+        "download_count": 797
+      },
+      {
+        "id": 69879,
+        "title": "Newer ideals of peace",
+        "authors": [
+          {
+            "name": "Addams, Jane",
+            "birth_year": 1860,
+            "death_year": 1935
+          }
+        ],
+        "summaries": [
+          "\"Newer Ideals of Peace\" by Jane Addams is a treatise on social and moral philosophy written in the early 20th century. The work explores the evolution of peace ideologies, contrasting older pacifist ideals with newer, transformative perspectives that advocate for social justice as a means to achieve lasting peace. It delves into the moral imperatives driving social change and the connections between humanitarian values and governance.  At the start of the book, Addams introduces her concept of \"newer ideals of peace,\" emphasizing their dynamic and proactive nature, in contrast to older, more passive notions of peace that rely on pity and prudence. She critiques traditional arguments against war, arguing for the necessity of nurturing a more compassionate society rather than merely seeking to avoid conflict. Through her observations at Hull-House in Chicago, she outlines how the experiences of immigrants and the struggles of marginalized communities reveal the potential for developing a robust, collective moral consciousness that can transcend national boundaries and create a foundation for international cooperation. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Municipal government -- United States",
+          "Peace",
+          "Political participation -- United States",
+          "Social justice",
+          "Working class -- United States"
+        ],
+        "bookshelves": [
+          "Category: Philosophy & Ethics",
+          "Category: Politics",
+          "Category: Sociology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/69879.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/69879.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69879.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/69879.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/69879/pg69879.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/69879/pg69879-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/69879.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69879/69879-0.txt"
+        },
+        "download_count": 647
+      },
+      {
+        "id": 66901,
+        "title": "Ancient Rome and Modern America; A Comparative Study of Morals and Manners",
+        "authors": [
+          {
+            "name": "Ferrero, Guglielmo",
+            "birth_year": 1871,
+            "death_year": 1942
+          }
+        ],
+        "summaries": [
+          "\"Ancient Rome and Modern America; A Comparative Study of Morals and Manners\" by Guglielmo Ferrero is a historical account written in the early 20th century. The work examines the differences and similarities between ancient Roman civilization and contemporary American society, particularly in terms of morals, manners, and the concept of progress. The author aims to explore how societal values have evolved and how they reflect broader human experiences across different periods.  The opening of the text sets the stage for this comparative study by introducing the premise that understanding modern life in America requires insights from ancient civilizations. Ferrero discusses how the concept of progress is perceived differently across time and cultures, emphasizing the contradictions that arise when comparing the two societies. He argues against a simplistic judgment of progress or decline, suggesting that both ancient and modern times possess unique values and characteristics worthy of examination. Through the lens of his observations, Ferrero proposes that there is much to learn from ancient practices and beliefs, particularly how they relate to the complexities of contemporary life. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "America -- Civilization",
+          "Europe -- Civilization",
+          "Justice, Administration of -- Rome",
+          "Progress"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: History - Ancient"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/66901.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66901/66901-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/66901.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/66901.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66901.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/66901.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/66901/pg66901.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/66901/pg66901-h.zip"
+        },
+        "download_count": 613
+      },
+      {
+        "id": 5268,
+        "title": "Courts and Criminals",
+        "authors": [
+          {
+            "name": "Train, Arthur Cheney",
+            "birth_year": 1875,
+            "death_year": 1945
+          }
+        ],
+        "summaries": [
+          "\"Courts and Criminals\" by Arthur Cheney Train is a collection of essays written between the years 1905-1910 that explores the complexities of the American legal system, particularly concerning criminal law and the rights of individuals. The book delves into the practical application of laws and the often conflicting responsibilities of the police and judiciary, revealing the intricate balance between maintaining public safety and preserving individual liberties in a society that prides itself on its just legal framework.  The opening of the work introduces a case in New York involving a young man named Duffy, who was subjected to police procedures without lawful cause, inciting a debate about the presumption of innocence and the rights of citizens. Train discusses the implications of such abuses, highlighting a pattern of \"mugging\" individuals who have not been convicted, and critiques the hypocrisy within the legal system that allows such practices to persist under the guise of necessity. He argues that while laws are intended to protect the citizenry, they are implemented by fallible individuals, leading to inconsistencies and ethical dilemmas in law enforcement. Overall, the beginning of \"Courts and Criminals\" sets the stage for an incisive examination of the failings of the criminal justice system and the fundamental rights that underpin American democracy. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Crime -- United States",
+          "Criminal justice, Administration of -- United States",
+          "Criminals -- United States"
+        ],
+        "bookshelves": [
+          "Category: Essays, Letters & Speeches",
+          "Category: History - American",
+          "Category: Law & Criminology",
+          "Crime Nonfiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/5268.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/5268.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5268.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/5268.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/5268/pg5268.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/5268/5268-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/5268.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5268/5268.txt"
+        },
+        "download_count": 554
+      },
+      {
+        "id": 41614,
+        "title": "Nouveau Code du Duel: Histoire, Législation, Droit Contemporain",
+        "authors": [
+          {
+            "name": "Du Verger de Saint-Thomas, Charles, comte",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"Nouveau Code du Duel: Histoire, Législation, Droit Contemporain\" by Le Comte Du Verger Saint-Thomas is a historical account written in the late 19th century. The work delves into the complex topic of dueling, exploring its historical origins, legal framework, and societal implications, particularly examining how notions of honor and violence have evolved over time. It aims to address the ongoing issue of dueling in a civilized society, presenting a systematic approach to understanding and potentially regulating this practice.  The opening portion of the book sets the stage for a thorough discourse on the duel, emphasizing its significance within the context of social and moral codes. The author introduces the reader to the historical prevalence of dueling as a means of resolving personal disputes, despite its legal prohibition. Through a reflective preface, he posits the necessity of establishing clear rules governing duels to mitigate their often tragic consequences, arguing that such regulations would serve as a safeguard for individuals bound by the honor code. As the narrative progresses, it promises to dissect not only the historical roots of dueling but also its legislative treatment across different periods, thereby laying the groundwork for a comprehensive examination that interlinks legal doctrine and social ethics. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Dueling"
+        ],
+        "bookshelves": [
+          "Category: History - European",
+          "Category: History - Modern (1750+)",
+          "Category: Law & Criminology",
+          "Category: Philosophy & Ethics",
+          "FR Droit et Justice",
+          "FR Education et Enseignement"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/41614.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/41614/41614-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/41614.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/41614.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/41614.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/41614.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/41614/pg41614.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/41614/pg41614-h.zip"
+        },
+        "download_count": 520
+      },
+      {
+        "id": 34630,
+        "title": "Some Experiences of an Irish R.M.",
+        "authors": [
+          {
+            "name": "Somerville, E. Oe. (Edith Oenone)",
+            "birth_year": 1858,
+            "death_year": 1949
+          },
+          {
+            "name": "Ross, Martin",
+            "birth_year": 1862,
+            "death_year": 1915
+          }
+        ],
+        "summaries": [
+          "\"Some Experiences of an Irish R.M.\" by E. Œ. Somerville and Martin Ross is a novel written in the late 19th century. The story unfolds from the perspective of Major Sinclair Yeates, a recently appointed resident magistrate in the rural South-West of Ireland. The narrative primarily explores his humorous and often chaotic experiences as he navigates local politics, eccentric characters, and the challenges of his new role, all set against the backdrop of a vividly depicted Irish landscape.  The opening of the novel introduces Major Yeates as he reflects on his recent appointment and the difficulties he faces settling into his new home at Shreelane. He finds himself overwhelmed by the dilapidated condition of the house, the peculiarities of his landlord Mr. Knox, and the antics of the local inhabitants. Yeates grapples with practical challenges of household life while simultaneously facing ghostly legends associated with his predecessor, Great-Uncle McCarthy. The tone is set for a series of comedic misadventures as Yeates becomes embroiled in the quirks and oddities of rural Ireland, hinting at the humorous yet poignant moments that characterize his life as a resident magistrate. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "British -- Ireland -- Fiction",
+          "Humorous stories, English",
+          "Ireland -- Social life and customs -- Fiction",
+          "Justices of the peace -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Humour",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/34630.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/34630.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/34630.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/34630.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/34630/pg34630.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/34630/34630-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/34630.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/34630/34630-0.txt"
+        },
+        "download_count": 496
+      },
+      {
+        "id": 61628,
+        "title": "Courts, Criminals and the Camorra",
+        "authors": [
+          {
+            "name": "Train, Arthur Cheney",
+            "birth_year": 1875,
+            "death_year": 1945
+          }
+        ],
+        "summaries": [
+          "\"Courts, Criminals, and the Camorra\" by Arthur Cheney Train is a detailed examination of the American criminal justice system, structured as a historical account likely written in the early 20th century. The book delves into various aspects of criminal law, including the presumption of innocence, police practices, and the intricacies of preparing a criminal case for trial. Train, who has experience as a prosecutor, demonstrates a comprehensive understanding of the flaws and nuances within the legal framework and the often paradoxical nature of justice.  At the start of the narrative, Train introduces the case of an individual named Duffy, who was improperly treated by police officers, highlighting the tension between law enforcement practices and citizens' rights. He uses Duffy's experience to set the stage for a broader discussion about the systemic issues within the judicial system, such as the questionable legality of certain police actions, the difficulties in maintaining civil liberties, and the conflicting pressures faced by law enforcement. Train argues that while the presumption of innocence is a cornerstone of American jurisprudence, the reality often reflects a presumption of guilt stemming from public sentiments, societal norms, and procedural inequities, leading to a complex portrayal of justice that raises ethical questions about liberty and law enforcement. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Camorra",
+          "Criminals -- United States",
+          "Justice, Administration of -- United States"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: Law & Criminology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/61628.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/61628.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/61628.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/61628.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/61628/pg61628.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/61628/pg61628-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/61628.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/61628/61628-0.txt"
+        },
+        "download_count": 491
+      },
+      {
+        "id": 42525,
+        "title": "Anciennes loix des François, conservées dans les coutumes angloises, recueillies par Littleton, Vol. I",
+        "authors": [
+          {
+            "name": "Littleton, Thomas, Sir",
+            "birth_year": null,
+            "death_year": 1481
+          },
+          {
+            "name": "Hoüard, David",
+            "birth_year": 1725,
+            "death_year": 1802
+          }
+        ],
+        "summaries": [
+          "\"Anciennes loix des François, conservées dans les coutumes angloises, recueil par Littleton;\" authored by M. Houard is a historical account likely written in the late 18th century. The book explores the ancient customs and legal traditions of the French and Anglo-Norman territories, highlighting how they are interconnected and were preserved over time. It aims to shed light on the origins of these laws and their relevance to understanding the legal culture of France and England, particularly during the early medieval period.  The opening of this work presents a dedication to a noble figure, Monseigneur Armand-Thomas Hue, which sets an authoritative tone and indicates the book's serious scholarly intention. Following this dedication, the preface discusses the significance of historical sources, such as compiled legislation from Norman and Gascon regions, for understanding past legal practices and customs. It emphasizes that without knowledge of these origins, the study of laws and customs would lack depth, potentially leading to the loss of vital historical knowledge. The author plans to elucidate these connections further through analysis of legal texts and commentary, inviting readers into a detailed inquiry of ancient laws that governed society in both France and England. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Customary law -- France",
+          "Customary law -- Great Britain"
+        ],
+        "bookshelves": [
+          "British Law",
+          "Category: History - European",
+          "Category: History - Medieval/Middle Ages",
+          "Category: Law & Criminology",
+          "FR Droit et Justice"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/42525.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42525/42525-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/42525.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/42525.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42525.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/42525.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/42525/pg42525.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/42525/42525-0.zip"
+        },
+        "download_count": 486
+      },
+      {
+        "id": 58534,
+        "title": "The Prisoner at the Bar: Sidelights on the Administration of Criminal Justice",
+        "authors": [
+          {
+            "name": "Train, Arthur Cheney",
+            "birth_year": 1875,
+            "death_year": 1945
+          }
+        ],
+        "summaries": [
+          "\"The Prisoner at the Bar: Sidelights on the Administration of Criminal Justice\" by Arthur Train is a nonfiction account written in the early 20th century. The book aims to provide a detailed and engaging exploration of the criminal justice system, highlighting the processes from arrest to conviction and examining the perspectives of the various participants, including the police, lawyers, and the accused.  At the start of this work, Train introduces the complexities surrounding the concept of crime, emphasizing that public perception is often shaped by sensational media coverage rather than an understanding of the legal processes involved. He argues that many commonly held beliefs about crime and criminals are oversimplified or erroneous, and he seeks to provide clarity on the administration of criminal justice. The opening discusses the definition of a crime and highlights the intricacies of legal terminology, illustrating differences between various types of crimes and their implications. Train sets the stage for a comprehensive discussion on how individuals can be categorized as criminals and the societal implications of such classifications. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Crime -- United States",
+          "Criminal justice, Administration of -- United States"
+        ],
+        "bookshelves": [
+          "Category: Law & Criminology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/58534.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/58534.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/58534.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/58534.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/58534/pg58534.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/58534/58534-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/58534.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/58534/58534-8.txt"
+        },
+        "download_count": 474
+      },
+      {
+        "id": 14204,
+        "title": "The Lion and the Mouse: A Story of American Life",
+        "authors": [
+          {
+            "name": "Klein, Charles",
+            "birth_year": 1867,
+            "death_year": 1915
+          },
+          {
+            "name": "Hornblow, Arthur",
+            "birth_year": 1865,
+            "death_year": 1942
+          }
+        ],
+        "summaries": [
+          "\"The Lion and the Mouse\" by Charles Klein is a novelized version of a play, presumably written in the early 20th century. The narrative unfolds against the backdrop of the American railroad industry, exposing themes of corporate greed, political corruption, and the clash between wealth and morality. The primary characters introduced include John Burkett Ryder, a powerful railroad magnate whose unscrupulous methods are contrasted with Judge Rossmore, a morally upright figure facing challenges from Ryder's machinations.  The opening portion of the book begins with a bustling scene in the offices of the Southern and Transcontinental Railroad Company as the directors convene for a significant meeting. We learn that the railroad is under threat due to public discontent and legal challenges, primarily due to the actions of Judge Rossmore, who represents a formidable obstacle to Ryder's ambitions. The narrative paints a vivid picture of the stock market's and railroad's power dynamics, with Ryder depicted as a man driven by insatiable greed, willing to destroy anyone who stands in his way, including Judge Rossmore, who is battling corruption within the judicial system. The tension between these two figures sets the stage for a dramatic conflict that explores deeper societal issues. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Capitalists and financiers -- Fiction",
+          "Children of the rich -- Fiction",
+          "Love stories",
+          "Revenge -- Fiction",
+          "Supreme Court justices -- Fiction",
+          "United States -- Social life and customs -- 1865-1918 -- Fiction",
+          "Women authors -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/14204.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/14204.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14204.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/14204.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/14204/pg14204.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/14204/pg14204-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/14204.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14204/14204-0.txt"
+        },
+        "download_count": 456
+      },
+      {
+        "id": 70511,
+        "title": "De republiek van Plato : $b In het Nederduitsch overgebragt",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"De republiek van Plato: In het Nederduitsch overgebragt by Plato\" is a Socratic dialogue written around 375 BC. Through conversations between Socrates and various Athenians, the work explores the meaning of justice and whether the just person is happier than the unjust. Socrates examines different forms of government and proposes a utopian city ruled by philosopher-kings. The dialogue also considers aging, love, the immortality of the soul, and poetry's role in society, challenging readers to defend justice as inherently good. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Burger, D. (Dionijs)",
+            "birth_year": 1820,
+            "death_year": 1891
+          }
+        ],
+        "subjects": [
+          "Justice -- Early works to 1800",
+          "Political science -- Early works to 1800",
+          "Utopias -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "nl"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/70511.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/70511.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70511.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/70511.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/70511/pg70511.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/70511/70511-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/70511.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70511/70511-0.txt"
+        },
+        "download_count": 439
+      },
+      {
+        "id": 46683,
+        "title": "Chronique du crime et de l'innocence, tome 1/8: Recueil des événements les plus tragiques;...",
+        "authors": [
+          {
+            "name": "Champagnac, J.-B.-J. (Jean-Baptiste-Joseph)",
+            "birth_year": 1796,
+            "death_year": 1858
+          }
+        ],
+        "summaries": [
+          "\"Chronique du crime et de l'innocence, tome 1/8\" by J.-B.-J. Champagnac is a historical account written in the early 19th century. The work compiles some of the most tragic events in French history, detailing crimes such as poisonings, murders, and massacres from the beginning of the French monarchy to contemporary times, arranged chronologically. Through grim narratives, the author seeks to illuminate the repetitive patterns of human cruelty while addressing the societal obsession with such horrors.  The opening of this work introduces the reader to the concept and purpose of the chronicle, revealing that it will chronicle heinous acts across French history, illustrating the depths of human depravity. It begins with an overview of notable figures from early French monarchy, such as the ruthless queens, Frédégonde and Brunehaut, whose actions exemplify the era's violence and the struggle for power. The narrative describes their Machiavellian schemes and conflicts, setting the stage for a comprehensive exploration of the darker aspects of human nature throughout the following volumes. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Crime -- France",
+          "Criminals -- France"
+        ],
+        "bookshelves": [
+          "Category: History - Ancient",
+          "Category: History - Early Modern (c. 1450-1750)",
+          "Category: History - European",
+          "Category: History - Medieval/Middle Ages",
+          "Category: History - Modern (1750+)",
+          "Category: History - Religious",
+          "Category: History - Royalty",
+          "Category: History - Warfare",
+          "Category: Law & Criminology",
+          "FR Chroniques",
+          "FR Droit et Justice"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/46683.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/46683.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/46683.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/46683.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/46683/pg46683.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/46683/pg46683-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/46683.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/46683/46683-0.txt"
+        },
+        "download_count": 432
+      },
+      {
+        "id": 63641,
+        "title": "The New York Tombs Inside and Out!: Scenes and Reminiscences Coming Down to the Present. A Story Stranger Than Fiction, with an Historic Account of America's Most Famous Prison.",
+        "authors": [
+          {
+            "name": "Munro, John Josiah",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The New York Tombs Inside and Out!\" by John Josiah Munro is a detailed historical account written in the early 20th century. This work provides an insider's view of America's most infamous prison, known as the Tombs in New York City, and highlights the corruption, scandal, and social issues surrounding its operation. Munro, who served as the chaplain of the Tombs, combines personal experiences with historical events, aiming to shed light on the institution's conditions and the treatment of its inmates.  The opening of the book presents the author's first visit to the Tombs, detailing the profound impression it left on him and the dire conditions he witnessed. Munro reflects on the ongoing issues of mismanagement, corruption, and inadequate treatment of inmates. He narrates his experiences as he interacts with the young prisoners, expressing concern over the environment in which they were kept—a place more fitting for animals than for humans. The vivid descriptions of the squalid conditions and the moral depravity within the prison establish a stark backdrop that sets the tone for the rest of the narrative as he seeks to advocate for reform and a better understanding of the circumstances that lead individuals to incarceration. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Crime -- New York (State) -- New York",
+          "Halls of Justice (New York, N.Y.)"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: History - American",
+          "Category: Law & Criminology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/63641.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/63641/63641-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/63641.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/63641.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/63641.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/63641.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/63641/pg63641.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/63641/pg63641-h.zip"
+        },
+        "download_count": 426
+      },
+      {
+        "id": 47164,
+        "title": "Chronique du crime et de l'innocence,  tome 2/8: Recueil des événements les plus tragiques;...",
+        "authors": [
+          {
+            "name": "Champagnac, J.-B.-J. (Jean-Baptiste-Joseph)",
+            "birth_year": 1796,
+            "death_year": 1858
+          }
+        ],
+        "summaries": [
+          "\"Chronique du crime et de l'innocence, tome 2/8\" by J.-B.-J. Champagnac is a historical account likely written in the early 19th century. This work presents a collection of tragic events involving crimes such as poisonings, assassinations, and other atrocities committed throughout French history, organized chronologically. Through a lens of moral reflection, it seems to explore the depths of human depravity and the consequences of immoral actions.  The opening of this volume introduces a particularly sordid tale involving a tragic love affair that devolves into murder, focusing on the characters of a nun, Brother Pierre-Arias Burdeus, and a magistrate, Guillaume de Gayraud, both of whom are seduced by the beautiful Violante du Château. As their rivalry for her affections intensifies, they conspire to murder her husband, a plot that ultimately leads to their downfall and execution. This initial narrative sets the stage for a broader examination of violence and vice in society, offering a cautionary glimpse into the darker aspects of human nature. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Crime -- France",
+          "Criminals -- France"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: History - European",
+          "Category: History - Modern (1750+)",
+          "FR Chroniques",
+          "FR Droit et Justice"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/47164.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/47164.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/47164.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/47164.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/47164/pg47164.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/47164/pg47164-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/47164.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/47164/47164-0.txt"
+        },
+        "download_count": 422
+      },
+      {
+        "id": 31504,
+        "title": "Concerning Justice",
+        "authors": [
+          {
+            "name": "Emery, Lucilius A. (Lucilius Alonzo)",
+            "birth_year": 1840,
+            "death_year": 1920
+          }
+        ],
+        "summaries": [
+          "\"Concerning Justice\" by Lucilius A. Emery is a scholarly text that examines the philosophical underpinnings and implications of justice, likely written in the early 20th century. This work is based on a series of lectures delivered at Yale Law School and explores concepts of rights, governmental authority, and the nature of justice itself. The author engages with historical and contemporary theories, seeking to identify a coherent understanding of justice that can both bind society together and serve the welfare of individuals.  The opening of the text presents the fundamental problem of defining justice amidst various theories that have emerged throughout history. Emery introduces the notion that although many people invoke justice in their arguments, an authentic understanding of what justice is often remains elusive and obscured by personal desires and societal biases. He references historical figures and philosophical traditions to illustrate the complexity of the nature of justice, asking penetrating questions about its universality, its absolute or relative qualities, and how it intersects with truth. The author calls upon the reader to consider how misconceptions about justice can lead to societal upheaval and urges a clearer comprehension that can help ensure equity and safeguard individual rights within the framework of law. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Courts -- United States",
+          "Justice",
+          "Justice, Administration of"
+        ],
+        "bookshelves": [
+          "Category: Law & Criminology",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/31504.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/31504.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/31504.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/31504.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/31504/pg31504.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/31504/31504-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/31504.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/31504/31504-8.txt"
+        },
+        "download_count": 421
+      },
+      {
+        "id": 38108,
+        "title": "Further Experiences of an Irish R.M.",
+        "authors": [
+          {
+            "name": "Somerville, E. Oe. (Edith Oenone)",
+            "birth_year": 1858,
+            "death_year": 1949
+          },
+          {
+            "name": "Ross, Martin",
+            "birth_year": 1862,
+            "death_year": 1915
+          }
+        ],
+        "summaries": [
+          "\"Further Experiences of an Irish R.M.\" by E. Œ. Somerville and Martin Ross is a novel written in the early 20th century. The story continues to explore the humorous and chaotic life of Major Sinclair Yeates, a land agent in rural Ireland, who finds himself embroiled in the peculiarities of country life, including hunting, community events, and the eccentricities of local characters.   At the start of the book, Major Yeates is reluctantly stepping into the role of Deputy Master of Foxhounds while his friend Flurry Knox is away serving in the South African War. He is immediately beset by a series of comical problems, including managing the expectations of locals seeking compensation for their livestock lost to the hounds, while also dealing with his own inexperience and the chaos of preparing for a hunt. The scene is set with vivid descriptions of his surroundings and provides a comedic look at the challenges he faces during the photo session meant to document the hunt, which spirals into further calamity when the hounds unexpectedly take off after a fox. The opening deftly captures the blend of humor and the charming absurdity of Yeates's life, promising more misadventures to come. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "British -- Ireland -- Fiction",
+          "Humorous stories, English",
+          "Ireland -- Social life and customs -- Fiction",
+          "Justices of the peace -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Humour",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/38108.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/38108/38108-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/38108.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/38108.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/38108.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/38108.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/38108/pg38108.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/38108/38108-0.zip"
+        },
+        "download_count": 419
+      },
+      {
+        "id": 37325,
+        "title": "Harry Milvaine; Or, The Wanderings of a Wayward Boy",
+        "authors": [
+          {
+            "name": "Stables, Gordon",
+            "birth_year": 1840,
+            "death_year": 1910
+          }
+        ],
+        "summaries": [
+          "\"Harry Milvaine; Or, The Wanderings of a Wayward Boy\" by Gordon Stables is a novel written in the late 19th century. The story follows a young boy named Harry Milvaine, who explores the wilds of Scotland with his loyal dog Eily, showcasing his imaginative spirit, adventurous nature, and mischievous antics. The narrative presents a journey through Harry's youthful adventures, highlighting his interactions with the natural world and the whimsical thoughts that shape his character.  The opening of the book introduces readers to Harry as he engages in imaginative play beside a water tank, entertaining himself with bubble ships while whimsically navigating his thoughts on kings and sailors. As the rain pours down, he embarks on an adventure into the nearby forest, accompanied by Eily, participating in playful activities while observing nature. The scene captures Harry’s innocent curiosity and spirited personality, which foreshadows the escapades and character development he will undergo throughout the novel. By the end of this opening section, the groundwork is laid for Harry's adventurous spirit, hinting at future encounters that will challenge and shape him as he grows. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Adventure and adventurers -- Juvenile fiction",
+          "Children -- Conduct of life -- Juvenile fiction",
+          "Conduct of life -- Juvenile fiction",
+          "Justice -- Juvenile fiction",
+          "Kings and rulers -- Juvenile fiction",
+          "Natural history -- Juvenile fiction",
+          "Sailors -- Juvenile fiction",
+          "Seafaring life -- Juvenile fiction",
+          "Surgeons -- Juvenile fiction",
+          "Voyages and travels -- Juvenile fiction",
+          "War -- Juvenile fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Children & Young Adult Reading",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/37325.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/37325/37325.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/37325.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/37325.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/37325.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/37325.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/37325/pg37325.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/37325/37325-h.zip"
+        },
+        "download_count": 413
+      },
+      {
+        "id": 39476,
+        "title": "Πολιτεία, Τόμος 1",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"Πολιτεία, Τόμος 1\" by Plato is a philosophical work written around 380 BCE. In this influential dialogue, Socrates and prominent Athenians debate the meaning of justice and whether a just person is happier than an unjust one. Through their conversation, they construct an ideal utopian city-state called \"Kallipolis,\" ruled by philosopher-kings. The work explores the nature of the philosopher, Plato's Theory of Forms including the famous Allegory of the Cave, the relationship between philosophy and poetry, and the parallels between the human soul and the city. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Grypares, I. N. (Ioannes N.)",
+            "birth_year": 1870,
+            "death_year": 1942
+          }
+        ],
+        "subjects": [
+          "Justice -- Early works to 1800",
+          "Political science -- Early works to 1800",
+          "Utopias -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "el"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/39476.txt.utf-8",
+          "text/html": "https://www.gutenberg.org/ebooks/39476.html.images",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/39476/39476-h/39476-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/39476.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/39476.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/39476.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/39476/pg39476.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/39476/pg39476-h.zip"
+        },
+        "download_count": 411
+      },
+      {
+        "id": 5119,
+        "title": "The Lion and the Mouse; a Story of an American Life",
+        "authors": [
+          {
+            "name": "Klein, Charles",
+            "birth_year": 1867,
+            "death_year": 1915
+          },
+          {
+            "name": "Hornblow, Arthur",
+            "birth_year": 1865,
+            "death_year": 1942
+          }
+        ],
+        "summaries": [
+          "\"The Lion and the Mouse; a Story of an American Life\" by Charles Klein and Arthur Hornblow is a novel written in the early 20th century during a time of significant economic and social turbulence in America. The story delves into the life of John Burkett Ryder, a powerful and wealthy railroad magnate whose unscrupulous methods and obsession with wealth come into conflict with the ideals of honesty and morality represented by Judge Rossmore.  The opening of the novel sets the stage in the bustling offices of the Southern and Transcontinental Railroad Company, capturing the tension as directors prepare for a crucial meeting. Their fears are focused on a legal injunction affecting the railroad's operations, a situation exacerbated by Ryder's increasingly corrupt tactics and the unyielding integrity of Judge Rossmore. Key characters are introduced, including Ryder, alongside his son Jefferson, who ultimately diverges from his father's unethical business practices to seek a different path, illustrating the generational conflict over morality and the cost of wealth. The complexity of their relationships and the rich backdrop of early 20th-century capitalism provide a gripping narrative as the story unfolds. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Capitalists and financiers -- Fiction",
+          "Children of the rich -- Fiction",
+          "Love stories",
+          "Revenge -- Fiction",
+          "Supreme Court justices -- Fiction",
+          "United States -- Social life and customs -- 1865-1918 -- Fiction",
+          "Women authors -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/5119.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/5119.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/5119.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/5119.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/5119/pg5119.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/5119/5119.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/5119.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/5119/5119.txt"
+        },
+        "download_count": 407
+      },
+      {
+        "id": 43732,
+        "title": "The Shoes of Fortune",
+        "authors": [
+          {
+            "name": "Munro, Neil",
+            "birth_year": 1864,
+            "death_year": 1930
+          }
+        ],
+        "summaries": [
+          "\"The Shoes of Fortune\" by Neil Munro is a historical novel written in the late 19th century. It follows the journey of Paul Greig, a Scottish lad who, after a series of fateful accidents and misadventures, finds himself fleeing his homeland and starting anew. The narrative intertwines themes of love, regret, and the quest for identity amid the backdrop of adventure across land and sea.  At the start of the story, Paul Greig reflects on how a simple incident—a landlady's burnt batch of scones—set off a chain of events that drastically changed the course of his life. Caught in a frivolous snowball fight that leads to his expulsion from college, he returns to his family's estate, Hazel Den, only to feel trapped in the mundane rhythm of rural life. Paul struggles with feelings of inadequacy, particularly during encounters with Isobel Fortune, his childhood acquaintance, and his uncle Andrew, a roguish figure whose return to the family home brings both intrigue and distraction. The opening chapters establish a rich tapestry of character interactions and emotional stakes, setting the stage for the adventures that await Paul as he seeks to escape his fate. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Adventure stories",
+          "Fugitives from justice -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Historical Novels",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/43732.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/43732/43732-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/43732.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/43732.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/43732.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/43732.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/43732/pg43732.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/43732/pg43732-h.zip"
+        },
+        "download_count": 401
+      },
+      {
+        "id": 70487,
+        "title": "A new name",
+        "authors": [
+          {
+            "name": "Hill, Grace Livingston",
+            "birth_year": 1865,
+            "death_year": 1947
+          }
+        ],
+        "summaries": [
+          "\"A New Name\" by Grace Livingston Hill is a novel written in the early 20th century. The story revolves around Murray Van Rensselaer, a wealthy young man grappling with the ramifications of a tragic accident involving a girl named Bessie Chapparelle, whom he had recently reconnected with. As he deals with the weight of guilt and the consequences of his reckless behavior, the novel explores themes of redemption, identity, and the stark contrasts between social classes.  At the start of the novel, Murray anxiously waits at Blakeley Hospital after a car accident that has left Bessie severely injured. His thoughts reveal a mix of self-loathing and regret for the choices that have led him to this moment, particularly his reckless driving and the potential impact on Bessie's mother, who has shown him kindness in the past. As he grapples with the news of her death, he feels the chilling weight of being a murderer, leading to his desperate flight from reality. The narrative sets a compelling mood, highlighting his internal conflict and the socio-economic divide that sets him apart from Bessie and her family. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Anonyms and pseudonyms -- Fiction",
+          "Christian fiction",
+          "Fugitives from justice -- Fiction",
+          "Love stories",
+          "Man-woman relationships -- Fiction",
+          "Traffic accidents -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/70487.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/70487.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70487.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/70487.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/70487/pg70487.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/70487/70487-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/70487.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70487/70487-0.txt"
+        },
+        "download_count": 396
+      },
+      {
+        "id": 47352,
+        "title": "Chronique du crime et de l'innocence, tome 3/8: Recueil des événements les plus tragiques;...",
+        "authors": [
+          {
+            "name": "Champagnac, J.-B.-J. (Jean-Baptiste-Joseph)",
+            "birth_year": 1796,
+            "death_year": 1858
+          }
+        ],
+        "summaries": [
+          "\"Chronique du crime et de l'innocence, tome 3/8\" by J.-B.-J. Champagnac is a historical account written in the early 19th century. This publication chronicles a series of tragic events, including poisonings, murders, and other crimes that have occurred in France throughout its history. The narrative focuses on the themes of justice and the often tragic outcomes related to judicial errors, highlighting the impact on both the victims and their families.  The opening of this volume presents a deeply unsettling case regarding Hirtzel Lévy, a Jewish man wrongfully accused of robbery and murder. The narrative describes how, despite his insistence on his innocence and the presentation of evidence supporting his alibi, Lévy, along with two others, faced brutal torture and execution following a hasty judicial process. This historical account illustrates not only the failings of justice but also the societal prejudices that influenced the outcome, setting a grim tone for the exploration of other notable and tragic judicial cases that follow in the text. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Crime -- France",
+          "Criminals -- France"
+        ],
+        "bookshelves": [
+          "Category: History - European",
+          "Category: History - Modern (1750+)",
+          "Category: Law & Criminology",
+          "FR Chroniques",
+          "FR Droit et Justice"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/47352.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/47352.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/47352.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/47352.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/47352/pg47352.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/47352/pg47352-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/47352.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/47352/47352-0.txt"
+        },
+        "download_count": 395
+      }
+    ]
+  }
+}

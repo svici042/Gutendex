@@ -1,34 +1,65 @@
-import { useEffect, useState } from 'react'
-import { cachedBooks, fetchBooks } from '../api'
+import { useEffect, useMemo, useRef, useState } from 'react'
+import { useLocation } from 'react-router-dom'
+import { cachedBookState, fetchBooks, loadSnapshot, SLOW_RESPONSE_DELAY } from '../api'
 
 export default function useBooks(path, collection = false) {
-  // Incrementing attempt retries the same URL without changing the browser address.
+  const location = useLocation()
   const [attempt, setAttempt] = useState(0)
-  // Save the request identity alongside its result to distinguish old and new responses.
-  const [state, setState] = useState({})
+  const retryTarget = useRef(null)
+  // A new history entry or retry has its own identity, including revisits to failed URLs.
+  const identity = useMemo(() => ({ path, collection, key: location.key, attempt }),
+    [path, collection, location.key, attempt])
+  const cached = path ? cachedBookState(path, collection) : undefined
+  const pending = { identity, ...cached, refreshing: Boolean(cached) }
+  const [state, setState] = useState(pending)
+  if (state.identity !== identity) setState(pending)
+  const current = state.identity === identity ? state : pending
+
   useEffect(() => {
-    // Invalid routes pass null to show a fallback without calling the API.
     if (!path) return
     const controller = new AbortController()
     let active = true
-    // Only this effect's active request may publish its data or error.
-    fetchBooks(path, controller.signal, collection, attempt > 0)
-      .then((data) => {
-        if (active) setState({ path, collection, attempt, data })
-      })
-      .catch((error) => {
-        if (active && error.name !== 'AbortError') setState({ path, collection, attempt, error })
-      })
-    // Cancel requests and prevent already-resolved stale responses from winning.
+    const force = retryTarget.current?.path === path
+      && retryTarget.current?.collection === collection
+    retryTarget.current = null
+    const slowTimer = setTimeout(() => {
+      if (active) setState((previous) => previous.identity === identity
+        ? { ...previous, slow: true } : previous)
+    }, SLOW_RESPONSE_DELAY)
+
+    async function load() {
+      // This is a local, lazy chunk, not another request to the public API.
+      await loadSnapshot(path, collection)
+      if (!active) return
+      const available = cachedBookState(path, collection)
+      setState({ identity, ...available, refreshing: Boolean(available) })
+      try {
+        const data = await fetchBooks(path, controller.signal, collection, force || Boolean(available?.stale))
+        if (active) setState({
+          identity, data, updatedAt: cachedBookState(path, collection)?.updatedAt,
+        })
+      } catch (error) {
+        if (active && error.name !== 'AbortError') {
+          setState({ identity, ...available, error })
+        }
+      } finally {
+        clearTimeout(slowTimer)
+      }
+    }
+    void load()
     return () => {
       active = false
+      clearTimeout(slowTimer)
       controller.abort()
     }
-  }, [path, collection, attempt])
-  // Hide previous results immediately, before the new effect runs.
-  // Read cached data during rendering so returning to a page has no loading flash.
-  const cached = attempt === 0 && path ? cachedBooks(path, collection) : undefined
-  const current = state.path === path && state.collection === collection && state.attempt === attempt
-    ? state : cached ? { data: cached } : { loading: Boolean(path) }
-  return { ...current, retry: () => setAttempt((value) => value + 1) }
+  }, [path, collection, identity])
+
+  return {
+    ...current,
+    loading: Boolean(path) && !current.data && !current.error,
+    retry: () => {
+      retryTarget.current = { path, collection }
+      setAttempt((value) => value + 1)
+    },
+  }
 }

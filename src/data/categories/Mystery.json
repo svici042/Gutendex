@@ -1,0 +1,1504 @@
+{
+  "source": "https://gutendex.com/books?topic=Mystery",
+  "query": "/books?topic=Mystery",
+  "fetchedAt": "2026-09-23T14:26:06.121Z",
+  "data": {
+    "count": 2906,
+    "next": "https://gutendex.com/books/?page=2&topic=Mystery",
+    "previous": null,
+    "results": [
+      {
+        "id": 65238,
+        "title": "The Secret of Chimneys",
+        "authors": [
+          {
+            "name": "Christie, Agatha",
+            "birth_year": 1890,
+            "death_year": 1976
+          }
+        ],
+        "summaries": [
+          "\"The Secret of Chimneys\" by Agatha Christie is a suspenseful detective novel written in the early 20th century. The story introduces the charming Anthony Cade, who finds himself embroiled in a web of intrigue involving royal secrets and political machinations in a fictional Balkan nation known as Herzoslovakia. As he sets off on a journey to deliver a manuscript of memoirs, he stumbles into a world of blackmail, missing persons, and a potential restoration of a monarchy.  At the start of the novel, we meet Anthony Cade while he is working as a tour guide in Africa, where he encounters an old friend, Jimmy McGrath. After a light-hearted exchange, McGrath reveals a plan that involves the delivery of Count Stylptitch's memoirs to a publisher in London, which promises a reward of a thousand pounds. Intrigued, Anthony agrees to take on the task, unaware of the dangerous implications, including confrontation with various factions, including a mysterious former royal and potential assassins. The opening sets the stage for a captivating interplay of romance, adventure, and the classic whodunit elements that Agatha Christie is known for. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Battle, Superintendent (Fictitious character) -- Fiction",
+          "Detective and mystery stories",
+          "Police -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/65238.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/65238/65238-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/65238.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/65238.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/65238.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/65238.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/65238/pg65238.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/65238/pg65238-h.zip"
+        },
+        "download_count": 133305
+      },
+      {
+        "id": 1661,
+        "title": "The Adventures of Sherlock Holmes",
+        "authors": [
+          {
+            "name": "Doyle, Arthur Conan",
+            "birth_year": 1859,
+            "death_year": 1930
+          }
+        ],
+        "summaries": [
+          "\"The Adventures of Sherlock Holmes\" by Arthur Conan Doyle is a collection of short stories first published in 1892. These twelve tales feature the legendary consulting detective Sherlock Holmes and his companion Dr. Watson, narrated from Watson's perspective. Each mystery explores social injustices while showcasing Holmes's brilliant deductive methods and unconventional approach to justice. The stories introduce memorable characters and cases that have captivated readers for over a century, establishing Holmes as one of literature's most enduring detectives. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Detective and mystery stories, English",
+          "Holmes, Sherlock (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Banned Books from Anne Haight's list",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories",
+          "Contemporary Reviews",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1661.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1661.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1661.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1661.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1661/pg1661.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1661/pg1661-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1661.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1661/1661-0.txt"
+        },
+        "download_count": 119794
+      },
+      {
+        "id": 3268,
+        "title": "The Mysteries of Udolpho",
+        "authors": [
+          {
+            "name": "Radcliffe, Ann Ward",
+            "birth_year": 1764,
+            "death_year": 1823
+          }
+        ],
+        "summaries": [
+          "\"The Mysteries of Udolpho\" by Ann Radcliffe is a Gothic novel published in 1794. Young Emily St. Aubert endures a cascade of misfortunes after her parents' deaths, finding herself trapped in a sinister Italian castle controlled by the menacing Montoni. Surrounded by mysterious terrors, hidden secrets, and supernatural phenomena, Emily must navigate perilous intrigues while separated from her beloved Valancourt. This archetypal Gothic tale weaves romance, suspense, and dark mysteries through remote castles and haunted landscapes. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Castles -- Fiction",
+          "Gothic fiction",
+          "Guardian and ward -- Fiction",
+          "Horror tales",
+          "Inheritance and succession -- Fiction",
+          "Italy -- Fiction",
+          "Orphans -- Fiction",
+          "Young women -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Romance",
+          "Gothic Fiction",
+          "Italy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/3268.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/3268.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3268.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/3268.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/3268/pg3268.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/3268/3268-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/3268.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3268/3268-0.txt"
+        },
+        "download_count": 119554
+      },
+      {
+        "id": 2465,
+        "title": "Carmen",
+        "authors": [
+          {
+            "name": "Mérimée, Prosper",
+            "birth_year": 1803,
+            "death_year": 1870
+          }
+        ],
+        "summaries": [
+          "\"Carmen\" by Prosper Mérimée is a novella written and first published in 1845. In the lonely hills of Andalusia, a scholar meets a notorious outlaw named Don José, who tells the tale of his tragic downfall. His story revolves around Carmen, a captivating Romani woman whose fierce independence and refusal to be tamed leads to jealousy, violence, and death. This dark narrative of passion and fate later inspired Bizet's famous opera. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Loyd, Mary, Lady",
+            "birth_year": 1853,
+            "death_year": 1936
+          }
+        ],
+        "subjects": [
+          "Carmen (Fictitious character) -- Fiction",
+          "Spain -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: French Literature",
+          "Category: Novels",
+          "Category: Romance",
+          "Opera"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2465.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2465.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2465.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2465.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2465/pg2465.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2465/pg2465-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2465.txt.utf-8"
+        },
+        "download_count": 111826
+      },
+      {
+        "id": 59828,
+        "title": "The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.",
+        "authors": [
+          {
+            "name": "Prest, Thomas Peckett",
+            "birth_year": 1810,
+            "death_year": 1859
+          },
+          {
+            "name": "Rymer, James Malcolm",
+            "birth_year": null,
+            "death_year": 1884
+          }
+        ],
+        "summaries": [
+          "\"The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.\" by Rymer et al. is a penny dreadful serial published from 1846 to 1847. This tale introduces Sweeney Todd, the murderous barber of Fleet Street who kills his customers and delivers their corpses to Mrs. Lovett, who bakes the flesh into meat pies. When a sailor mysteriously disappears after visiting Todd's shop, friends and loved ones investigate, uncovering a horrifying secret beneath St. Dunstan's church that reveals the true scale of Todd's crimes. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Bakers -- Fiction",
+          "Barbers -- Fiction",
+          "Cannibalism -- Fiction",
+          "Fleet Street (London, England) -- Fiction",
+          "Historical fiction",
+          "Horror tales",
+          "London (England) -- Social life and customs -- 18th century -- Fiction",
+          "Missing persons -- Fiction",
+          "Murder -- Fiction",
+          "Mystery fiction",
+          "Penny dreadfuls",
+          "Revenge -- Fiction",
+          "Suspense fiction",
+          "Todd, Sweeney (Legendary character) -- Fiction",
+          "Young women -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/59828.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/59828.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/59828.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/59828.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/59828/pg59828.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/59828/59828-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/59828.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/59828/59828-0.txt"
+        },
+        "download_count": 104191
+      },
+      {
+        "id": 345,
+        "title": "Dracula",
+        "authors": [
+          {
+            "name": "Stoker, Bram",
+            "birth_year": 1847,
+            "death_year": 1912
+          }
+        ],
+        "summaries": [
+          "\"Dracula\" by Bram Stoker is a Gothic horror novel published in 1897. Told through letters, diary entries, and newspaper articles, the story follows solicitor Jonathan Harker's terrifying encounter with Count Dracula in Transylvania. When the vampire Count travels to England and begins preying on victims in Whitby, a small group led by Professor Abraham Van Helsing must hunt him down. This seminal work of Gothic fiction has become the centrepiece of vampire literature, profoundly shaping the popular conception of vampires for generations. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Dracula, Count (Fictitious character) -- Fiction",
+          "Epistolary fiction",
+          "Gothic fiction",
+          "Horror tales",
+          "Transylvania (Romania) -- Fiction",
+          "Vampires -- Fiction",
+          "Whitby (England) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy",
+          "Gothic Fiction",
+          "Horror",
+          "Movie Books",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/345.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/345.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/345.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/345.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/345/pg345.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/345/pg345-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/345.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/345/345-0.txt"
+        },
+        "download_count": 103941
+      },
+      {
+        "id": 2868,
+        "title": "The Green Mummy",
+        "authors": [
+          {
+            "name": "Hume, Fergus",
+            "birth_year": 1859,
+            "death_year": 1932
+          }
+        ],
+        "summaries": [
+          "\"The Green Mummy\" by Fergus Hume is a novel likely written during the late 19th century. The story revolves around a young couple, Archie Hope and Lucy Kendal, as they navigate romance against a backdrop filled with mystery and intrigue, particularly centering on a rare mummy that Lucy's archaeologist stepfather, Professor Braddock, is eager to acquire.  At the start of the novel, readers are introduced to Archie and Lucy, who share a playful yet serious conversation about their engagement. Archie reveals the lengths he has gone to in order to gain Professor Braddock’s consent to marry Lucy, involving the purchase of a valuable Peruvian mummy from Malta. Their lighthearted banter is soon overshadowed by more foreboding concerns regarding the mysterious mummy, as Lucy expresses unease about her stepfather's obsession with archaeology. The opening establishes a combination of romantic elements and hints at darker, unforeseen complications, setting the stage for a larger mystery involving the disappearance of the mummy and the tragic fate of Braddock’s assistant, which subsequently unfolds. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Detective and mystery stories",
+          "Fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2868.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2868.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2868.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2868.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2868/pg2868.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/2868/2868-0.zip",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2868/2868.txt",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2868.txt.utf-8"
+        },
+        "download_count": 101171
+      },
+      {
+        "id": 62215,
+        "title": "Le Fantôme de l'Opéra",
+        "authors": [
+          {
+            "name": "Leroux, Gaston",
+            "birth_year": 1868,
+            "death_year": 1927
+          }
+        ],
+        "summaries": [
+          "\"Le Fantôme de l'Opéra\" by Gaston Leroux is a Gothic horror novel first published in 1909-1910. Set in the Paris Opera House, the story follows mysterious events surrounding a disfigured figure known as the Phantom. When young soprano Christine Daaé captures his obsession, a dangerous love triangle emerges between Christine, the Phantom, and her childhood love Raoul. As the Phantom's demands grow darker and more desperate, lives hang in the balance beneath the opera house. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Composers -- Fiction",
+          "French fiction -- 20th century",
+          "Horror tales",
+          "Musical fiction",
+          "Opera -- Fiction",
+          "Paris (France) -- Fiction",
+          "Phantom of the Opera (Fictitious character) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: French Literature",
+          "Category: Novels",
+          "Category: Romance",
+          "FR Littérature",
+          "FR Nouveautés"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/62215.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/62215.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/62215.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/62215.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/62215/pg62215.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/62215/pg62215-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/62215.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/62215/62215-0.txt"
+        },
+        "download_count": 101041
+      },
+      {
+        "id": 43,
+        "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+        "authors": [
+          {
+            "name": "Stevenson, Robert Louis",
+            "birth_year": 1850,
+            "death_year": 1894
+          }
+        ],
+        "summaries": [
+          "\"The Strange Case of Dr. Jekyll and Mr. Hyde\" by Robert Louis Stevenson is a Gothic horror novella published in 1886. When London lawyer Gabriel John Utterson investigates strange occurrences involving his old friend Dr. Henry Jekyll and a murderous criminal named Edward Hyde, he uncovers a disturbing mystery. This defining work of Gothic horror explores the duality of human nature and has profoundly influenced popular culture, making \"Jekyll and Hyde\" synonymous with hidden evil beneath respectable appearances. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Horror tales",
+          "London (England) -- Fiction",
+          "Multiple personality -- Fiction",
+          "Physicians -- Fiction",
+          "Psychological fiction",
+          "Science fiction",
+          "Self-experimentation in medicine -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Horror",
+          "Movie Books",
+          "Precursors of Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/43.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/43.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/43.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/43.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/43/pg43.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/43/43-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/43.txt.utf-8"
+        },
+        "download_count": 97689
+      },
+      {
+        "id": 8492,
+        "title": "The King in Yellow",
+        "authors": [
+          {
+            "name": "Chambers, Robert W. (Robert William)",
+            "birth_year": 1865,
+            "death_year": 1933
+          }
+        ],
+        "summaries": [
+          "\"The King in Yellow\" by Robert W. Chambers is a collection of short stories published in 1895. The book opens with supernatural horror tales connected by a forbidden play that drives readers to madness. A mysterious entity called the King in Yellow, an eerie Yellow Sign, and the cursed play itself haunt the first four stories, set in a future 1920s America and Paris. The collection gradually shifts tone, ending with romantic tales, but the opening horror stories have earned acclaim as classics of weird fiction. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Horror tales, American",
+          "Short stories, American",
+          "United States -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Category: Short Stories",
+          "Horror"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/8492.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/8492.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8492.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/8492.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/8492/pg8492.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/8492/pg8492-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/8492.txt.utf-8"
+        },
+        "download_count": 93459
+      },
+      {
+        "id": 2554,
+        "title": "Crime and Punishment",
+        "authors": [
+          {
+            "name": "Dostoyevsky, Fyodor",
+            "birth_year": 1821,
+            "death_year": 1881
+          }
+        ],
+        "summaries": [
+          "\"Crime and Punishment\" by Fyodor Dostoevsky is a novel published in 1866. It follows Rodion Raskolnikov, an impoverished former law student in Saint Petersburg who plans to murder an unscrupulous pawnbroker. He convinces himself that certain crimes are justifiable if committed by \"extraordinary\" men pursuing higher goals. Once the deed is done, however, he is consumed by confusion, paranoia, and guilt as his theoretical justifications crumble and he faces the internal and external consequences of his actions. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Garnett, Constance",
+            "birth_year": 1861,
+            "death_year": 1946
+          }
+        ],
+        "subjects": [
+          "Crime -- Psychological aspects -- Fiction",
+          "Detective and mystery stories",
+          "Murder -- Fiction",
+          "Psychological fiction",
+          "Saint Petersburg (Russia) -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Russian Literature",
+          "Crime Fiction",
+          "Harvard Classics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2554.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2554.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2554.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2554.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2554/pg2554.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2554/pg2554-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2554.txt.utf-8"
+        },
+        "download_count": 93352
+      },
+      {
+        "id": 1695,
+        "title": "The Man Who Was Thursday: A Nightmare",
+        "authors": [
+          {
+            "name": "Chesterton, G. K. (Gilbert Keith)",
+            "birth_year": 1874,
+            "death_year": 1936
+          }
+        ],
+        "summaries": [
+          "\"The Man Who Was Thursday: A Nightmare\" by G. K. Chesterton is a philosophical novel with elements of adventure and satire, written in the late 19th century. The story revolves around the enigmatic character Gabriel Syme, a police detective who infiltrates a group of anarchists in London to uncover their plans and identities. As the narrative unfolds, it explores complex themes of order, chaos, and the nature of evil, often through witty dialogue and absurd situations that challenge conventional thinking.  At the start of the novel, readers are introduced to the suburb of Saffron Park, with its colorful and eccentric inhabitants, primarily poets and artists. One evening, during a striking sunset, the anarchistic poet Lucian Gregory meets Gabriel Syme, who surprises him with bold arguments in favor of law and order, challenging Gregory's views. Their conversation escalates into a duel of ideologies when Gregory reveals his deep commitment to anarchism, which leads to a confrontation between the two. In a twist of fate, Syme's true identity as a detective is disclosed, and as he joins the anarchists disguised as one of them, the stage is set for a profound exploration of the philosophical conflict between chaos and structure in society. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Allegories",
+          "Anarchists -- Fiction",
+          "Detective and mystery stories",
+          "Fantasy fiction",
+          "London (England) -- Fiction",
+          "Police -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1695.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1695.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1695.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1695.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1695/pg1695.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/1695/1695-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1695.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1695/1695-0.txt"
+        },
+        "download_count": 85198
+      },
+      {
+        "id": 564,
+        "title": "The Mystery of Edwin Drood",
+        "authors": [
+          {
+            "name": "Dickens, Charles",
+            "birth_year": 1812,
+            "death_year": 1870
+          }
+        ],
+        "summaries": [
+          "\"The Mystery of Edwin Drood\" by Charles Dickens is a novel published in 1870. Dickens's final and unfinished work centers on John Jasper, a cathedral choirmaster and opium addict who desires his pupil Rosa Bud—the fiancée of his nephew Edwin Drood. When Edwin vanishes mysteriously after a tense reconciliation dinner with his rival Neville Landless, suspicion falls on Neville while Jasper's dark obsessions deepen. Set in the cathedral town of Cloisterham, this mystery remains unsolved, as Dickens died before revealing its conclusion. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Cathedrals -- Fiction",
+          "Choral conductors -- Fiction",
+          "England -- Fiction",
+          "Missing persons -- Fiction",
+          "Mystery fiction",
+          "Psychological fiction",
+          "Separation (Psychology) -- Fiction",
+          "Triangles (Interpersonal relations) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/564.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/564.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/564.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/564.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/564/pg564.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/564/564-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/564.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/564/564-0.txt"
+        },
+        "download_count": 82040
+      },
+      {
+        "id": 6133,
+        "title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
+        "authors": [
+          {
+            "name": "Leblanc, Maurice",
+            "birth_year": 1864,
+            "death_year": 1941
+          }
+        ],
+        "summaries": [
+          "\"The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar\" by Maurice Leblanc is a collection of stories published in 1907. This debut collection introduces the charming and cunning Arsène Lupin, a master thief who outsmarts police and high society alike. Through nine tales of daring heists, clever disguises, and audacious escapes, Lupin proves himself an unmatched criminal genius. From shipboard robberies to prison breaks, he taunts authorities—including a famous English detective—while stealing priceless treasures with impeccable style and wit. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Adventure stories, French -- Translations into English",
+          "Burglars -- Fiction",
+          "Lupin, Arsène (Fictitious character) -- Fiction",
+          "Mystery and detective stories",
+          "Short stories"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: French Literature",
+          "Category: Novels",
+          "Crime Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/6133.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/6133.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6133.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/6133.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/6133/pg6133.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/6133/pg6133-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/6133.txt.utf-8"
+        },
+        "download_count": 81952
+      },
+      {
+        "id": 42,
+        "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+        "authors": [
+          {
+            "name": "Stevenson, Robert Louis",
+            "birth_year": 1850,
+            "death_year": 1894
+          }
+        ],
+        "summaries": [
+          "\"The Strange Case of Dr. Jekyll and Mr. Hyde\" by Robert Louis Stevenson is a Gothic horror novella published in 1886. When London lawyer Gabriel John Utterson investigates strange occurrences involving his old friend Dr. Henry Jekyll and a murderous criminal named Edward Hyde, he uncovers a disturbing mystery. This defining work of Gothic horror explores the duality of human nature, examining how good and evil can intertwine within a single person. The story's impact endures today, with \"Jekyll and Hyde\" becoming synonymous with those who possess hidden, shocking darkness. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Horror tales",
+          "London (England) -- Fiction",
+          "Multiple personality -- Fiction",
+          "Physicians -- Fiction",
+          "Psychological fiction",
+          "Science fiction",
+          "Self-experimentation in medicine -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Gothic Fiction",
+          "Horror",
+          "Movie Books",
+          "Precursors of Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/42.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/42.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/42.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/42/pg42.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/42/42-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/42.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42/42-0.txt"
+        },
+        "download_count": 81534
+      },
+      {
+        "id": 2852,
+        "title": "The Hound of the Baskervilles",
+        "authors": [
+          {
+            "name": "Doyle, Arthur Conan",
+            "birth_year": 1859,
+            "death_year": 1930
+          }
+        ],
+        "summaries": [
+          "\"The Hound of the Baskervilles\" by Arthur Conan Doyle is a crime novel serialized from 1901 to 1902. Sherlock Holmes and Watson investigate a centuries-old legend of a demonic hound haunting the Baskerville family on the desolate moors of Dartmoor. When Sir Charles Baskerville dies under mysterious circumstances, his heir Sir Henry arrives from Canada to claim his inheritance—only to face strange threats and supernatural dangers. Holmes must determine whether the curse is real or if a cunning murderer lurks behind the legend. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Blessing and cursing -- Fiction",
+          "Dartmoor (England) -- Fiction",
+          "Detective and mystery stories",
+          "Dogs -- Fiction",
+          "Holmes, Sherlock (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Bestsellers, American, 1895-1923",
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2852.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2852.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2852.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2852.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2852/pg2852.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2852/pg2852-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2852.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2852/2852-0.txt"
+        },
+        "download_count": 75965
+      },
+      {
+        "id": 2148,
+        "title": "The Works of Edgar Allan Poe — Volume 2",
+        "authors": [
+          {
+            "name": "Poe, Edgar Allan",
+            "birth_year": 1809,
+            "death_year": 1849
+          }
+        ],
+        "summaries": [
+          "\"The Works of Edgar Allan Poe — Volume 2\" by Edgar Allan Poe is a collection of literary works, including short stories and essays, written during the early to mid-19th century. This volume contains a range of tales that delve into themes of mystery, horror, and the uncanny, showcasing Poe's mastery of suspenseful and psychological storytelling. Notable pieces include \"The Purloined Letter,\" which features the brilliant detective C. Auguste Dupin as he solves a complex crime involving a stolen letter of great importance, highlighting both the ingenuity of the detective and the folly of the authorities.  The opening of the volume features \"The Purloined Letter,\" where the narrator and Dupin engage in deep contemplation over previous mysteries when they are visited by Monsieur G, the Prefect of the Parisian police. The Prefect brings details of a perplexing case involving a missing letter that holds significant political power, stolen by the Minister D. As the Prefect describes his failed attempts to recover the letter, Dupin's insights reveal that the straightforward nature of the theft has eluded the authorities. The narrative sets a tone of intellectual intrigue as Dupin prepares to outsmart both the Prefect and the clever Minister, emphasizing Poe’s exploration of human intellect and the nature of perception. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "American fiction -- 19th century",
+          "Fantasy fiction",
+          "Horror tales, American",
+          "Short stories"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories",
+          "Detective Fiction",
+          "Gothic Fiction",
+          "Horror",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2148.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2148.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2148.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2148.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2148/pg2148.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2148/pg2148-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2148.txt.utf-8"
+        },
+        "download_count": 73908
+      },
+      {
+        "id": 69087,
+        "title": "The murder of Roger Ackroyd",
+        "authors": [
+          {
+            "name": "Christie, Agatha",
+            "birth_year": 1890,
+            "death_year": 1976
+          }
+        ],
+        "summaries": [
+          "\"The Murder of Roger Ackroyd\" by Agatha Christie is a detective novel published in 1926. When wealthy Roger Ackroyd is found stabbed in his study, the recently retired Hercule Poirot is called to investigate. The victim had recently learned the identity of a blackmailer from his fiancée, a widow who poisoned her husband. As Poirot unravels a complex web of secrets among the household guests and staff, the novel's narrator, local doctor James Sheppard, chronicles the investigation that leads to one of detective fiction's most controversial and groundbreaking conclusions. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Belgians -- England -- Fiction",
+          "Detective and mystery stories",
+          "Murder -- Investigation -- Fiction",
+          "Poirot, Hercule (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/69087.rdf",
+          "text/html": "https://www.gutenberg.org/ebooks/69087.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/69087.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69087.kf8.images",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/69087/pg69087.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/69087/pg69087-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/69087.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69087/69087-0.txt"
+        },
+        "download_count": 70611
+      },
+      {
+        "id": 68283,
+        "title": "The call of Cthulhu",
+        "authors": [
+          {
+            "name": "Lovecraft, H. P. (Howard Phillips)",
+            "birth_year": 1890,
+            "death_year": 1937
+          }
+        ],
+        "summaries": [
+          "\"The Call of Cthulhu\" by H. P. Lovecraft is a cosmic horror short story written in 1926 and published in 1928. After inheriting his grand-uncle's mysterious notes, Francis Wayland Thurston pieces together a terrifying puzzle involving disturbing dreams, ancient cults, and a monstrous entity called Cthulhu. His investigation leads him across continents, from New Orleans rituals to a nightmare city on an uncharted island, where something immense and ancient awaits. As Thurston uncovers the truth, he realizes he may become the next target. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Cthulhu (Fictitious character) -- Fiction",
+          "Horror tales"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Category: Short Stories"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/68283.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/68283.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68283.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/68283.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/68283/pg68283.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/68283/pg68283-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/68283.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68283/68283-0.txt"
+        },
+        "download_count": 70233
+      },
+      {
+        "id": 2147,
+        "title": "The Works of Edgar Allan Poe — Volume 1",
+        "authors": [
+          {
+            "name": "Poe, Edgar Allan",
+            "birth_year": 1809,
+            "death_year": 1849
+          }
+        ],
+        "summaries": [
+          "\"The Works of Edgar Allan Poe — Volume 1\" by Edgar Allan Poe is a collection of various literary works, likely written in the mid-19th century. This volume presents a comprehensive look at Poe’s contributions to the genres of horror, mystery, and poetry, showcasing his unique ability to navigate themes of melancholy and the supernatural. This collection includes not only the celebrated tales such as \"The Murders in the Rue Morgue\" and \"The Tell-Tale Heart,\" but also illuminating prefaces and analyses of his life and works, inviting readers to delve into the mind of one of America's most iconic writers.  The beginning of this volume contains a preface, touching upon Poe's life, struggles, and literary achievements, and it sets the tone for the exploration of his works. Notably, it includes reflections on his early life, detailing his adoption by John Allan, his education, and his tumultuous relationships, as well as mentions of his formative experiences and the challenges he faced in his literary career. The opening gives readers insight into the origins of works that blend the macabre with the poetic, suggesting that Poe's life experiences deeply influenced his storytelling. Moreover, it serves as an introduction to the themes of despair, beauty, and complexity that define his body of work, preparing readers for the profound explorations ahead. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "American fiction -- 19th century",
+          "Fantasy fiction",
+          "Horror tales, American",
+          "Poe, Edgar Allan, 1809-1849"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Poetry",
+          "Category: Short Stories",
+          "Detective Fiction",
+          "Horror",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2147.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2147.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2147.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2147.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2147/pg2147.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2147/pg2147-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2147.txt.utf-8"
+        },
+        "download_count": 69503
+      },
+      {
+        "id": 209,
+        "title": "The Turn of the Screw",
+        "authors": [
+          {
+            "name": "James, Henry",
+            "birth_year": 1843,
+            "death_year": 1916
+          }
+        ],
+        "summaries": [
+          "\"The Turn of the Screw\" by Henry James is a gothic horror novella published in 1898. A young governess arrives at a remote country estate to care for two children, only to become convinced that supernatural forces haunt the grounds. As she witnesses mysterious figures and grows increasingly alarmed by the children's behavior, the line between reality and imagination blurs. This unsettling tale has captivated readers for over a century with its deliberate ambiguity, leaving the true nature of the horror chillingly uncertain. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Children -- Fiction",
+          "England -- Fiction",
+          "Ghost stories",
+          "Governesses -- Fiction",
+          "Psychological fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Gothic Fiction",
+          "Horror",
+          "Opera"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/209.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/209.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/209.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/209.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/209/pg209.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/209/pg209-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/209.txt.utf-8"
+        },
+        "download_count": 68373
+      },
+      {
+        "id": 2097,
+        "title": "The Sign of the Four",
+        "authors": [
+          {
+            "name": "Doyle, Arthur Conan",
+            "birth_year": 1859,
+            "death_year": 1930
+          }
+        ],
+        "summaries": [
+          "\"The Sign of the Four\" by Arthur Conan Doyle is a detective novel published in 1890. When Mary Morstan seeks Sherlock Holmes's help regarding her missing father and mysterious annual gifts of pearls, the investigation leads to a buried treasure, a vengeful one-legged man, and murder. Holmes and Watson must pursue suspects through London, unraveling a decades-old conspiracy that stretches from India's colonial past to the Thames. The case tests both Holmes's deductive powers and Watson's loyalty to their intriguing client. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Detective and mystery stories",
+          "Holmes, Sherlock (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2097.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2097.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2097.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2097.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2097/pg2097.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2097/pg2097-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2097.txt.utf-8"
+        },
+        "download_count": 68164
+      },
+      {
+        "id": 204,
+        "title": "The innocence of Father Brown",
+        "authors": [
+          {
+            "name": "Chesterton, G. K. (Gilbert Keith)",
+            "birth_year": 1874,
+            "death_year": 1936
+          }
+        ],
+        "summaries": [
+          "\"The Innocence of Father Brown\" by G. K. Chesterton is a collection of detective stories written in the early 20th century. The book features Father Brown, a humble English priest with a remarkable talent for solving mysteries, as he navigates a series of crime-filled situations that often reveal deeper moral lessons and human complexities.  At the start of the first story, \"The Blue Cross,\" we are introduced to Father Brown through the perspective of a formidable French detective, Aristide Valentin, who is on the hunt for the notorious criminal Flambeau. As Valentin boards a train to London, he assesses the passengers, taking a special notice of a seemingly inconspicuous little priest. The narrative sets up a tense atmosphere filled with surprises, leading to the revelation that Brown is more than he appears. This engaging beginning hints at the blend of humor, mystery, and philosophical exploration that characterizes the entire collection, as Father Brown's acute observations and unconventional reasoning lead to unexpected solutions to the crimes he encounters. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Brown, Father (Fictitious character) -- Fiction",
+          "Catholics -- Fiction",
+          "Clergy -- Fiction",
+          "Detective and mystery stories, English",
+          "England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/204.html.images",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/204/204-h/204-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/204.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/204.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/204.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/204/pg204.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/204/pg204-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/204.txt.utf-8"
+        },
+        "download_count": 68030
+      },
+      {
+        "id": 61851,
+        "title": "El crimen y el castigo",
+        "authors": [
+          {
+            "name": "Dostoyevsky, Fyodor",
+            "birth_year": 1821,
+            "death_year": 1881
+          }
+        ],
+        "summaries": [
+          "\"El crimen y el castigo\" by Fyodor Dostoyevsky is a novel first published in 1866.\n\nAn impoverished former law student in Saint Petersburg plans to murder a pawnbroker, convincing himself that certain crimes are justifiable when committed by \"extraordinary\" men for higher purposes. But once the deed is done, he finds himself consumed by confusion, paranoia, and guilt. His theoretical justifications crumble as he confronts the internal and external consequences of his actions, plunging into profound mental anguish and moral turmoil. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Pedraza y Páez, Pedro",
+            "birth_year": 1877,
+            "death_year": null
+          }
+        ],
+        "subjects": [
+          "Crime -- Psychological aspects -- Fiction",
+          "Detective and mystery stories",
+          "Murder -- Fiction",
+          "Psychological fiction",
+          "Saint Petersburg (Russia) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Russian Literature"
+        ],
+        "languages": [
+          "es"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/61851.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/61851.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/61851.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/61851.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/61851/pg61851.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/61851/pg61851-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/61851.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/61851/61851-0.txt"
+        },
+        "download_count": 67743
+      },
+      {
+        "id": 863,
+        "title": "The Mysterious Affair at Styles",
+        "authors": [
+          {
+            "name": "Christie, Agatha",
+            "birth_year": 1890,
+            "death_year": 1976
+          }
+        ],
+        "summaries": [
+          "\"The Mysterious Affair at Styles\" by Agatha Christie is a detective novel written in the early 20th century. The story centers around the mysterious death of an elderly matriarch, Mrs. Inglethorp, at Styles Court, her estate in Essex, and the subsequent investigation into the incident. The main character is Captain Arthur Hastings, who narrates the tale and has a close association with the famed Belgian detective Hercule Poirot, who takes on the role of sleuthing to uncover the truth surrounding Mrs. Inglethorp's demise.  The beginning of the novel introduces Captain Hastings, who has returned from the front lines of World War I for a period of convalescence. He visits Styles Court at the invitation of an old acquaintance, John Cavendish, only to find himself embroiled in the complex family dynamics and tensions at play within the household. Mrs. Inglethorp's recent marriage to a much younger man, Alfred, triggers friction among the family members, particularly with her stepchildren, John and Lawrence. The narrative foreshadows underlying tensions that have escalated into a quarrel just before the tragedy strikes. Mrs. Inglethorp's sudden and dramatic transformation from a commanding presence to that of a victim sets the stage for an investigation marked by motives of greed, jealousy, and potential foul play. As Hastings recounts the sinister atmosphere enveloping Styles Court, it becomes clear that nothing is as it seems, and Poirot's keen observational skills will be needed to piece together the puzzle of the murder. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Belgians -- England -- Fiction",
+          "Detective and mystery stories",
+          "Poirot, Hercule (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/863.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/863.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/863.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/863.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/863/pg863.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/863/pg863-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/863.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/863/863-0.txt"
+        },
+        "download_count": 66730
+      },
+      {
+        "id": 108,
+        "title": "The Return of Sherlock Holmes",
+        "authors": [
+          {
+            "name": "Doyle, Arthur Conan",
+            "birth_year": 1859,
+            "death_year": 1930
+          }
+        ],
+        "summaries": [
+          "\"The Return of Sherlock Holmes\" by Arthur Conan Doyle is a collection of 13 stories published in 1905. After Holmes's apparent death in 1893's \"The Final Problem,\" Doyle faced intense pressure to revive his famous detective. This collection marks Holmes's dramatic return to London, explaining his mysterious absence from 1891 to 1894. The stories follow Holmes and Watson through new cases involving cryptic codes, missing persons, and dangerous criminals across Victorian England. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Detective and mystery stories, English",
+          "Holmes, Sherlock (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/108.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/108.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/108.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/108.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/108/pg108.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/108/pg108-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/108.txt.utf-8"
+        },
+        "download_count": 66580
+      },
+      {
+        "id": 57669,
+        "title": "The problem of Cell 13",
+        "authors": [
+          {
+            "name": "Futrelle, Jacques",
+            "birth_year": 1875,
+            "death_year": 1912
+          }
+        ],
+        "summaries": [
+          "\"The Problem of Cell 13\" by Jacques Futrelle is a short story first published in 1905. The tale features Augustus S. F. X. Van Dusen, \"The Thinking Machine,\" who claims nothing is impossible when the human mind is properly applied. To prove his theory, he accepts an extraordinary challenge: escape from a prison cell within one week. This acclaimed mystery has been adapted multiple times for television, radio, and stage, and appears in numerous collections of greatest detective stories. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Boston (Mass.) -- Fiction",
+          "College teachers -- Fiction",
+          "Detective and mystery stories",
+          "Van Dusen, Augustus S. F. X. (Fictitious character) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/57669.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/57669.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/57669.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/57669.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/57669/pg57669.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/57669/57669-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/57669.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/57669/57669-8.txt"
+        },
+        "download_count": 66312
+      },
+      {
+        "id": 61262,
+        "title": "Poirot Investigates",
+        "authors": [
+          {
+            "name": "Christie, Agatha",
+            "birth_year": 1890,
+            "death_year": 1976
+          }
+        ],
+        "summaries": [
+          "\"Poirot Investigates\" by Agatha Christie is a short story collection first published in 1924. The eleven tales follow the eccentric Belgian detective Hercule Poirot as he unravels mysteries driven by greed, jealousy, and revenge. From stolen diamonds and suspicious deaths to international espionage, each case challenges Poirot's brilliant deductive mind. With his friend Hastings by his side, Poirot employs psychological insight and theatrical flair to expose criminals and reveal the truth behind seemingly impossible crimes. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Belgians -- England -- Fiction",
+          "Detective and mystery stories, English",
+          "Poirot, Hercule (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/61262.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/61262.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/61262.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/61262.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/61262/pg61262.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/61262/pg61262-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/61262.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/61262/61262-0.txt"
+        },
+        "download_count": 66238
+      },
+      {
+        "id": 834,
+        "title": "The Memoirs of Sherlock Holmes",
+        "authors": [
+          {
+            "name": "Doyle, Arthur Conan",
+            "birth_year": 1859,
+            "death_year": 1930
+          }
+        ],
+        "summaries": [
+          "\"The Memoirs of Sherlock Holmes\" by Arthur Conan Doyle is a collection of short stories first published in 1893. This second collection features twelve cases of the consulting detective, originally appearing in The Strand Magazine. Doyle intended these to be Holmes's final adventures, culminating in \"The Final Problem,\" where he planned to kill off his famous detective. However, overwhelming reader demand eventually prompted the character's return. The stories showcase Holmes at work solving mysteries ranging from missing racehorses to naval treaties, cementing his place in literary history. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Detective and mystery stories, English",
+          "Holmes, Sherlock (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/834.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/834.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/834.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/834.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/834/pg834.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/834/pg834-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/834.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/834/834-0.txt"
+        },
+        "download_count": 66204
+      },
+      {
+        "id": 58866,
+        "title": "The Murder on the Links",
+        "authors": [
+          {
+            "name": "Christie, Agatha",
+            "birth_year": 1890,
+            "death_year": 1976
+          }
+        ],
+        "summaries": [
+          "\"The Murder on the Links\" by Agatha Christie is a detective novel published in 1923. Hercule Poirot and Captain Hastings travel to northern France to meet a client, only to discover he's been murdered and buried beside a golf course. Facing a hostile rival from the Paris Sûreté, Poirot must untangle a web of blackmail, false identities, and a decades-old crime. As Hastings falls unexpectedly in love, the case reveals that nothing is as it seems. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Detective and mystery stories",
+          "Poirot, Hercule (Fictitious character) -- Fiction",
+          "Private investigators -- England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/58866.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/58866.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/58866.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/58866.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/58866/pg58866.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/58866/58866-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/58866.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/58866/58866-0.txt"
+        },
+        "download_count": 66176
+      },
+      {
+        "id": 223,
+        "title": "The wisdom of Father Brown",
+        "authors": [
+          {
+            "name": "Chesterton, G. K. (Gilbert Keith)",
+            "birth_year": 1874,
+            "death_year": 1936
+          }
+        ],
+        "summaries": [
+          "\"The Wisdom of Father Brown\" by G. K. Chesterton is a collection of mystery stories written in the early 20th century. The book introduces Father Brown, an unconventional priest with a knack for solving crimes that baffle the authorities, using his keen insight into human nature rather than traditional detective methods. The stories often weave themes of morality and the interplay between innocence and guilt, all set against a backdrop of quaint English settings and broader philosophical discussions.  At the start of the collection, we meet Father Brown as he finds himself embroiled in a peculiar case involving two families and a mystery surrounding a young man named James Todhunter. After Todhunter is discovered bound and apparently drugged in his lodgings, suspicion falls upon his neighbor, Mr. Glass, and the circumstances lead to a confrontation between the priest and a distinguished criminologist, Dr. Orion Hood. As the tale unfolds, Brown reveals his unique blend of humor, insight, and moral conviction, turning the investigation on its head and showcasing his talents in deduction through lively dialogue and keen observation, ultimately challenging conventional notions of justice and appearance. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Brown, Father (Fictitious character) -- Fiction",
+          "Catholics -- Fiction",
+          "Clergy -- Fiction",
+          "Detective and mystery stories, English",
+          "England -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories",
+          "Detective Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/223.html.images",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/223/223-h/223-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/223.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/223.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/223.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/223/pg223.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/223/pg223-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/223.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/223/223.txt"
+        },
+        "download_count": 66117
+      },
+      {
+        "id": 583,
+        "title": "The Woman in White",
+        "authors": [
+          {
+            "name": "Collins, Wilkie",
+            "birth_year": 1824,
+            "death_year": 1889
+          }
+        ],
+        "summaries": [
+          "\"The Woman in White\" by Wilkie Collins is a mystery novel written in 1860. When a young drawing teacher encounters a mysterious woman dressed entirely in white on a London street, he unknowingly steps into a web of secrets and conspiracy. His new position teaching at an English estate draws him deeper into danger as he discovers sinister connections between the strange woman, his beautiful student, and her wealthy fiancé. Identity, deception, and a desperate fight for truth drive this early detective story. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Art teachers -- Fiction",
+          "Country homes -- Fiction",
+          "Deception -- Fiction",
+          "England -- Fiction",
+          "Gothic fiction",
+          "Inheritance and succession -- Fiction",
+          "Love stories",
+          "Nobility -- Fiction",
+          "Psychiatric hospital patients -- Fiction",
+          "Psychological fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/583.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/583.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/583.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/583.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/583/pg583.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/583/583-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/583.txt.utf-8"
+        },
+        "download_count": 65903
+      }
+    ]
+  }
+}

@@ -25,6 +25,9 @@ dist-ssr/
 .eslintcache
 *.tsbuildinfo
 coverage/
+test-results/
+playwright-report/
+artifacts/
 
 # Editor directories and files
 .vscode/*

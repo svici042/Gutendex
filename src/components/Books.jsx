@@ -47,9 +47,24 @@ export function BookGrid({ books }) {
   )
 }
 
-export function RequestState({ loading, error, retry }) {
+export function RequestState({ loading, error, retry, data, updatedAt, snapshot, stale, refreshing, slow }) {
   // Announce loading politely and errors immediately; successful requests need no message.
-  if (loading) return <p className="state-box" role="status">Henter bøker fra biblioteket …</p>
+  if (loading) return <p className="state-box" role="status">
+    {slow ? 'Boktjenesten bruker litt tid. Vi venter fortsatt på svar …' : 'Henter bøker fra biblioteket …'}
+  </p>
+  if (data && (snapshot || stale || error || refreshing)) return (
+    <div className="notice" role="status">
+      <p>
+        Viser {snapshot ? 'forhåndslagrede' : 'lagrede'} bokdata
+        {updatedAt ? ` fra ${new Date(updatedAt).toLocaleString('nb-NO')}` : ''}.
+        {refreshing ? slow ? ' Oppdateringen tar litt tid …' : ' Oppdaterer …' : ''}
+      </p>
+      {error && <>
+        <p>{error.message} Lagrede bøker er fortsatt tilgjengelige.</p>
+        <button onClick={retry}>Prøv igjen</button>
+      </>}
+    </div>
+  )
   if (error) return (
     <div className="state-box" role="alert">
       <h2>Vi fikk ikke hentet innholdet</h2>

@@ -1,0 +1,91 @@
+{
+  "source": "https://gutendex.com/books?topic=Morality",
+  "query": "/books?topic=Morality",
+  "fetchedAt": "2026-09-23T13:54:13.515Z",
+  "data": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "id": 16335,
+        "title": "Essays on the Stage: Preface to the Campaigners (1689) and Preface to the Translation of Bossuet's Maxims and Reflections on Plays (1699)",
+        "authors": [
+          {
+            "name": "D'Urfey, Thomas",
+            "birth_year": 1653,
+            "death_year": 1723
+          }
+        ],
+        "summaries": [
+          "\"Essays on the Stage\" by Thomas D'Urfey is a collection of dramatic essays and prefaces written in the late 17th century. The work addresses controversies surrounding morality and the stage, reflecting ongoing debates about the nature of comedy and its role in society at that time. D'Urfey's essays notably include a response to criticisms from Jeremy Collier, who condemned the \"immorality and profaneness\" of contemporary plays.  At the start of the collection, the author outlines his motivations for penning a familiar yet satirical preface to his comedy \"The Campaigners.\" D'Urfey reacts to the criticism he received from Collier, aiming to defend the value of theatrical expression against the moralistic lens of the contemporary critics. In a humorous and combative style, he addresses the specific points of critique laid out by Collier, asserting the importance of comedy as a form of entertainment that also serves to expose vice and encourage virtue. This opening portion effectively sets the tone for a spirited defense of the theatrical art form, blending wit with serious discourse on the moral implications of comedy in society. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Collier, Jeremy, 1650-1726. Short view of the immorality and profaneness of the English stage",
+          "Theater -- Moral and ethical aspects -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Essays, Letters & Speeches",
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/16335.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/16335.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16335.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/16335.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/16335/pg16335.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/16335/16335-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/16335.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16335/16335-8.txt"
+        },
+        "download_count": 381
+      },
+      {
+        "id": 57650,
+        "title": "The Passing of Mars: A Modern Morality Play",
+        "authors": [
+          {
+            "name": "Wilkinson, Marguerite",
+            "birth_year": 1883,
+            "death_year": 1928
+          }
+        ],
+        "summaries": [
+          "\"The Passing of Mars: A Modern Morality Play\" by Marguerite Wilkinson is a modern morality play written in the early 20th century. This theatrical work engages with themes of war, human suffering, and the struggle for peace, depicting a conflict personified by various characters representing abstract concepts such as Capital, Labor, Religion, and the Soul of Man. The play critiques the cyclical nature of war and the consequences of blind loyalty to outdated ideals.  The narrative unfolds in a world on the brink of war, where Mars, the god of war, awakens from a long slumber, hungry for destruction and chaos. The characters of Capital and Labor are embroiled in conflict over their claims to resources, while the manipulative figure of Glamour seduces them into violence. Amidst this turmoil, the Soul of Man, shackled by the powerful forces of war, struggles to break free and advocates for peace and unity. The Old Mother figure offers grave reflections on the past, lamenting the loss and suffering that war brings. Ultimately, the play culminates in a call to action for humanity to recognize their collective strength and to unite against the destructive nature of war, emphasizing the importance of solidarity and compassion for a brighter future. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Morality plays"
+        ],
+        "bookshelves": [
+          "Category: Plays/Films/Dramas"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/57650.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/57650.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/57650.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/57650.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/57650/pg57650.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/57650/57650-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/57650.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/57650/57650-0.txt"
+        },
+        "download_count": 296
+      }
+    ]
+  }
+}

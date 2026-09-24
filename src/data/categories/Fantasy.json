@@ -1,0 +1,1506 @@
+{
+  "source": "https://gutendex.com/books?topic=Fantasy",
+  "query": "/books?topic=Fantasy",
+  "fetchedAt": "2026-09-23T13:53:47.506Z",
+  "data": {
+    "count": 4640,
+    "next": "https://gutendex.com/books/?page=2&topic=Fantasy",
+    "previous": null,
+    "results": [
+      {
+        "id": 11,
+        "title": "Alice's Adventures in Wonderland",
+        "authors": [
+          {
+            "name": "Carroll, Lewis",
+            "birth_year": 1832,
+            "death_year": 1898
+          }
+        ],
+        "summaries": [
+          "\"Alice's Adventures in Wonderland\" by Lewis Carroll is a children's novel published in 1865. When a curious girl named Alice spots a White Rabbit with a pocket watch, she tumbles down a rabbit hole into an extraordinary fantasy world filled with peculiar anthropomorphic creatures. This pioneering work of literary nonsense plays with logic and language, creating a whimsical tale that delights both children and adults. Illustrated by John Tenniel, it helped transform children's literature from didactic instruction to pure entertainment. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Alice (Fictitious character from Carroll) -- Juvenile fiction",
+          "Children's stories",
+          "Fantasy fiction",
+          "Imaginary places -- Juvenile fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Children & Young Adult Reading",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Children's Literature"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/11.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/11.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/11.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/11.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/11/pg11-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/11/11-0.txt"
+        },
+        "download_count": 104902
+      },
+      {
+        "id": 345,
+        "title": "Dracula",
+        "authors": [
+          {
+            "name": "Stoker, Bram",
+            "birth_year": 1847,
+            "death_year": 1912
+          }
+        ],
+        "summaries": [
+          "\"Dracula\" by Bram Stoker is a Gothic horror novel published in 1897. Told through letters, diary entries, and newspaper articles, the story follows solicitor Jonathan Harker's terrifying encounter with Count Dracula in Transylvania. When the vampire Count travels to England and begins preying on victims in Whitby, a small group led by Professor Abraham Van Helsing must hunt him down. This seminal work of Gothic fiction has become the centrepiece of vampire literature, profoundly shaping the popular conception of vampires for generations. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Dracula, Count (Fictitious character) -- Fiction",
+          "Epistolary fiction",
+          "Gothic fiction",
+          "Horror tales",
+          "Transylvania (Romania) -- Fiction",
+          "Vampires -- Fiction",
+          "Whitby (England) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy",
+          "Gothic Fiction",
+          "Horror",
+          "Movie Books",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/345.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/345.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/345.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/345.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/345/pg345.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/345/pg345-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/345.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/345/345-0.txt"
+        },
+        "download_count": 103941
+      },
+      {
+        "id": 8492,
+        "title": "The King in Yellow",
+        "authors": [
+          {
+            "name": "Chambers, Robert W. (Robert William)",
+            "birth_year": 1865,
+            "death_year": 1933
+          }
+        ],
+        "summaries": [
+          "\"The King in Yellow\" by Robert W. Chambers is a collection of short stories published in 1895. The book opens with supernatural horror tales connected by a forbidden play that drives readers to madness. A mysterious entity called the King in Yellow, an eerie Yellow Sign, and the cursed play itself haunt the first four stories, set in a future 1920s America and Paris. The collection gradually shifts tone, ending with romantic tales, but the opening horror stories have earned acclaim as classics of weird fiction. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Horror tales, American",
+          "Short stories, American",
+          "United States -- Social life and customs -- 19th century -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Category: Short Stories",
+          "Horror"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/8492.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/8492.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8492.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/8492.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/8492/pg8492.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/8492/pg8492-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/8492.txt.utf-8"
+        },
+        "download_count": 93459
+      },
+      {
+        "id": 1695,
+        "title": "The Man Who Was Thursday: A Nightmare",
+        "authors": [
+          {
+            "name": "Chesterton, G. K. (Gilbert Keith)",
+            "birth_year": 1874,
+            "death_year": 1936
+          }
+        ],
+        "summaries": [
+          "\"The Man Who Was Thursday: A Nightmare\" by G. K. Chesterton is a philosophical novel with elements of adventure and satire, written in the late 19th century. The story revolves around the enigmatic character Gabriel Syme, a police detective who infiltrates a group of anarchists in London to uncover their plans and identities. As the narrative unfolds, it explores complex themes of order, chaos, and the nature of evil, often through witty dialogue and absurd situations that challenge conventional thinking.  At the start of the novel, readers are introduced to the suburb of Saffron Park, with its colorful and eccentric inhabitants, primarily poets and artists. One evening, during a striking sunset, the anarchistic poet Lucian Gregory meets Gabriel Syme, who surprises him with bold arguments in favor of law and order, challenging Gregory's views. Their conversation escalates into a duel of ideologies when Gregory reveals his deep commitment to anarchism, which leads to a confrontation between the two. In a twist of fate, Syme's true identity as a detective is disclosed, and as he joins the anarchists disguised as one of them, the stage is set for a profound exploration of the philosophical conflict between chaos and structure in society. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Allegories",
+          "Anarchists -- Fiction",
+          "Detective and mystery stories",
+          "Fantasy fiction",
+          "London (England) -- Fiction",
+          "Police -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1695.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1695.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1695.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1695.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1695/pg1695.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/1695/1695-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1695.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1695/1695-0.txt"
+        },
+        "download_count": 85198
+      },
+      {
+        "id": 84,
+        "title": "Frankenstein; or, the modern prometheus",
+        "authors": [
+          {
+            "name": "Shelley, Mary Wollstonecraft",
+            "birth_year": 1797,
+            "death_year": 1851
+          }
+        ],
+        "summaries": [
+          "\"Frankenstein; Or, The Modern Prometheus\" by Mary Wollstonecraft Shelley is a Gothic novel published in 1818. It tells the story of Victor Frankenstein, a young scientist who creates a living creature from assembled body parts in an unorthodox experiment. When the creature awakens, Victor flees in horror, abandoning his creation. The conscious being must navigate a world that fears him, learning language and seeking connection, only to face repeated rejection. Embittered and alone, the creature confronts his creator with a desperate request that will set both on a dark path of vengeance and tragedy. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Frankenstein's monster (Fictitious character) -- Fiction",
+          "Frankenstein, Victor (Fictitious character) -- Fiction",
+          "Gothic fiction",
+          "Horror tales",
+          "Monsters -- Fiction",
+          "Science fiction",
+          "Scientists -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy",
+          "Gothic Fiction",
+          "Movie Books",
+          "Precursors of Science Fiction",
+          "Science Fiction by Women"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/84.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/84.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/84.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/84.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/84/pg84-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/84.txt.utf-8"
+        },
+        "download_count": 82024
+      },
+      {
+        "id": 831,
+        "title": "Four Arthurian Romances",
+        "authors": [
+          {
+            "name": "Chrétien, de Troyes, active 12th century",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"Four Arthurian Romances\" by Chrétien de Troyes is a collection of medieval narratives written in the latter part of the 12th century. This work encompasses the stories of four heroes: Erec, Cligés, Yvain, and Lancelot, each exploring the themes of chivalry, romance, and adventure intertwined with the sophisticated ideals of courtly love. The romances reflect the rich tapestry of Arthurian legend, showcasing knights undertaking noble quests and engaging in battles for honor and love.  The opening of \"Four Arthurian Romances\" introduces the tale of Erec and Enide, beginning with King Arthur's court and the announcement of a hunt for the elusive White Stag, which involves a significant and potentially troublesome tradition. Erec, a prominent knight, is drawn into conflict after a dwarf and a knight insult and strike a damsel at the court. Following this assault, Erec seeks to avenge the honor of the lady, embarking on a quest that leads him through various perils and encounters. His journey sets the stage for themes of valor and love as Erec strives to prove himself worthy, ultimately leading to his romantic involvement with Enide and the promise of her marriage. The romance illustrates not just action and adventure, but also explores the emotional and social dynamics of courtly life in a quintessential chivalric manner. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Comfort, William Wistar",
+            "birth_year": 1874,
+            "death_year": 1955
+          }
+        ],
+        "subjects": [
+          "Arthurian romances",
+          "Chrétien, de Troyes, active 12th century",
+          "Romances -- Translations into English",
+          "Tales, Medieval"
+        ],
+        "bookshelves": [
+          "Arthurian Legends",
+          "Category: Adventure",
+          "Category: Classics of Literature",
+          "Category: French Literature",
+          "Category: Historical Novels",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Romance",
+          "Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/831.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/831.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/831.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/831.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/831/pg831.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/831/831-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/831.txt.utf-8"
+        },
+        "download_count": 78781
+      },
+      {
+        "id": 2148,
+        "title": "The Works of Edgar Allan Poe — Volume 2",
+        "authors": [
+          {
+            "name": "Poe, Edgar Allan",
+            "birth_year": 1809,
+            "death_year": 1849
+          }
+        ],
+        "summaries": [
+          "\"The Works of Edgar Allan Poe — Volume 2\" by Edgar Allan Poe is a collection of literary works, including short stories and essays, written during the early to mid-19th century. This volume contains a range of tales that delve into themes of mystery, horror, and the uncanny, showcasing Poe's mastery of suspenseful and psychological storytelling. Notable pieces include \"The Purloined Letter,\" which features the brilliant detective C. Auguste Dupin as he solves a complex crime involving a stolen letter of great importance, highlighting both the ingenuity of the detective and the folly of the authorities.  The opening of the volume features \"The Purloined Letter,\" where the narrator and Dupin engage in deep contemplation over previous mysteries when they are visited by Monsieur G, the Prefect of the Parisian police. The Prefect brings details of a perplexing case involving a missing letter that holds significant political power, stolen by the Minister D. As the Prefect describes his failed attempts to recover the letter, Dupin's insights reveal that the straightforward nature of the theft has eluded the authorities. The narrative sets a tone of intellectual intrigue as Dupin prepares to outsmart both the Prefect and the clever Minister, emphasizing Poe’s exploration of human intellect and the nature of perception. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "American fiction -- 19th century",
+          "Fantasy fiction",
+          "Horror tales, American",
+          "Short stories"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Short Stories",
+          "Detective Fiction",
+          "Gothic Fiction",
+          "Horror",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2148.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2148.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2148.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2148.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2148/pg2148.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2148/pg2148-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2148.txt.utf-8"
+        },
+        "download_count": 73908
+      },
+      {
+        "id": 68283,
+        "title": "The call of Cthulhu",
+        "authors": [
+          {
+            "name": "Lovecraft, H. P. (Howard Phillips)",
+            "birth_year": 1890,
+            "death_year": 1937
+          }
+        ],
+        "summaries": [
+          "\"The Call of Cthulhu\" by H. P. Lovecraft is a cosmic horror short story written in 1926 and published in 1928. After inheriting his grand-uncle's mysterious notes, Francis Wayland Thurston pieces together a terrifying puzzle involving disturbing dreams, ancient cults, and a monstrous entity called Cthulhu. His investigation leads him across continents, from New Orleans rituals to a nightmare city on an uncharted island, where something immense and ancient awaits. As Thurston uncovers the truth, he realizes he may become the next target. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Cthulhu (Fictitious character) -- Fiction",
+          "Horror tales"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Category: Short Stories"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/68283.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/68283.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68283.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/68283.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/68283/pg68283.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/68283/pg68283-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/68283.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68283/68283-0.txt"
+        },
+        "download_count": 70233
+      },
+      {
+        "id": 2147,
+        "title": "The Works of Edgar Allan Poe — Volume 1",
+        "authors": [
+          {
+            "name": "Poe, Edgar Allan",
+            "birth_year": 1809,
+            "death_year": 1849
+          }
+        ],
+        "summaries": [
+          "\"The Works of Edgar Allan Poe — Volume 1\" by Edgar Allan Poe is a collection of various literary works, likely written in the mid-19th century. This volume presents a comprehensive look at Poe’s contributions to the genres of horror, mystery, and poetry, showcasing his unique ability to navigate themes of melancholy and the supernatural. This collection includes not only the celebrated tales such as \"The Murders in the Rue Morgue\" and \"The Tell-Tale Heart,\" but also illuminating prefaces and analyses of his life and works, inviting readers to delve into the mind of one of America's most iconic writers.  The beginning of this volume contains a preface, touching upon Poe's life, struggles, and literary achievements, and it sets the tone for the exploration of his works. Notably, it includes reflections on his early life, detailing his adoption by John Allan, his education, and his tumultuous relationships, as well as mentions of his formative experiences and the challenges he faced in his literary career. The opening gives readers insight into the origins of works that blend the macabre with the poetic, suggesting that Poe's life experiences deeply influenced his storytelling. Moreover, it serves as an introduction to the themes of despair, beauty, and complexity that define his body of work, preparing readers for the profound explorations ahead. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "American fiction -- 19th century",
+          "Fantasy fiction",
+          "Horror tales, American",
+          "Poe, Edgar Allan, 1809-1849"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Poetry",
+          "Category: Short Stories",
+          "Detective Fiction",
+          "Horror",
+          "Mystery Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2147.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2147.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2147.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2147.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2147/pg2147.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2147/pg2147-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2147.txt.utf-8"
+        },
+        "download_count": 69503
+      },
+      {
+        "id": 70652,
+        "title": "At the mountains of madness",
+        "authors": [
+          {
+            "name": "Lovecraft, H. P. (Howard Phillips)",
+            "birth_year": 1890,
+            "death_year": 1937
+          }
+        ],
+        "summaries": [
+          "\"At the mountains of madness\" by H. P. Lovecraft is a science-fiction and cosmic horror novella written in 1931 and published in 1936. The story follows Dr. William Dyer as he recounts a catastrophic Antarctic expedition in 1930, hoping to prevent future explorers from returning. His team discovers an ancient alien civilization predating humanity, preserved ruins beyond towering mountains, and prehistoric creatures that defy classification. As they uncover the terrifying history of Earth's original inhabitants through ancient murals, they encounter something far more dangerous lurking in the frozen wasteland. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Antarctica -- Fiction",
+          "Fantasy fiction",
+          "Fossils -- Collection and preservation -- Fiction",
+          "Horror tales",
+          "Scientific expeditions -- Fiction",
+          "Stone carving -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/70652.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/70652.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/70652.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/70652.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/70652/pg70652.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/70652/70652-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/70652.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/70652/70652-0.txt"
+        },
+        "download_count": 65091
+      },
+      {
+        "id": 68957,
+        "title": "Weird Tales, Volume 1, Number 1, March 1923: The unique magazine",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"Weird Tales, Volume 1, Number 1, March 1923: The unique magazine by Various\" is a pulp magazine published in 1923. Founded by J. C. Henneberger and J. M. Lansinger, this debut issue launched what would become a legendary publication in fantasy and horror fiction. Under editor Edwin Baird, the magazine introduced early works by writers who would shape the genre, including H. P. Lovecraft, Seabury Quinn, and Clark Ashton Smith. Despite initial financial struggles, this first issue marked the beginning of a magazine dedicated to unusual, supernatural stories that had never before found a specialized home. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Baird, Edwin",
+            "birth_year": 1886,
+            "death_year": 1957
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Adventure stories -- Periodicals",
+          "Fantasy literature, American -- Periodicals",
+          "Fantasy literature, English -- Periodicals",
+          "Horror tales, American -- Periodicals",
+          "Horror tales, English -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Category: Short Stories"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/68957.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/68957.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/68957.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/68957.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/68957/pg68957.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/68957/68957-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/68957.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/68957/68957-0.txt"
+        },
+        "download_count": 63917
+      },
+      {
+        "id": 69608,
+        "title": "Weird Tales, Volume 1, Number 4, June, 1923: The unique magazine",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"Weird Tales, Volume 1, Number 4, June, 1923: The Unique Magazine\" by Various is a collection of short stories written in the early 20th century. This particular volume presents a variety of thrilling and chilling tales, showcasing the genre of weird fiction which often delves into the uncanny, the supernatural, and the bizarre. It features a range of characters, including intriguing figures like Colonel Knight and Ah Wing, who navigate treacherous circumstances filled with suspense and intrigue.  The opening of \"Weird Tales\" introduces readers to a mélange of literary offerings with a particular focus on a story titled \"The Evening Wolves,\" which centers around Colonel Knight, a man hunted by the remnants of a criminal gang he once led. Knight's desperation leads him to Ah Wing, a mysterious Chinaman, as he seeks refuge. Set against a backdrop of dark alleys and hidden doors, the narrative hints at supernatural elements intertwined with themes of deceit and danger, as Knight confronts the ghosts of his past. In this atmospheric and suspenseful beginning, the story sets the stage for a tense confrontation between Knight and his old comrades, positioning Ah Wing as a pivotal character whose intentions remain shrouded in mystery. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Baird, Edwin",
+            "birth_year": 1886,
+            "death_year": 1957
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Adventure stories -- Periodicals",
+          "Fantasy literature, American -- Periodicals",
+          "Fantasy literature, English -- Periodicals",
+          "Horror tales, American -- Periodicals",
+          "Horror tales, English -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Category: Short Stories"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/69608.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/69608.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69608.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/69608.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/69608/pg69608.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/69608/pg69608-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/69608.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69608/69608-0.txt"
+        },
+        "download_count": 63499
+      },
+      {
+        "id": 72,
+        "title": "Thuvia, maid of Mars",
+        "authors": [
+          {
+            "name": "Burroughs, Edgar Rice",
+            "birth_year": 1875,
+            "death_year": 1950
+          }
+        ],
+        "summaries": [
+          "\"Thuvia, Maid of Mars\" by Edgar Rice Burroughs is a science fantasy novel published in 1916. The fourth book in the Barsoom series shifts focus to Carthoris, son of John Carter, who loves Princess Thuvia of Ptarth—a woman promised to another. When Thuvia is kidnapped and Carthoris is framed, war threatens to erupt between Martian nations. His desperate rescue mission leads him to ancient Lothar, where a mysterious race creates deadly illusions from pure thought. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Mars (Planet) -- Fiction",
+          "Martians -- Fiction",
+          "Science fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: American Literature",
+          "Category: Romance",
+          "Category: Science-Fiction & Fantasy",
+          "Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/72.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/72.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/72.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/72.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/72/pg72.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/72/72-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/72.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/72/72-0.txt"
+        },
+        "download_count": 58543
+      },
+      {
+        "id": 10002,
+        "title": "The House on the Borderland",
+        "authors": [
+          {
+            "name": "Hodgson, William Hope",
+            "birth_year": 1877,
+            "death_year": 1918
+          }
+        ],
+        "summaries": [
+          "\"The House on the Borderland\" by William Hope Hodgson is a supernatural horror novel published in 1908. A recluse living in an ancient, circular house in remote Ireland records his terrifying experiences in a journal later discovered by two fishermen. He encounters monstrous Swine-creatures emerging from a mysterious pit, experiences visions of cosmic dimensions and otherworldly arenas, and witnesses time itself accelerating toward the end of the universe. This hallucinatory tale influenced H. P. Lovecraft and pioneered modern cosmic horror. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Science fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy",
+          "Fantasy",
+          "Horror",
+          "Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/10002.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/10002.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/10002.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/10002.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/10002/pg10002.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/10002/pg10002-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/10002.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/10002/10002-0.txt"
+        },
+        "download_count": 58250
+      },
+      {
+        "id": 2825,
+        "title": "Undine",
+        "authors": [
+          {
+            "name": "La Motte-Fouqué, Friedrich Heinrich Karl, Freiherr de",
+            "birth_year": 1777,
+            "death_year": 1843
+          }
+        ],
+        "summaries": [
+          "\"Undine\" by Friedrich de la Motte Fouque is a romantic fairy tale novel written in the early 19th century. The story follows Undine, a water sprite, and her encounters with humans, particularly focusing on her relationship with Sir Huldbrand of Ringstetten. The narrative delves into themes of love, sacrifice, and the quest for a soul, addressing the nature of humanity through the lens of supernatural elements.  The beginning of \"Undine\" introduces the idyllic setting of a picturesque cottage by a lake, where a fisherman lives with his aged wife. Their life is disrupted by the arrival of a knight, Sir Huldbrand, who is seeking shelter. During their evening together, they discuss the strange and whimsical personality of their adopted daughter, Undine, who is portrayed as a beautiful yet mischievous water spirit. The narrative hints at the mysteries surrounding Undine's origin, her connection to the water, and the potential for deeper magical and romantic entanglements as the knight becomes captivated by her charm. As the evening unfolds, Undine's enchanting presence foreshadows the challenges and adventures that lie ahead for both her and Sir Huldbrand. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Fairy tales -- Germany",
+          "Fantasy fiction",
+          "Knights and knighthood -- Fiction",
+          "Love stories",
+          "Romances -- Translations into English",
+          "Water spirits -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: German Literature",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Novels",
+          "Category: Romance",
+          "Category: Science-Fiction & Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2825.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2825.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2825.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2825.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2825/pg2825.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/2825/2825-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2825.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2825/2825-0.txt"
+        },
+        "download_count": 55611
+      },
+      {
+        "id": 22541,
+        "title": "The Misplaced Battleship",
+        "authors": [
+          {
+            "name": "Harrison, Harry",
+            "birth_year": 1925,
+            "death_year": 2012
+          }
+        ],
+        "summaries": [
+          "\"The Misplaced Battleship\" by Harry Harrison is a science fiction novel written in the early 1960s. The story revolves around interstellar intrigue and crime, specifically the implications of a powerful battleship being secretly built in a peaceful sector of the galaxy. It addresses themes of deception, adventure, and the moral complexities faced by characters navigating both lawful and unlawful pursuits in a futuristic setting.  The narrative follows the protagonist, Slippery Jim diGriz, a master thief turned agent for the Special Corps, as he uncovers a plot involving the covert construction of a Warlord-class battleship on the planet Cittanuvo. DiGriz, initially sent to investigate, finds himself embroiled in a deeper conspiracy when he discovers that a criminal mastermind named Pepe Nero, with the assistance of a cunning woman named Angelina, has orchestrated the construction and theft of the battleship for his own nefarious purposes. As diGriz races against time to apprehend Pepe and prevent chaos, he finds that nothing is as straightforward as it seems, challenging his wits and resolve at every turn. The climax showcases a tense showdown as diGriz confronts the duo, ultimately leading to unexpected twists and moral dilemmas about loyalty and betrayal. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Criminals -- Fiction",
+          "DiGriz, James Bolivar (Fictitious character) -- Fiction",
+          "Police -- Fiction",
+          "Science fiction",
+          "Space ships -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/22541.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/22541.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/22541.kf8.images",
+          "application/octet-stream": "https://www.gutenberg.org/files/22541/22541-page-images/p069.png",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/22541.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/22541/pg22541.cover.medium.jpg",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/22541.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/22541/22541.txt"
+        },
+        "download_count": 51104
+      },
+      {
+        "id": 18151,
+        "title": "Time Crime",
+        "authors": [
+          {
+            "name": "Piper, H. Beam",
+            "birth_year": 1904,
+            "death_year": 1964
+          }
+        ],
+        "summaries": [
+          "\"Time Crime\" by H. Beam Piper is a science fiction novel written in the mid-20th century. The story revolves around the operations of the Paratime Police, tasked with investigating a sinister slave trade that transgresses multiple timelines. The protagonist, Kiro Soran, a guard captain, uncovers a chilling link between slaves bought at a plantation and their origins on a different temporal line, leading to a complex investigation that intertwines with various characters while grappling with moral dilemmas.  The opening of \"Time Crime\" introduces readers to a plantation on the Third Level Esaron Sector, where Kiro Soran and Dosu Golan, the plantation manager, are involved in the purchase of a hundred slaves from a Calera dealer. As Soran observes the slaves, he realizes they are not local but from the Kholghoor Sector in India, suggesting they were kidnapped and brought through time for sale. This discovery prompts Soran to take action, alerting the Paratime Police and setting the stage for a deeper investigation into the criminal activities of the mysterious slave traders known as the Wizard Traders. The opening establishes a tense atmosphere and the gravity of the situation, hinting at the broader implications of time travel and ethics in the context of slavery and commerce. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Science fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/18151.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/18151.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18151.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/18151.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/18151/pg18151.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/18151/18151-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/18151.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/18151/18151-8.txt"
+        },
+        "download_count": 47232
+      },
+      {
+        "id": 45839,
+        "title": "Dracula",
+        "authors": [
+          {
+            "name": "Stoker, Bram",
+            "birth_year": 1847,
+            "death_year": 1912
+          }
+        ],
+        "summaries": [
+          "\"Dracula\" by Bram Stoker is a Gothic horror novel published in 1897. Told through letters, diary entries, and newspaper articles, the story follows solicitor Jonathan Harker's terrifying encounter with Count Dracula in Transylvania. When the vampire Count flees to England and begins stalking victims in Whitby, a small group led by Professor Abraham Van Helsing must hunt him down. Drawing from folklore and history, Stoker created what became the seminal work of vampire fiction and the most portrayed literary character in history. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Dracula, Count (Fictitious character) -- Fiction",
+          "Epistolary fiction",
+          "Gothic fiction",
+          "Horror tales",
+          "Transylvania (Romania) -- Fiction",
+          "Vampires -- Fiction",
+          "Whitby (England) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/45839.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/45839.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/45839.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/45839.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/45839/pg45839.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/45839/pg45839-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/45839.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/45839/45839-0.txt"
+        },
+        "download_count": 47062
+      },
+      {
+        "id": 10441,
+        "title": "The Green Mouse",
+        "authors": [
+          {
+            "name": "Chambers, Robert W. (Robert William)",
+            "birth_year": 1865,
+            "death_year": 1933
+          }
+        ],
+        "summaries": [
+          "\"The Green Mouse\" by Robert W. Chambers is a novel written during the early 20th century. The story introduces a young man forced to confront his privileged yet idle life after facing financial ruin. He grapples with his lack of practical skills and contemplates a career as a magician, leveraging his unusual talents to entertain others. The narrative begins to develop his relationship with a young artist who shares a complex bond with him as they both navigate their personal struggles.  At the start of the novel, readers meet a disheartened young man reeling from his family's financial collapse and his own failure to secure a stable future. Apathetic about work and life choices, he begins to consider using his talent for magic as a profession despite not being sure of its acceptance in society. This phase of his life is marked by a chance encounter with a spirited girl in Central Park, leading to a tense moment when she loses control of her horse. Their interaction ignites an immediate but complicated connection as they become intertwined in each other's lives. As the opening progresses, the groundwork is laid for both a comedic and romantic narrative, where themes of financial struggle, aspiration, and serendipity intertwine, setting the tone for their evolving relationship. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Courtship -- Fiction",
+          "Fantasy fiction",
+          "Magic -- Fiction",
+          "New York (N.Y.) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Humour",
+          "Category: Novels",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/10441.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/10441.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/10441.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/10441.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/10441/pg10441.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/10441/pg10441-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/10441.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/10441/10441-0.txt"
+        },
+        "download_count": 46822
+      },
+      {
+        "id": 20121,
+        "title": "Lone Star Planet",
+        "authors": [
+          {
+            "name": "Piper, H. Beam",
+            "birth_year": 1904,
+            "death_year": 1964
+          },
+          {
+            "name": "McGuire, John J. (John Joseph)",
+            "birth_year": 1917,
+            "death_year": 1981
+          }
+        ],
+        "summaries": [
+          "\"Lone Star Planet\" by H. Beam Piper and John J. McGuire is a science-fiction novel first published in 1957. When diplomat Stephen Silk is banished to New Texas after writing a controversial article, he discovers a world where assassinating politicians is legal—as long as the killer proves their victim \"needed killin'.\" His predecessor was murdered, and evidence suggests he's next. Silk must navigate deadly politics while convincing New Texans to join the Solar League against an alien threat. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Science fiction",
+          "Space colonies -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/20121.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/20121/20121-8.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/20121.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/20121.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/20121.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/20121.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/20121/pg20121.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/20121/20121-8.zip"
+        },
+        "download_count": 45799
+      },
+      {
+        "id": 77092,
+        "title": "She who sleeps : $b A romance of New York and the Nile",
+        "authors": [
+          {
+            "name": "Rohmer, Sax",
+            "birth_year": 1883,
+            "death_year": 1959
+          }
+        ],
+        "summaries": [
+          "\"She who sleeps :  A romance of New York and the Nile\" by Sax Rohmer is a novel written in the early 20th century. It blends New York society intrigue with Egyptian archaeology and a hint of the supernatural. The story centers on Barry Cumberland, a wealthy collector’s son haunted by a mysterious, priestess-like woman and drawn into an expedition proposed by the imposing dealer Danbazzar, whose papyrus hints at a princess preserved alive across millennia. Expect romance, occult science, and a transatlantic chase that links a modern mystery to pharaonic secrets.  The opening of the story follows Barry racing through a mountain storm, glimpsing an Egyptian-looking woman on a balcony moments before crashing his car, then awakening in a hospital with a nameless rescuer and no way to trace the site. He finds the secluded house but meets only a hostile caretaker and shuttered windows, later spotting the same woman from afar in a walled garden, again behind a veil in a passing limousine, and possibly once more at a pier. Meanwhile, Barry’s father entertains Danbazzar, who unveils a unique papyrus about Princess Zalithea, a captive allegedly placed into suspended life in Seti’s time; experts authenticate the document while debating its claims, and Danbazzar reveals he has located the unopened tomb and a related formula. John Cumberland agrees to fund an excavation up the Nile, and as plans form, Barry prepares to depart—still compelled by the elusive woman whose appearances bookend the beginning. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Egyptologists -- Fiction",
+          "Excavations (Archaeology) -- Egypt -- Fiction",
+          "Love stories",
+          "New York (N.Y.) -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/77092.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/77092.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/77092.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/77092.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/77092/pg77092.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/77092/pg77092-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/77092.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/77092/77092-0.txt"
+        },
+        "download_count": 45465
+      },
+      {
+        "id": 1514,
+        "title": "A Midsummer Night's Dream",
+        "authors": [
+          {
+            "name": "Shakespeare, William",
+            "birth_year": 1564,
+            "death_year": 1616
+          }
+        ],
+        "summaries": [
+          "\"A Midsummer Night's Dream\" by William Shakespeare is a comedy play written in about 1595 or 1596. Set in ancient Athens, the story weaves together multiple plots surrounding the wedding of Duke Theseus and Amazon Queen Hippolyta. Four young Athenian lovers become entangled in romantic confusion, while amateur actors rehearse a play for the wedding celebration. When both groups wander into an enchanted forest, mischievous fairies manipulate their affairs with magical potions, creating chaos under the moonlight as the fairy king and queen pursue their own domestic quarrel. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Athens (Greece) -- Drama",
+          "Comedy plays",
+          "Courtship -- Drama",
+          "Fairy plays"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Humour",
+          "Category: Plays/Films/Dramas",
+          "Category: Romance",
+          "Category: Science-Fiction & Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1514.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1514.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1514.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1514.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1514/pg1514.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1514/pg1514-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1514.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1514/1514-0.txt"
+        },
+        "download_count": 45367
+      },
+      {
+        "id": 76412,
+        "title": "Le cas étrange du docteur Jekyll; Un logement pour la nuit",
+        "authors": [
+          {
+            "name": "Stevenson, Robert Louis",
+            "birth_year": 1850,
+            "death_year": 1894
+          }
+        ],
+        "summaries": [
+          "\"Le cas étrange du docteur Jekyll; Un logement pour la nuit\" by Stevenson is a collection of fiction written in the late 19th century. It pairs a Gothic investigation into the bond between the esteemed Dr. Jekyll and the menacing Mr. Hyde with an additional tale likely set in medieval Paris. The main thread follows lawyer Mr. Utterson as he probes the unsettling overlap between public respectability and hidden vice in Victorian London.  The opening of the collection introduces Mr. Utterson, who hears Enfield’s story of a cruel, small man named Hyde using a key to a mysterious door and producing a dubious cheque linked to Dr. Jekyll. Troubled by Jekyll’s will that favors Hyde, Utterson seeks and confronts Hyde, confirms his access to Jekyll’s home, and soon learns of the savage murder of Sir Danvers Carew; Hyde disappears, while police find evidence in his Soho rooms. Jekyll disavows Hyde and shows a note, which Utterson’s clerk remarks resembles Jekyll’s handwriting; Lanyon then falls fatally ill after a secret rupture with Jekyll and dies, leaving a sealed packet, while Jekyll grows reclusive. The section ends as Poole, Jekyll’s servant, fearfully begs Utterson to come at once, implying something is terribly wrong behind the locked laboratory door. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Lowe, B. J. (Berthe Julienne)",
+            "birth_year": 1853,
+            "death_year": 1909
+          }
+        ],
+        "subjects": [
+          "Horror tales",
+          "London (England) -- Fiction",
+          "Multiple personality -- Fiction",
+          "Physicians -- Fiction",
+          "Psychological fiction",
+          "Science fiction",
+          "Self-experimentation in medicine -- Fiction",
+          "Short stories, English -- Translations into French"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy",
+          "Category: Short Stories"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/76412.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/76412.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/76412.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/76412.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/76412/pg76412.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/76412/pg76412-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/76412.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/76412/76412-0.txt"
+        },
+        "download_count": 45266
+      },
+      {
+        "id": 24149,
+        "title": "The Ambulance Made Two Trips",
+        "authors": [
+          {
+            "name": "Leinster, Murray",
+            "birth_year": 1896,
+            "death_year": 1975
+          }
+        ],
+        "summaries": [
+          "\"The Ambulance Made Two Trips\" by Murray Leinster is a science fiction short story written in the early 1960s. The narrative follows Detective Sergeant Fitzgerald as he navigates the underbelly of crime in a town plagued by the nefarious activities of racketeer Big Jake Connors. The story delves into themes of corruption, ethics in law enforcement, and the extraordinary concepts of psionics and probability manipulation.  In the plot, Detective Fitzgerald finds himself embroiled in a situation where violent intentions go awry, thanks to a psi unit utilized by a man named Brink, who seeks to thwart Big Jake's threats against his business. As Fitzgerald investigates odd occurrences surrounding Big Jake's schemes, he discovers that those intending harm find their plans thwarted, leading to mishaps instead of violent outcomes—such as pants catching fire or perpetrators crashing their cars. The story concludes with Fitzgerald and Brink confronting Big Jake and his thugs, highlighting how the unexpected consequences of esoteric forces can alter destiny. The intertwining of crime and speculative sci-fi elements creates a unique narrative exploring the implications of powerlessness against corrupt influences. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Gangsters -- Fiction",
+          "Luck -- Fiction",
+          "Police -- Fiction",
+          "Science fiction",
+          "Short stories"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Science-Fiction & Fantasy",
+          "Category: Short Stories",
+          "Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/24149.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/24149.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/24149.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/24149.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/24149/pg24149.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/24149/24149-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/24149.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/24149/24149-8.txt"
+        },
+        "download_count": 44255
+      },
+      {
+        "id": 23599,
+        "title": "The Big Fix",
+        "authors": [
+          {
+            "name": "Smith, George O. (George Oliver)",
+            "birth_year": 1911,
+            "death_year": 1981
+          }
+        ],
+        "summaries": [
+          "\"The Big Fix\" by George O. Smith is a science fiction novel written in the mid-20th century. The story takes place in a world where telepathy and psi powers exist, creating a complex social landscape where manipulations of chance and human nature become intricate games. The narrative revolves around the protagonist, Wally Wilson, who is confronted with an outrageous request to fix the outcome of the Kentucky Derby involving three seemingly incapable horses.  In the plot, Wally finds himself coerced by the enigmatic Joseph Barcelona into ensuring that Flying Heels, Moonbeam, and Lady Grace finish in a specific order at the Derby. As he navigates the dangerous intersection of crime, telepathy, and the law, Wally grapples with the ethical implications of his predicament. The story is enriched with a cast of colorful characters, including the tough yet captivating Tomboy Taylor, and Lieutenant Delancey, who is suspicious of Wally's activities. Throughout the book, Wally's struggle to balance friendship, criminal activity, and his own moral compass leads to a clever resolution where human nature ultimately thwarts Barcelona's plan, illustrating the resilience of integrity amid the temptations of manipulation. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Horse racing -- Fiction",
+          "Psychic ability -- Fiction",
+          "Science fiction",
+          "Short stories",
+          "Telepathy -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Science-Fiction & Fantasy",
+          "Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/23599.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/23599.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/23599.kf8.images",
+          "application/octet-stream": "https://www.gutenberg.org/files/23599/23599-page-images/p058-image.png",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/23599.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/23599/pg23599.cover.medium.jpg",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/23599.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/23599/23599-8.txt"
+        },
+        "download_count": 43923
+      },
+      {
+        "id": 26563,
+        "title": "The Crack of Doom",
+        "authors": [
+          {
+            "name": "Cromie, Robert",
+            "birth_year": 1856,
+            "death_year": 1907
+          }
+        ],
+        "summaries": [
+          "\"The Crack of Doom\" by Robert Cromie is a novel written in the late 19th century. The narrative centers on Arthur Marcel, a British traveler who meets the enigmatic Herbert Brande during a sea voyage. As Marcel becomes embroiled in Brande's mysterious society, he finds himself drawn to Brande's sister, Natalie, and grapples with the implications of their association with a group that seems to hold sinister secrets about the nature of the universe and the fate of mankind.  The opening of the book introduces us to Arthur Marcel, who, while on a ship heading for Queenstown, encounters Herbert Brande, whose cynical views on the universe spark a profound conversation. Their meeting hints at deeper themes as Marcel learns about Brande's newly formed \"Cui Bono Society.\" The narrative quickly shifts towards Marcel's obsession with Brande's sister, Natalie, and the peculiar elegance of her character, which contrasts sharply with her brother's cold rationalism. Tension grows as the plot establishes the society's unsettling aims, presenting a tantalizing blend of romance, scientific intrigue, and existential dread. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Nuclear explosions -- Fiction",
+          "Paranormal fiction",
+          "Science fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Novels",
+          "Category: Romance",
+          "Category: Science-Fiction & Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/26563.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/26563.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/26563.kf8.images",
+          "application/octet-stream": "https://www.gutenberg.org/files/26563/26563-page-images/f0001.png",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/26563.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/26563/pg26563.cover.medium.jpg",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/26563.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/26563/26563-8.txt"
+        },
+        "download_count": 43084
+      },
+      {
+        "id": 55,
+        "title": "The Wonderful Wizard of Oz",
+        "authors": [
+          {
+            "name": "Baum, L. Frank (Lyman Frank)",
+            "birth_year": 1856,
+            "death_year": 1919
+          }
+        ],
+        "summaries": [
+          "\"The Wonderful Wizard of Oz\" by L. Frank Baum is a children's novel written in 1900. When a cyclone sweeps young Dorothy and her dog Toto from Kansas to the magical Land of Oz, she discovers only one way home: she must destroy the Wicked Witch of the West. Joined by a Scarecrow seeking brains, a Tin Woodman wanting a heart, and a Cowardly Lion desiring courage, Dorothy follows the yellow brick road to seek help from the mysterious Wizard of Oz. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Courage -- Juvenile fiction",
+          "Cowardly Lion (Fictitious character) -- Juvenile fiction",
+          "Cyclones -- Juvenile fiction",
+          "Dreams -- Juvenile fiction",
+          "Fantasy literature",
+          "Gale, Dorothy (Fictitious character) -- Juvenile fiction",
+          "Good and evil -- Juvenile fiction",
+          "Home -- Juvenile fiction",
+          "Oz (Imaginary place) -- Juvenile fiction",
+          "Scarecrow (Fictitious character from Baum) -- Juvenile fiction",
+          "Tin Woodman (Fictitious character) -- Juvenile fiction",
+          "Toto (Fictitious character) -- Juvenile fiction",
+          "Witches -- Juvenile fiction",
+          "Wizard of Oz (Fictitious character) -- Juvenile fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: American Literature",
+          "Category: Children & Young Adult Reading",
+          "Category: Science-Fiction & Fantasy",
+          "Children's Literature",
+          "Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/55.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/55.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/55.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/55.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/55/pg55.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/55/55-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/55.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/55/55-0.txt"
+        },
+        "download_count": 42548
+      },
+      {
+        "id": 40284,
+        "title": "The Sex Life of the Gods",
+        "authors": [
+          {
+            "name": "Knerr, M. E. (Michael E.)",
+            "birth_year": 1936,
+            "death_year": 1999
+          }
+        ],
+        "summaries": [
+          "\"The Sex Life of the Gods\" by M. E. Knerr is a science fiction novel written in the early 1960s. The story intricately weaves themes of amnesia, mystery, and romance, centering around the protagonist, Nick Danson, who awakens near the wreckage of a mysterious aircraft with no memory of his past. As Nick navigates the complexities of his relationship with his wife, Beth, he is also pursued by unknown figures and burdened with the task of uncovering the truth about his identity and the circumstances surrounding his disappearance.  At the start of the narrative, Nick regains consciousness in a forest, realizing he has survived a plane crash but has lost all recollections of his life, including details about the enigmatic woman he discovers is his wife, Beth. As he attempts to piece together fragments of his past, including the possibility of being linked to a strange craft recovered by authorities, readers are introduced to Beth's unwavering hope for Nick's return and the growing tension surrounding their reunion. The intrigue heightens further with the presence of government agents investigating the crash, prompting a mix of thrills and suspense as Nick grapples with his lost memories and the bizarre life he may have unknowingly led. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Extraterrestrial beings -- Fiction",
+          "Science fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Romance",
+          "Category: Science-Fiction & Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/40284.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/40284/40284-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/40284.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/40284.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/40284.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/40284.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/40284/pg40284.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/40284/pg40284-h.zip"
+        },
+        "download_count": 41358
+      },
+      {
+        "id": 30434,
+        "title": "Occasion ... for Disaster",
+        "authors": [
+          {
+            "name": "Garrett, Randall",
+            "birth_year": 1927,
+            "death_year": 1987
+          },
+          {
+            "name": "Janifer, Laurence M.",
+            "birth_year": 1933,
+            "death_year": 2002
+          }
+        ],
+        "summaries": [
+          "\"Occasion ... for Disaster\" by Randall Garrett and Laurence M. Janifer is a science fiction novel likely written in the late 20th century. The book explores themes of governmental inefficiency and potential sabotage within the halls of power, following the character Kenneth J. Malone, an FBI agent with unique abilities, who is tasked with investigating anomalies affecting government machinery. The narrative captures a blend of humor and intrigue as Malone navigates his investigation amidst an odd assortment of characters and situations.  The opening of the story introduces Malone and his boss, Andrew J. Burris, as they grapple with an inexplicable crisis in government communications that seems to stem from computer errors, leading to serious political repercussions. As Malone is thrust into this complicated situation, he learns that various lawmakers are facing sabotage in their legislative efforts, attributed to misinformation generated by their computer systems. The dialogue is witty and reveals Malone's talents, including teleportation, which complicate his interactions with a skeptical bureaucracy. As Malone begins to delve deeper into the investigation, it becomes evident that the disruptions may have a paranormal aspect tied to psychological manipulation, setting the stage for a thrilling exploration of conspiracies and hidden powers within the government. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Psychic ability -- Fiction",
+          "Science fiction",
+          "Telepathy -- Fiction",
+          "United States. Federal Bureau of Investigation -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Humour",
+          "Category: Science-Fiction & Fantasy",
+          "Science Fiction"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/30434.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/30434.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30434.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/30434.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/30434/pg30434.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/30434/pg30434-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/30434.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/30434/30434-0.txt"
+        },
+        "download_count": 39973
+      },
+      {
+        "id": 4791,
+        "title": "Voyage au Centre de la Terre",
+        "authors": [
+          {
+            "name": "Verne, Jules",
+            "birth_year": 1828,
+            "death_year": 1905
+          }
+        ],
+        "summaries": [
+          "\"Voyage au Centre de la Terre\" by Jules Verne is an adventure novel written in 1864. When a German professor deciphers a cryptic runic message from a 16th-century alchemist, he discovers instructions for reaching the Earth's center through an Icelandic volcano. Together with his reluctant nephew and an unflappable guide, he embarks on an extraordinary underground expedition that challenges scientific theories of the time. This pioneering work blends geological knowledge, paleontology, and daring speculation into a subterranean journey of discovery. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Adventure stories",
+          "Earth (Planet) -- Core -- Fiction",
+          "Science fiction",
+          "Voyages, Imaginary -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: Classics of Literature",
+          "Category: French Literature",
+          "Category: Science-Fiction & Fantasy",
+          "FR Littérature",
+          "FR Science fiction",
+          "Science Fiction"
+        ],
+        "languages": [
+          "fr"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/4791.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/4791.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4791.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/4791.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/4791/pg4791.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/4791/4791-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/4791.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4791/4791-0.txt"
+        },
+        "download_count": 39276
+      },
+      {
+        "id": 10148,
+        "title": "The Merry Adventures of Robin Hood",
+        "authors": [
+          {
+            "name": "Pyle, Howard",
+            "birth_year": 1853,
+            "death_year": 1911
+          }
+        ],
+        "summaries": [
+          "\"The Merry Adventures of Robin Hood\" by Howard Pyle is a novel published in 1883. This retelling transforms traditional Robin Hood ballads into a unified adventure story for young readers. Follow Robin Hood as he becomes an outlaw, recruits his Merry Men through legendary encounters, and battles corrupt authorities in Sherwood Forest. Pyle reimagined Robin as a noble hero who robs the rich to help the poor, creating an enduring version of the legend that influenced countless adaptations and established the Robin Hood story as beloved children's literature. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Folklore -- England",
+          "Robin Hood (Legendary character) -- Legends"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Historical Novels",
+          "Category: Mythology, Legends & Folklore",
+          "Fantasy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/10148.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/10148.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/10148.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/10148.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/10148/pg10148.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/10148/pg10148-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/10148.txt.utf-8"
+        },
+        "download_count": 35394
+      },
+      {
+        "id": 16,
+        "title": "Peter Pan : $b [Peter and Wendy]",
+        "authors": [
+          {
+            "name": "Barrie, J. M. (James Matthew)",
+            "birth_year": 1860,
+            "death_year": 1937
+          }
+        ],
+        "summaries": [
+          "\"Peter Pan: [Peter and Wendy]\" by J. M. Barrie is a work that began as a play in 1904 and became a novel in 1911. It tells the story of Peter Pan, a mischievous boy who can fly and never grows up. He whisks Wendy Darling and her brothers away to Neverland, a magical island inhabited by mermaids, fairies, and pirates. There, they encounter the Lost Boys and face off against the villainous Captain Hook, all while navigating adventures that blur the line between childhood wonder and danger. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Fairies -- Fiction",
+          "Fantasy literature",
+          "Never-Never Land (Imaginary place) -- Fiction",
+          "Peter Pan (Fictitious character) -- Fiction",
+          "Pirates -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Children & Young Adult Reading",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Children's Literature",
+          "Movie Books"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/16.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/16.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/16.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/16.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/16/pg16.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/16/pg16-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/16.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/16/16-0.txt"
+        },
+        "download_count": 34401
+      }
+    ]
+  }
+}

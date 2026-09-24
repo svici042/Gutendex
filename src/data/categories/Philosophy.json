@@ -1,0 +1,1533 @@
+{
+  "source": "https://gutendex.com/books?topic=Philosophy",
+  "query": "/books?topic=Philosophy",
+  "fetchedAt": "2026-09-23T13:59:33.519Z",
+  "data": {
+    "count": 3538,
+    "next": "https://gutendex.com/books/?page=2&topic=Philosophy",
+    "previous": null,
+    "results": [
+      {
+        "id": 1695,
+        "title": "The Man Who Was Thursday: A Nightmare",
+        "authors": [
+          {
+            "name": "Chesterton, G. K. (Gilbert Keith)",
+            "birth_year": 1874,
+            "death_year": 1936
+          }
+        ],
+        "summaries": [
+          "\"The Man Who Was Thursday: A Nightmare\" by G. K. Chesterton is a philosophical novel with elements of adventure and satire, written in the late 19th century. The story revolves around the enigmatic character Gabriel Syme, a police detective who infiltrates a group of anarchists in London to uncover their plans and identities. As the narrative unfolds, it explores complex themes of order, chaos, and the nature of evil, often through witty dialogue and absurd situations that challenge conventional thinking.  At the start of the novel, readers are introduced to the suburb of Saffron Park, with its colorful and eccentric inhabitants, primarily poets and artists. One evening, during a striking sunset, the anarchistic poet Lucian Gregory meets Gabriel Syme, who surprises him with bold arguments in favor of law and order, challenging Gregory's views. Their conversation escalates into a duel of ideologies when Gregory reveals his deep commitment to anarchism, which leads to a confrontation between the two. In a twist of fate, Syme's true identity as a detective is disclosed, and as he joins the anarchists disguised as one of them, the stage is set for a profound exploration of the philosophical conflict between chaos and structure in society. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Allegories",
+          "Anarchists -- Fiction",
+          "Detective and mystery stories",
+          "Fantasy fiction",
+          "London (England) -- Fiction",
+          "Police -- Fiction"
+        ],
+        "bookshelves": [
+          "Best Books Ever Listings",
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Crime, Thrillers and Mystery",
+          "Category: Novels",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1695.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1695.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1695.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1695.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1695/pg1695.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/1695/1695-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1695.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1695/1695-0.txt"
+        },
+        "download_count": 85198
+      },
+      {
+        "id": 2680,
+        "title": "Meditations",
+        "authors": [
+          {
+            "name": "Marcus Aurelius, Emperor of Rome",
+            "birth_year": 121,
+            "death_year": 180
+          }
+        ],
+        "summaries": [
+          "\"Meditations\" by Emperor of Rome Marcus Aurelius is a series of personal writings composed between 170-180 CE. Written in Greek as private notes to himself, this work captures the Roman Emperor's reflections on Stoic philosophy and self-improvement during military campaigns. Never intended for publication, these intimate musings explore finding one's place in the universe, maintaining ethical principles, and achieving inner harmony through reason. The twelve books reveal how one of history's most powerful rulers sought to guide his own character and judgment. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Ethics",
+          "Life",
+          "Stoics"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Harvard Classics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2680.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2680.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2680.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2680.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2680/pg2680.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/2680/2680-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2680.txt.utf-8"
+        },
+        "download_count": 75988
+      },
+      {
+        "id": 52190,
+        "title": "Ecce Homo: Complete Works, Volume Seventeen",
+        "authors": [
+          {
+            "name": "Nietzsche, Friedrich Wilhelm",
+            "birth_year": 1844,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"Ecce Homo\" by Friedrich Wilhelm Nietzsche is a philosophical autobiography written in 1888. In this provocative final work, Nietzsche offers his own interpretation of his life, philosophy, and significance through boldly titled chapters like \"Why I Am So Wise\" and \"Why I Write Such Good Books.\" He reviews his major works, presents a new image of the Dionysian philosopher, and challenges Christianity's morality. Written with characteristic hyperbole and self-conscious irony, the book puts Nietzsche himself on trial while declaring his vision for humanity's future. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Levy, Oscar",
+            "birth_year": 1867,
+            "death_year": 1946
+          }
+        ],
+        "translators": [
+          {
+            "name": "Ludovici, Anthony M. (Anthony Mario)",
+            "birth_year": 1882,
+            "death_year": 1971
+          },
+          {
+            "name": "Cohn, Paul V. (Paul Victor)",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "subjects": [
+          "Nietzsche, Friedrich Wilhelm, 1844-1900",
+          "Philosophers -- Germany -- Biography"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/52190.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/52190.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/52190.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/52190.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/52190/pg52190.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/52190/pg52190-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/52190.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/52190/52190-0.txt"
+        },
+        "download_count": 66445
+      },
+      {
+        "id": 57342,
+        "title": "The Lives and Opinions of Eminent Philosophers",
+        "authors": [
+          {
+            "name": "Diogenes Laertius",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Lives and Opinions of Eminent Philosophers\" by Diogenes Laertius is a compilation of historical accounts and biographical sketches written in the late 2nd century AD. This extensive work chronicles the lives and philosophies of various notable Greek philosophers, providing insights into their thoughts, contributions, and contexts. The text serves as a crucial source of information about the history of Greek philosophy, linking the emergence of philosophical thought to prominent figures like Thales, Solon, and Socrates.  At the start of this work, the author presents an introduction outlining the origins and classifications of philosophy, distinguishing between the influences of Greek and non-Greek traditions. Diogenes Laertius discusses early philosophical figures and sets the stage for a more detailed exploration of notable philosophers, specifically starting with Thales. The opening portion introduces the structure of the work, highlighting the significance of philosophical teachings and the impact of early philosophers on subsequent thought, ultimately leading to a deeper dive into the lives of these influential thinkers. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Yonge, Charles Duke",
+            "birth_year": 1812,
+            "death_year": 1891
+          }
+        ],
+        "subjects": [
+          "Philosophers, Ancient -- Biography",
+          "Philosophy, Ancient"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/57342.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/57342.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/57342.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/57342.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/57342/pg57342.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/57342/57342-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/57342.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/57342/57342-0.txt"
+        },
+        "download_count": 58086
+      },
+      {
+        "id": 3296,
+        "title": "The Confessions of St. Augustine",
+        "authors": [
+          {
+            "name": "Augustine, of Hippo, Saint",
+            "birth_year": 354,
+            "death_year": 430
+          }
+        ],
+        "summaries": [
+          "\"The Confessions of St. Augustine\" by Bishop of Hippo Saint Augustine is an autobiographical work written between AD 397 and 400. In thirteen books composed as prayers to God, Augustine recounts his turbulent journey from a sinful youth to Christian conversion. He reflects on his immoral past, his time following Manichaeism, and the influential figures who guided him toward faith. Considered the first Western autobiography, this intimate spiritual memoir explores themes of sin, redemption, and humanity's restless search for divine truth. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Pusey, E. B. (Edward Bouverie)",
+            "birth_year": 1800,
+            "death_year": 1882
+          }
+        ],
+        "subjects": [
+          "Augustine, of Hippo, Saint, 354-430",
+          "Bishops -- Algeria -- Hippo (Extinct city) -- Biography",
+          "Catholic Church -- Bishops -- Biography",
+          "Christian saints -- Algeria -- Hippo (Extinct city) -- Biography"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Category: Religion/Spirituality",
+          "Christianity",
+          "Classical Antiquity",
+          "Harvard Classics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/3296.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/3296.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3296.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/3296.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/3296/pg3296.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/3296/3296-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/3296.txt.utf-8"
+        },
+        "download_count": 47665
+      },
+      {
+        "id": 174,
+        "title": "The Picture of Dorian Gray",
+        "authors": [
+          {
+            "name": "Wilde, Oscar",
+            "birth_year": 1854,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"The Picture of Dorian Gray\" by Oscar Wilde is a philosophical fiction and Gothic horror novel published in 1890. When a beautiful young man wishes that his portrait would age instead of himself, his desire becomes terrifyingly real. As Dorian pursues a life of pleasure and moral corruption, he remains eternally youthful while his painted image transforms into a horrifying record of his sins. Wilde explores beauty, morality, and the dangerous influence of hedonistic philosophy in this tale of vanity and its consequences. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Appearance (Philosophy) -- Fiction",
+          "Conduct of life -- Fiction",
+          "Didactic fiction",
+          "Great Britain -- History -- Victoria, 1837-1901 -- Fiction",
+          "London (England) -- History -- 1800-1950 -- Fiction",
+          "Paranormal fiction",
+          "Portraits -- Fiction",
+          "Supernatural -- Fiction"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Novels",
+          "Gothic Fiction",
+          "Movie Books"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/174.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/174.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/174.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/174.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/174/pg174.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/174/pg174-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/174.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/174/174-0.txt"
+        },
+        "download_count": 38258
+      },
+      {
+        "id": 51356,
+        "title": "The Birth of Tragedy; or, Hellenism and Pessimism",
+        "authors": [
+          {
+            "name": "Nietzsche, Friedrich Wilhelm",
+            "birth_year": 1844,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"The Birth of Tragedy; or, Hellenism and Pessimism\" by Friedrich Wilhelm Nietzsche is a work of dramatic theory published in 1872. Nietzsche introduces a bold dichotomy between the Dionysian and Apollonian forces—disorder versus order—that he believed shaped ancient Greek tragedy. He argues that Greek tragedy achieved art's highest form by uniting these opposing elements, allowing audiences to experience the full human condition. Nietzsche traces tragedy's decline through rationalism and suggests Richard Wagner's operas might revive this lost balance. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Levy, Oscar",
+            "birth_year": 1867,
+            "death_year": 1946
+          }
+        ],
+        "translators": [
+          {
+            "name": "Haussmann, William A.",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "subjects": [
+          "Aesthetics",
+          "Greek drama (Tragedy) -- History and criticism -- Theory, etc.",
+          "Music -- Philosophy and aesthetics",
+          "Mythology, Greek, in literature",
+          "Tragedy",
+          "Tragic, The"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/51356.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/51356.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/51356.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/51356.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/51356/pg51356.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/51356/pg51356-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/51356.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/51356/51356-0.txt"
+        },
+        "download_count": 36311
+      },
+      {
+        "id": 55201,
+        "title": "The Republic of Plato",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"The Republic of Plato\" by Plato is a Socratic dialogue written around 375 BC. In this foundational work of philosophy and political theory, Socrates debates the nature of justice with Athenians and foreigners, asking whether the just person is happier than the unjust. The discussion ranges from definitions of justice to the design of an ideal city-state ruled by philosopher-kings, exploring aging, love, the soul's immortality, and poetry's role in society along the way. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Jowett, Benjamin",
+            "birth_year": 1817,
+            "death_year": 1893
+          }
+        ],
+        "subjects": [
+          "Justice -- Early works to 1800",
+          "Political science -- Early works to 1800",
+          "Utopias -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/55201.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/55201.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/55201.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/55201.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/55201/pg55201.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/55201/pg55201-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/55201.txt.utf-8"
+        },
+        "download_count": 34962
+      },
+      {
+        "id": 1600,
+        "title": "Symposium",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"Symposium\" by Plato is a Socratic dialogue written between 385-370 BC. At a banquet in ancient Athens, notable figures including Socrates, Alcibiades, and Aristophanes engage in a contest of speeches praising Eros, the god of love. Each man offers his perspective on love's nature and power—from inspiring battlefield courage to transcending earthly desire. Through conflicting ideas and shifting viewpoints, the dialogue explores love's deepest meanings while showcasing both philosophical depth and literary artistry. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Jowett, Benjamin",
+            "birth_year": 1817,
+            "death_year": 1893
+          }
+        ],
+        "subjects": [
+          "Classical literature",
+          "Love -- Early works to 1800",
+          "Philosophy, Ancient",
+          "Socrates, 470 BC-399 BC"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1600.html.images",
+          "text/html; charset=us-ascii": "https://www.gutenberg.org/files/1600/1600-h/1600-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1600.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1600.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1600.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1600/pg1600.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1600/pg1600-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1600.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1600/1600.txt"
+        },
+        "download_count": 34172
+      },
+      {
+        "id": 1656,
+        "title": "Apology",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"Apology\" by Plato is a Socratic dialogue written after 399 BC. It presents Socrates's legal defense at his trial, where he faced charges of corrupting Athens's youth and introducing new gods. Standing before a jury of perhaps 500 Athenian men, Socrates refuses to use sophisticated rhetoric, speaking instead in his characteristic questioning style. Rather than compromise his integrity to avoid death, he challenges his accusers and maintains his philosophical principles, insisting his only wisdom comes from knowing that he knows nothing. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Jowett, Benjamin",
+            "birth_year": 1817,
+            "death_year": 1893
+          }
+        ],
+        "subjects": [
+          "Classical literature",
+          "Philosophy, Ancient",
+          "Socrates, 470 BC-399 BC"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Harvard Classics",
+          "Philosophy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1656.html.images",
+          "text/html; charset=utf-8": "https://www.gutenberg.org/files/1656/1656-h/1656-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1656.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1656.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1656.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1656/pg1656.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1656/pg1656-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1656.txt.utf-8"
+        },
+        "download_count": 33747
+      },
+      {
+        "id": 55317,
+        "title": "The Meditations of the Emperor Marcus Aurelius Antoninus: A new rendering based on the Foulis translation of 1742",
+        "authors": [
+          {
+            "name": "Marcus Aurelius, Emperor of Rome",
+            "birth_year": 121,
+            "death_year": 180
+          }
+        ],
+        "summaries": [
+          "\"The Meditations of the Emperor Marcus Aurelius Antoninus\" by Marcus Aurelius is a series of personal writings composed between 170-180 CE. Written in Greek as private notes to himself, these reflections capture the Roman Emperor's thoughts on Stoic philosophy and self-improvement during military campaigns. Never intended for publication, the twelve books explore analyzing one's judgment, finding one's place in the universe, maintaining focus, and living according to reason. The work examines how to rise above material concerns and achieve inner harmony through rationality and clear-mindedness. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Chrystal, George W. (George William)",
+            "birth_year": 1880,
+            "death_year": 1944
+          }
+        ],
+        "subjects": [
+          "Ethics",
+          "Life",
+          "Stoics"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/55317.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/55317.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/55317.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/55317.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/55317/pg55317.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/55317/pg55317-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/55317.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/55317/55317-0.txt"
+        },
+        "download_count": 33380
+      },
+      {
+        "id": 27827,
+        "title": "The Kama Sutra of Vatsyayana: Translated From the Sanscrit in Seven Parts With Preface, Introduction and Concluding Remarks",
+        "authors": [
+          {
+            "name": "Vatsyayana",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Kama Sutra of Vatsyayana\" by Vatsyayana is an ancient Sanskrit text composed between the 3rd and 5th century CE. Rather than simply a manual on sexual positions, this Hindu work explores the art of living well, encompassing courtship, emotional fulfillment, maintaining relationships, and the philosophy of desire. Part of the broader Hindu concept of life's proper goals, it addresses when desire sustains happiness and how pleasure fits within a meaningful existence. The text combines terse aphoristic verses with prose, offering guidance on love's nature and the pursuit of satisfaction. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Burton, Richard Francis, Sir",
+            "birth_year": 1821,
+            "death_year": 1890
+          },
+          {
+            "name": "Bhide, Shivaram Parashuram",
+            "birth_year": null,
+            "death_year": null
+          },
+          {
+            "name": "Indrajit, Bhagavanlal",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "subjects": [
+          "Love",
+          "Sex"
+        ],
+        "bookshelves": [
+          "Banned Books from Anne Haight's list",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Philosophy & Ethics",
+          "Category: Sexuality & Erotica",
+          "Erotic Fiction",
+          "Sociology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/27827.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/27827.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27827.kf8.images",
+          "application/octet-stream": "https://www.gutenberg.org/files/27827/27827-page-images/f001.png",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/27827.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/27827/pg27827.cover.medium.jpg",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/27827.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/27827/27827-8.txt"
+        },
+        "download_count": 32306
+      },
+      {
+        "id": 56463,
+        "title": "Bacon's Essays, and Wisdom of the Ancients",
+        "authors": [
+          {
+            "name": "Bacon, Francis",
+            "birth_year": 1561,
+            "death_year": 1626
+          }
+        ],
+        "summaries": [
+          "\"Bacon's Essays and Wisdom of the Ancients\" by Francis Bacon is a philosophical treatise written in the early 17th century. This work is a collection of Bacon's well-known essays that explore moral and civil themes, interwoven with his reflections on human nature and knowledge, alongside his interpretations of classical wisdom. Bacon's essays are characterized by their concise and aphoristic style, offering insights rooted in empirical observation and practical experience.  The opening of this volume provides background on the historical context of Bacon's essays and emphasizes their significance in the evolution of Western thought. It outlines the development of the essays from their first publication in 1597, through various editions that expanded their scope and depth. The preface illustrates Bacon's intention to reflect on human experience and moral philosophy, while the \"Wisdom of the Ancients\" section delves into mythological bases and fables, interpreting them as valuable lessons on human behavior and societal norms. Overall, the beginning sets the stage for a collection that aims to blend civil wisdom with practical morality, encouraging readers to reflect on their own lives through Bacon's insightful observations. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Bacon, Francis, 1561-1626",
+          "English essays -- Early modern, 1500-1700",
+          "Mythology, Classical"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Essays, Letters & Speeches",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/56463.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/56463.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/56463.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/56463.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/56463/pg56463.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/56463/56463-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/56463.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/56463/56463-0.txt"
+        },
+        "download_count": 31637
+      },
+      {
+        "id": 1636,
+        "title": "Phaedrus",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"Phaedrus\" by Plato is a dialogue written around 370 BC. Socrates encounters the young Phaedrus outside Athens, who has just heard a speech about love. What begins as a countryside stroll becomes an intricate philosophical exploration of love, rhetoric, and the human soul. Through three competing speeches, Socrates and Phaedrus debate whether it's better to favor a lover or a non-lover, ultimately revealing deeper questions about divine madness, the soul's nature, and the proper practice of persuasive speech. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Jowett, Benjamin",
+            "birth_year": 1817,
+            "death_year": 1893
+          }
+        ],
+        "subjects": [
+          "Classical literature",
+          "Love -- Early works to 1800",
+          "Lysias",
+          "Rhetoric -- Early works to 1800",
+          "Rhetoric, Ancient",
+          "Socrates, 470 BC-399 BC",
+          "Soul -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1636.html.images",
+          "text/html; charset=us-ascii": "https://www.gutenberg.org/files/1636/1636-h/1636-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1636.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1636.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1636.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1636/pg1636.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1636/pg1636-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1636.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1636/1636.txt"
+        },
+        "download_count": 30382
+      },
+      {
+        "id": 1232,
+        "title": "The Prince",
+        "authors": [
+          {
+            "name": "Machiavelli, Niccolò",
+            "birth_year": 1469,
+            "death_year": 1527
+          }
+        ],
+        "summaries": [
+          "\"The Prince\" by Niccolò Machiavelli is a political treatise written in 1513 and published in 1532. Presented as an instruction guide for new rulers, this controversial work suggests that immoral acts may be necessary to achieve political power and glory. Written in vernacular Italian rather than Latin, it breaks from traditional advice literature by focusing on practical effectiveness over abstract ideals. Its worldview challenged dominant Catholic doctrines of the time, making \"Machiavellian\" synonymous with political cunning and contributing to modern negative connotations of politics itself. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Marriott, W. K. (William Kenaz)",
+            "birth_year": null,
+            "death_year": 1927
+          }
+        ],
+        "subjects": [
+          "Political ethics -- Early works to 1800",
+          "Political science -- Philosophy -- Early works to 1800",
+          "State, The -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Banned Books from Anne Haight's list",
+          "Category: History - Early Modern (c. 1450-1750)",
+          "Category: Philosophy & Ethics",
+          "Category: Politics",
+          "Harvard Classics",
+          "Philosophy",
+          "Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1232.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1232.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1232.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1232.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1232/pg1232.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1232/pg1232-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1232.txt.utf-8"
+        },
+        "download_count": 30136
+      },
+      {
+        "id": 1658,
+        "title": "Phaedo",
+        "authors": [
+          {
+            "name": "Plato",
+            "birth_year": -428,
+            "death_year": -348
+          }
+        ],
+        "summaries": [
+          "\"Phaedo\" by Plato is a dialogue written in ancient Greece. In the final hours before his execution, Socrates debates the immortality of the soul and the nature of the afterlife with his friends. Through philosophical arguments with Pythagorean philosophers Simmias and Cebes, he explores whether the soul survives death and what awaits it afterward. The dialogue culminates in a mythological vision of the underworld and an account of Socrates' death. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Jowett, Benjamin",
+            "birth_year": 1817,
+            "death_year": 1893
+          }
+        ],
+        "subjects": [
+          "Classical literature",
+          "Immortality (Philosophy) -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Harvard Classics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1658.html.images",
+          "text/html; charset=us-ascii": "https://www.gutenberg.org/files/1658/1658-h/1658-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1658.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1658.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1658.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1658/pg1658.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1658/pg1658-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1658.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1658/1658.txt"
+        },
+        "download_count": 29236
+      },
+      {
+        "id": 2130,
+        "title": "Utopia",
+        "authors": [
+          {
+            "name": "More, Thomas, Saint",
+            "birth_year": 1478,
+            "death_year": 1535
+          }
+        ],
+        "summaries": [
+          "\"Utopia\" by Saint Thomas More is a work of fiction and socio-political satire written in Latin and published in 1516. This frame narrative depicts a fictional island society and its religious, social, and political customs. Through dialogue between More and the traveler Raphael Hythlodaeus, the work explores contemporary European problems—warfare, theft, poverty, and enclosure—while describing an alternative society that challenges Renaissance notions of governance. The book questions whether philosophers should work within flawed political systems or pursue radical ideals. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Morley, Henry",
+            "birth_year": 1822,
+            "death_year": 1894
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Utopias -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Harvard Classics",
+          "Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2130.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2130.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2130.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2130.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2130/pg2130.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/2130/pg2130-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2130.txt.utf-8"
+        },
+        "download_count": 28606
+      },
+      {
+        "id": 3913,
+        "title": "The Confessions of Jean Jacques Rousseau — Complete",
+        "authors": [
+          {
+            "name": "Rousseau, Jean-Jacques",
+            "birth_year": 1712,
+            "death_year": 1778
+          }
+        ],
+        "summaries": [
+          "\"The Confessions of Jean Jacques Rousseau — Complete\" by Jean-Jacques Rousseau is an autobiography written between 1765-1770 and published posthumously in 1782-1789. Covering the first fifty-three years of his life, Rousseau presents an unprecedented self-portrait focused on worldly experiences and personal feelings rather than religious conversion. The work candidly reveals his most shameful moments, including theft, deception, and abandoning his five children. This groundbreaking memoir established a new form of autobiography that inspired countless writers to follow. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Authors, French -- 18th century -- Biography",
+          "Rousseau, Jean-Jacques, 1712-1778"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: French Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/3913.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/3913.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3913.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/3913.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/3913/pg3913.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/3913/3913-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/3913.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3913/3913-0.txt"
+        },
+        "download_count": 27732
+      },
+      {
+        "id": 785,
+        "title": "On the Nature of Things",
+        "authors": [
+          {
+            "name": "Lucretius Carus, Titus",
+            "birth_year": -95,
+            "death_year": -55
+          }
+        ],
+        "summaries": [
+          "\"On the Nature of Things\" by Titus Lucretius Carus is a didactic poem written in the first century BC. Spanning 7,400 verses across six books, this work aims to explain Epicurean philosophy to Roman readers through poetic language. Lucretius explores atomism, the nature of mind and soul, and celestial phenomena, arguing that the universe operates by physical principles and chance rather than divine intervention. The poem seeks to free readers from religious fear by demonstrating that natural laws, not gods, govern existence. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Leonard, William Ellery",
+            "birth_year": 1876,
+            "death_year": 1944
+          }
+        ],
+        "subjects": [
+          "Didactic poetry, Latin -- Translations into English",
+          "Philosophy, Ancient -- Poetry"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/785.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/785.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/785.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/785.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/785/pg785.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/785/pg785-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/785.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/785/785-0.txt"
+        },
+        "download_count": 27672
+      },
+      {
+        "id": 44833,
+        "title": "Chaucer's Works, Volume 2 — Boethius and Troilus",
+        "authors": [
+          {
+            "name": "Chaucer, Geoffrey",
+            "birth_year": 1342,
+            "death_year": 1400
+          }
+        ],
+        "summaries": [
+          "\"Chaucer's Works, Volume 2 — Boethius and Troilus\" by Geoffrey Chaucer is a literary collection written in the 14th century. This volume includes Chaucer's translation of \"De Consolatione Philosophiae\" by Boethius, which explores themes of misfortune and the nature of happiness, and the narrative poem \"Troilus and Criseyde,\" which revolves around the tragic love story between the Trojan prince Troilus and the beautiful Criseyde. The works reflect Chaucer's engagement with philosophical questions and romantic ideals, offering readers a glimpse into medieval thought and literature.  The opening of this volume sets the stage for an exploration of the profound themes presented in the two central works. It begins with an introduction to Boethius, detailing his philosophical disputes and unfortunate imprisonment, which sparks the creation of his \"Consolation of Philosophy.\" In this section, Chaucer emphasizes Boethius's plight and the comforting presence of Philosophy as a guiding figure. The excerpt also touches upon Chaucer’s connections to Boethius's ideas, suggesting a blend of philosophical inquiry and poetic narrative that will define the ensuing texts. Overall, this introduction hints at the depth of existential reflection and emotional storytelling that characterize the upcoming works. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Skeat, Walter W. (Walter William)",
+            "birth_year": 1835,
+            "death_year": 1912
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "English poetry -- Middle English, 1100-1500"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Category: Poetry",
+          "Category: Romance"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/44833.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/44833/44833-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/44833.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/44833.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/44833.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/44833.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/44833/pg44833.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/44833/pg44833-h.zip"
+        },
+        "download_count": 26360
+      },
+      {
+        "id": 78119,
+        "title": "Humanism and America : $b Essays on the outlook of modern civilisation",
+        "authors": [],
+        "summaries": [
+          "\"Humanism and America\" by Norman Foerster is an edited collection of essays written in the early 20th century. It argues for a disciplined, classical humanism as a corrective to modern scepticism, scientism, and cultural disarray, especially in the United States. The volume surveys ethics, religion, literature, the arts, and education through contributions from leading critics and scholars.\n\nThe opening of the collection presents a preface that diagnoses a modern “headache” of noise, disillusion, and naturism, and proposes humanism—defined by clear standards and a firm distinction between man, nature, and the divine—as a restorative discipline. The editor situates American humanism chiefly in the work of Irving Babbitt and Paul Elmer More, rebuts charges that humanists are academic, un-American, reactionary, or puritanical, and sets the book’s aim: to clarify terms, restore standards, and address contemporary life across the arts and public discourse. The first essay, by Louis Trenchard More, restricts true science to quantitative laws about the objective world, exposes the overreach of pseudo-sciences like psychology and sociology, retraces the historical split between objective method and subjective life from Galileo, Descartes, and Newton, and criticizes modern hypotheses (æthers, electrons, relativity, quanta) when treated as metaphysical truth. The next essay, by Irving Babbitt, defines humanism as allegiance to the law of measure, decorum, and poise—distinct from humanitarian sentiment—and argues for a stable centre in human nature, drawing parallels with Confucian thought, acknowledging religion’s support, and grounding ethics in a higher will that disciplines temperament. Together, these opening sections set the terms and program: replacing relativism and scientism with standards rooted in character, discrimination, and measure. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Foerster, Norman",
+            "birth_year": 1887,
+            "death_year": 1972
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Humanism",
+          "Literature -- Philosophy",
+          "Philosophy, Modern",
+          "United States -- Civilization -- 20th century"
+        ],
+        "bookshelves": [],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/78119.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/78119.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/78119.kf8.images",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/78119.txt.utf-8",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/78119.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/78119/pg78119.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/78119/pg78119-h.zip"
+        },
+        "download_count": 25003
+      },
+      {
+        "id": 78025,
+        "title": "Main currents in American thought : $b An interpretation of American literature from the beginnings to 1920",
+        "authors": [
+          {
+            "name": "Parrington, Vernon Louis",
+            "birth_year": 1871,
+            "death_year": 1929
+          }
+        ],
+        "summaries": [
+          "\"Main currents in American thought\" by Vernon Louis Parrington is a critical history of American literature and ideas written in the early 20th century. The study interprets American writing through the lenses of political, economic, and social change, tracing how European doctrines took root and reshaped themselves in the New World. It centers on the long contest between liberal-democratic impulses and conservative-theocratic or capitalistic systems, with Volume One probing the clash of Puritan theocracy and emerging Yankee individualism in colonial New England.\n\nThe opening of the work lays out a frankly liberal, Jeffersonian vantage point and explains that the inquiry follows ideas as they evolve through theology, politics, and economics rather than through belletristic schools. The introduction maps the European bequests—English Independency (natural rights), French romantic theory and Physiocracy (equality, agrarianism), and English laissez faire (commercial individualism)—and frames colonial thought as a struggle among figures like Roger Williams, Franklin, and Jefferson on one side and John Cotton, Jonathan Edwards, and Alexander Hamilton on the other. It argues that colonial literature is best understood in its polemics on church and state. Beginning Book One, the narrative shows New England shaped by freehold landholding and a mercantile spirit, producing yeomanry and gentry and the dual ideals of Puritan and Yankee. It then sketches English backgrounds: Puritanism as a middle-class, Reformation-driven movement that fostered natural rights, while Calvinist theology resisted egalitarianism in contrast to Luther’s individualist strain. The transplant to Massachusetts fused Plymouth-style congregational churches with a corporate charter that enabled a theocratic oligarchy, yet freehold property quietly seeded local democracy even as statutes and the Cambridge Platform enforced orthodoxy. Finally, the portrait of John Cotton presents the chief priestly steward of theocracy—an erudite, commanding preacher who, after the Antinomian crisis, backed coercive orthodoxy and a biblically sanctioned, aristocratic state that restricted civic power to the godly. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "American literature -- History and criticism",
+          "Philosophy, American",
+          "United States -- Civilization",
+          "United States -- Intellectual life",
+          "United States -- Politics and government",
+          "United States -- Religion"
+        ],
+        "bookshelves": [],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/78025.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/78025.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/78025.kf8.images",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/78025.txt.utf-8",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/78025.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/78025/pg78025.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/78025/pg78025-h.zip"
+        },
+        "download_count": 25000
+      },
+      {
+        "id": 4363,
+        "title": "Beyond Good and Evil",
+        "authors": [
+          {
+            "name": "Nietzsche, Friedrich Wilhelm",
+            "birth_year": 1844,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"Beyond Good and Evil\" by Friedrich Wilhelm Nietzsche is a philosophical work published in 1886. Nietzsche launches a fierce attack on traditional philosophy, accusing past thinkers of disguising moral prejudices as objective truth. He challenges fundamental concepts like good versus evil, knowledge, and free will, proposing instead his theory of \"will to power.\" The book calls for new philosophers who will move beyond conventional morality to embrace a more dangerous, perspectival understanding of existence and create new values for the future. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Zimmern, Helen",
+            "birth_year": 1846,
+            "death_year": 1934
+          }
+        ],
+        "subjects": [
+          "Ethics",
+          "Philosophy, German"
+        ],
+        "bookshelves": [
+          "Atheism",
+          "Category: Philosophy & Ethics",
+          "Philosophy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/4363.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/4363.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/4363.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/4363.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/4363/pg4363.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/4363/4363-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/4363.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/4363/4363.txt"
+        },
+        "download_count": 24929
+      },
+      {
+        "id": 1998,
+        "title": "Thus Spake Zarathustra: A Book for All and None",
+        "authors": [
+          {
+            "name": "Nietzsche, Friedrich Wilhelm",
+            "birth_year": 1844,
+            "death_year": 1900
+          }
+        ],
+        "summaries": [
+          "\"Thus Spake Zarathustra: A Book for All and None\" by Friedrich Wilhelm Nietzsche is a work of philosophical fiction published between 1883 and 1885. Through the voice of the ancient prophet Zarathustra, Nietzsche delivers discourses on subjects ranging from the mundane to the metaphysical. The work introduces core Nietzschean concepts including the Übermensch, the death of God, the will to power, and eternal recurrence. Written in analogical and figurative language, it emerged from decades of accumulated insight during solitary mountain walks. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Common, Thomas",
+            "birth_year": 1850,
+            "death_year": 1919
+          }
+        ],
+        "subjects": [
+          "Philosophy, German",
+          "Superman (Philosophical concept)"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: German Literature",
+          "Category: Philosophy & Ethics",
+          "Philosophy"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1998.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1998.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1998.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1998.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1998/pg1998.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/1998/1998-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/1998.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/1998/1998-0.txt"
+        },
+        "download_count": 24546
+      },
+      {
+        "id": 14328,
+        "title": "The Consolation of Philosophy",
+        "authors": [
+          {
+            "name": "Boethius",
+            "birth_year": 480,
+            "death_year": 524
+          }
+        ],
+        "summaries": [
+          "\"The Consolation of Philosophy\" by Boethius is a philosophical work written in 523 while imprisoned and awaiting execution for treason. In this dialogue between the condemned author and Lady Philosophy personified, Boethius explores how happiness remains attainable despite misfortune, why evil exists in a God-governed world, and the nature of fate versus free will. Blending classical Greek philosophy with universal spiritual themes, this prison meditation became one of the Middle Ages' most influential texts, bridging ancient thought and medieval Christianity. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "James, H. R. (Henry Rosher)",
+            "birth_year": 1862,
+            "death_year": 1931
+          }
+        ],
+        "subjects": [
+          "Happiness",
+          "Philosophy and religion"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Classical Antiquity"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/14328.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/14328.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14328.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/14328.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/14328/pg14328.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/14328/pg14328-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/14328.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14328/14328-0.txt"
+        },
+        "download_count": 23703
+      },
+      {
+        "id": 45109,
+        "title": "The Enchiridion",
+        "authors": [
+          {
+            "name": "Epictetus",
+            "birth_year": 55,
+            "death_year": 135
+          }
+        ],
+        "summaries": [
+          "\"The Enchiridion\" by Epictetus is a manual of Stoic ethical advice compiled in the early 2nd century by Arrian, a disciple of the Greek philosopher. This concise handbook distills practical precepts for achieving mental freedom and happiness in all circumstances. It teaches readers to distinguish between what lies within their control and what does not, emphasizing that judgments, not external events, disturb people. Through vivid imagery and everyday examples, the work guides students toward flourishing in both favorable and adverse situations by developing the capacities of the human spirit. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Higginson, Thomas Wentworth",
+            "birth_year": 1823,
+            "death_year": 1911
+          }
+        ],
+        "subjects": [
+          "Conduct of life -- Early works to 1800",
+          "Ethics, Ancient"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/45109.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/45109/45109-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/45109.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/45109.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/45109.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/45109.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/45109/pg45109.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/45109/pg45109-h.zip"
+        },
+        "download_count": 23204
+      },
+      {
+        "id": 205,
+        "title": "Walden, and On The Duty Of Civil Disobedience",
+        "authors": [
+          {
+            "name": "Thoreau, Henry David",
+            "birth_year": 1817,
+            "death_year": 1862
+          }
+        ],
+        "summaries": [
+          "\"Walden, and On The Duty Of Civil Disobedience\" by Henry David Thoreau is a philosophical essay and social critique written in the mid-19th century. This work reflects Thoreau's reflections on simple living in natural surroundings, drawing from his personal experiment of living alone in the woods near Walden Pond. Thoreau emphasizes themes of self-sufficiency, the critique of materialism, and the importance of individual conscience and civil disobedience in the face of unjust laws.  The opening of \"Walden\" begins with Thoreau recounting his two years of solitude in a self-built house by Walden Pond, where he lived simply and engaged in manual labor. He addresses the curiosity of his townsfolk about his lifestyle choices and presents his views on the societal pressures that guide people into lives of \"quiet desperation.\" Through vivid imagery and philosophical musings, Thoreau discusses the burdens of inherited possessions and societal expectations, asserting that many people live unexamined lives. He calls for a re-evaluation of what is considered necessary for a fulfilling life, suggesting that true happiness derives from simplicity, individual thought, and an intimate connection with nature. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Authors, American -- 19th century -- Biography",
+          "Civil disobedience",
+          "Government, Resistance to",
+          "Natural history -- Massachusetts -- Walden Woods",
+          "Solitude",
+          "Thoreau, Henry David, 1817-1862 -- Homes and haunts -- Massachusetts -- Walden Woods",
+          "Walden Woods (Mass.) -- Social life and customs",
+          "Wilderness areas -- Massachusetts -- Walden Woods"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Essays, Letters & Speeches",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/205.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/205.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/205.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/205.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/205/pg205.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/205/pg205-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/205.txt.utf-8"
+        },
+        "download_count": 23094
+      },
+      {
+        "id": 3207,
+        "title": "Leviathan",
+        "authors": [
+          {
+            "name": "Hobbes, Thomas",
+            "birth_year": 1588,
+            "death_year": 1679
+          }
+        ],
+        "summaries": [
+          "\"Leviathan\" by Thomas Hobbes is a philosophical treatise published in 1651. Written during the English Civil War, it explores the structure of society and legitimate government through social contract theory. Hobbes argues that humanity's natural state is a brutal \"war of all against all,\" driven by individual appetites and the fear of violent death. Only a strong, absolute sovereign can prevent civil war and chaos by uniting both secular and spiritual power. This influential work presents a materialistic view of human nature and political order. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Political science -- Early works to 1800",
+          "State, The -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: History - Early Modern (c. 1450-1750)",
+          "Category: Philosophy & Ethics",
+          "Harvard Classics",
+          "Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/3207.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/3207.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3207.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/3207.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/3207/pg3207.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/3207/pg3207-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/3207.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3207/3207-0.txt"
+        },
+        "download_count": 22184
+      },
+      {
+        "id": 15877,
+        "title": "Thoughts of Marcus Aurelius Antoninus",
+        "authors": [
+          {
+            "name": "Marcus Aurelius, Emperor of Rome",
+            "birth_year": 121,
+            "death_year": 180
+          }
+        ],
+        "summaries": [
+          "\"Thoughts of Marcus Aurelius Antoninus\" by Emperor of Rome Marcus Aurelius is a series of personal writings composed between 170-180 CE. Written in Greek as private notes to himself during military campaigns, these reflections on Stoic philosophy were never intended for publication. Divided into twelve books, the work explores how to maintain inner tranquility, live according to reason, and find one's place in the universe. Aurelius examines judgment, ethical principles, and freedom from material distractions, offering timeless guidance on cultivating wisdom and self-control. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Long, George",
+            "birth_year": 1800,
+            "death_year": 1879
+          }
+        ],
+        "subjects": [
+          "Ethics",
+          "Life",
+          "Marcus Aurelius, Emperor of Rome, 121-180",
+          "Stoics"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: Classics of Literature",
+          "Category: History - Ancient",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/15877.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/15877.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/15877.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/15877.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/15877/pg15877.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/15877/15877-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/15877.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/15877/15877-8.txt"
+        },
+        "download_count": 21412
+      },
+      {
+        "id": 14988,
+        "title": "Cicero's Tusculan Disputations: Also, Treatises On The Nature Of The Gods, And On The Commonwealth",
+        "authors": [
+          {
+            "name": "Cicero, Marcus Tullius",
+            "birth_year": -106,
+            "death_year": -43
+          }
+        ],
+        "summaries": [
+          "\"Cicero's Tusculan Disputations\" by Marcus Tullius Cicero is a philosophical work written around 45 BC. Composed while mourning his daughter's death, Cicero presents five dialogues exploring fundamental questions of human existence: conquering the fear of death, enduring pain, alleviating sorrow, managing emotional turmoil, and determining whether virtue alone ensures happiness. Drawing heavily on Greek philosophy, particularly Stoicism, Cicero crafts persuasive arguments that challenge conventional views on suffering and fortune, offering timeless wisdom for fortifying the mind against life's inevitable hardships. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Yonge, Charles Duke",
+            "birth_year": 1812,
+            "death_year": 1891
+          }
+        ],
+        "subjects": [
+          "Gods, Roman -- Early works to 1800",
+          "Happiness -- Early works to 1800",
+          "Political science -- Early works to 1800",
+          "Rome -- Politics and government -- 265-30 B.C.",
+          "State, The -- Early works to 1800",
+          "Theology -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Classical Antiquity"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/14988.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/14988.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14988.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/14988.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/14988/pg14988.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/14988/14988-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/14988.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/14988/14988-8.txt"
+        },
+        "download_count": 21255
+      },
+      {
+        "id": 23639,
+        "title": "Plutarch's Morals",
+        "authors": [
+          {
+            "name": "Plutarch",
+            "birth_year": 46,
+            "death_year": 119
+          }
+        ],
+        "summaries": [
+          "\"Plutarch's Morals\" by Plutarch is a collection of essays and speeches written in the 1st century. This eclectic work contains 78 pieces exploring Roman and Greek life alongside timeless philosophical observations. From discussions of Alexander the Great and Egyptian religious rites to explorations of divine justice and peace of mind, the collection ranges from serious treatises to humorous dialogues. These essays profoundly influenced European thought for generations, shaping Renaissance Humanists and Enlightenment philosophers alike. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Shilleto, A. R. (Arthur Richard)",
+            "birth_year": 1848,
+            "death_year": 1894
+          }
+        ],
+        "subjects": [
+          "Ethics -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: Classics of Literature",
+          "Category: Essays, Letters & Speeches",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/23639.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/23639.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/23639.kf8.images",
+          "application/octet-stream": "https://www.gutenberg.org/files/23639/23639-page-images/f001.png",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/23639.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/23639/pg23639.cover.medium.jpg",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/23639.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/23639/23639-8.txt"
+        },
+        "download_count": 21156
+      },
+      {
+        "id": 43453,
+        "title": "A Pickle for the Knowing Ones",
+        "authors": [
+          {
+            "name": "Dexter, Timothy",
+            "birth_year": 1747,
+            "death_year": 1806
+          }
+        ],
+        "summaries": [
+          "\"A Pickle for the Knowing Ones\" by Timothy Dexter is an autobiographical book published in 1802. This eccentric work contains almost no punctuation, unorthodox spelling, and chaotic grammar throughout its pages. The wealthy American businessman rants about politicians and clergy while praising his own glory and suggesting he should be emperor of the United States. After complaints about missing punctuation, Dexter added a second edition with pages of punctuation marks in the appendix, inviting readers to use them as they pleased. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Dexter, Timothy, 1747-1806",
+          "Newburyport (Mass.) -- Biography"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Biographies",
+          "Category: Humour",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/43453.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/43453/43453-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/43453.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/43453.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/43453.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/43453.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/43453/pg43453.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/43453/pg43453-h.zip"
+        },
+        "download_count": 20676
+      }
+    ]
+  }
+}

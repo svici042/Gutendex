@@ -1,0 +1,1461 @@
+{
+  "source": "https://gutendex.com/books?topic=Society",
+  "query": "/books?topic=Society",
+  "fetchedAt": "2026-09-23T14:29:01.977Z",
+  "data": {
+    "count": 141,
+    "next": "https://gutendex.com/books/?page=2&topic=Society",
+    "previous": null,
+    "results": [
+      {
+        "id": 14568,
+        "title": "Sir Gawayne and the Green Knight: An Alliterative Romance-Poem (c. 1360 A.D.)",
+        "authors": [],
+        "summaries": [
+          "\"Sir Gawayne and the Green Knight\" by Richard Morris is an alliterative romance-poem likely written during the 14th century. The narrative centers around Sir Gawayne, a noble knight and nephew of King Arthur, who embarks on a perilous journey to fulfill a mysterious challenge posed by the enigmatic Green Knight. This tale weaves themes of bravery, honor, and chivalry throughout its exploration of Gawayne's character and his adherence to the knightly code.  The opening of the poem introduces the extravagant Christmas festivities at Camelot, where King Arthur and his knights celebrate the holiday. As the revelry unfolds, the Green Knight bursts into the hall with a bold challenge, offering a game that tests the courage of Arthur's finest. Gawayne volunteers to take on the challenge, showcasing his bravery and sense of duty. The Green Knight insists on a unique pact, wherein Gawayne must deal him a blow and then seek him out in a year to receive a return strike. This sets the stage for Gawayne's quest, as he prepares to uphold his end of the bargain, leading to themes of honor and the trials of knightly virtue that will be explored throughout the poem. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Morris, Richard",
+            "birth_year": 1833,
+            "death_year": 1894
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Arthurian romances",
+          "Gawain (Legendary character) -- Romances"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Poetry",
+          "Early English Text Society",
+          "Poetry"
+        ],
+        "languages": [
+          "en",
+          "enm"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/14568.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/14568.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/14568.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/14568.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/14568/pg14568.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/14568/pg14568-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/14568.txt.utf-8"
+        },
+        "download_count": 21291
+      },
+      {
+        "id": 3172,
+        "title": "Fenimore Cooper's Literary Offences",
+        "authors": [
+          {
+            "name": "Twain, Mark",
+            "birth_year": 1835,
+            "death_year": 1910
+          }
+        ],
+        "summaries": [
+          "\"Fenimore Cooper's Literary Offences\" by Mark Twain is an essay published in July 1895. Written as biting satire, it ruthlessly attacks the novels of James Fenimore Cooper, particularly his Leatherstocking Tales. Twain lists eighteen literary rules he claims Cooper violates, pointing to specific examples of bloated prose and careless craft. The essay showcases Twain's signature derisive humor while declaring Romantic literature dead in post-Civil War America. Critics remain divided—some call it hilarious, others argue Twain deliberately misread Cooper's work. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "American literature -- History and criticism -- Theory, etc.",
+          "Criticism -- United States",
+          "Literature and society -- United States",
+          "National characteristics, American, in literature",
+          "United States -- Civilization"
+        ],
+        "bookshelves": [
+          "Category: American Literature",
+          "Category: Essays, Letters & Speeches",
+          "Category: Humour"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/3172.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/3172.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/3172.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/3172.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/3172/pg3172.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/3172/3172-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/3172.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/3172/3172-0.txt"
+        },
+        "download_count": 5602
+      },
+      {
+        "id": 24790,
+        "title": "Early English Meals and Manners",
+        "authors": [],
+        "summaries": [
+          "\"Early English Meals and Manners\" by Frederick James Furnivall is a historical account written in the late 19th century. The work primarily focuses on the social customs, etiquette, and culinary practices of early English society, as derived from various texts including John Russell's \"Boke of Nurture\" and others. Furnivall’s compilation aims to shed light on the daily lives and manners of individuals in historical England, particularly emphasizing the importance of education and conduct.  At the start of this text, Furnivall sets the stage for his exploration by outlining the various sources included in the compilation, highlighting the educational aspects of early English society. He introduces key texts that reflect social norms and expectations during the period, emphasizing urbanity, manners, and domestic life. The introductory sections discuss the overarching goal of providing insight into the living standards and practices of ancestors, suggesting that the treatises contained within are directed towards the noble classes and their household practices. The opening reveals a structured approach aimed at bringing forth a better understanding of how citizens of early England were educated and trained in the art of dining, social interaction, and moral behavior. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Furnivall, Frederick James",
+            "birth_year": 1825,
+            "death_year": 1910
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Education -- Early works to 1800",
+          "England -- Social life and customs -- Early works to 1800",
+          "Etiquette",
+          "Home economics -- Early works to 1800",
+          "Table"
+        ],
+        "bookshelves": [
+          "Category: History - British",
+          "Early English Text Society",
+          "United Kingdom"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/24790.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/24790.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/24790.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/24790.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/24790/pg24790.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/24790/pg24790-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/24790.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/24790/24790-0.txt"
+        },
+        "download_count": 2938
+      },
+      {
+        "id": 2481,
+        "title": "The Civilization of Illiteracy",
+        "authors": [
+          {
+            "name": "Nadin, Mihai",
+            "birth_year": 1938,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Civilization of Illiteracy\" by Mihai Nadin is a critical examination of literacy and its implications in contemporary society, likely written in the late 20th century. The book explores the decline of traditional literacy in the context of rapid technological advancement and cultural change, analyzing how these shifts impact human behavior, communication, and overall societal structure. Nadin presents the argument that we are entering a new civilization characterized by \"illiteracy,\" which transcends the conventional understanding of literacy, raising questions about the skills, values, and norms that shape our daily lives.  The opening of the text sets the stage by discussing the overwhelming acceleration of information production in modern times, juxtaposed with the diminishing emphasis on traditional literacy skills. It introduces contrasting characters, such as Zizi, a contemporary hairdresser, and historical figures like Melanchton, to illustrate the differences in knowledge and engagement with their respective worlds. Nadin emphasizes how modern individuals often prioritize superficial information and efficiency over in-depth understanding, as evidenced by Zizi’s shallow interactions that reflect a broader societal trend towards consumerism. The author expresses a blend of concern and curiosity about the evolving nature of communication and personal identity in a rapidly changing environment, indicating that the shift to a civilization of illiteracy is both an indispensable and inevitable phenomenon. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Computers and literacy",
+          "Information society",
+          "Literacy -- Social aspects",
+          "Oral history",
+          "Social history",
+          "Sociolinguistics",
+          "Technology -- Social aspects",
+          "Technology and civilization"
+        ],
+        "bookshelves": [
+          "Category: Journalism/Media/Writing",
+          "Category: Language & Communication",
+          "Category: Sociology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": true,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/2481.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/2481.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/2481.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/2481.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/2481/pg2481.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/2481/2481-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/2481.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/2481/2481-0.txt"
+        },
+        "download_count": 2893
+      },
+      {
+        "id": 27755,
+        "title": "Hidden Symbolism of Alchemy and the Occult Arts",
+        "authors": [
+          {
+            "name": "Silberer, Herbert",
+            "birth_year": 1882,
+            "death_year": 1922
+          }
+        ],
+        "summaries": [
+          "\"Hidden Symbolism of Alchemy and the Occult Arts\" by Herbert Silberer is a scholarly work exploring mysticism, psychology, and alchemical symbolism, likely written in the early 20th century, as evidenced by its original 1917 publication. The book delves into the psychological interpretation of myths, dreams, and parables, attempting to uncover the hidden meanings and relationships between historical mystical practices and contemporary psychological dynamics.   The opening portion introduces a parable that serves as a foundational narrative guiding the reader through various psychological realms. The protagonist embarks on a journey through a mystical forest, encountering complex characters and challenges that symbolize deeper psychological struggles and conflicts related to knowledge, power, and love. The narrative is rich with allegorical imagery, including confrontations with a lion representing fear and initiation trials, as well as encounters with elders discussing great mysteries. The protagonist's quest reflects the universal human experience of grappling with inner fears and desires, inviting readers to consider the connections between psychological development and ancient symbolic traditions. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Jelliffe, Smith Ely",
+            "birth_year": 1866,
+            "death_year": 1945
+          }
+        ],
+        "subjects": [
+          "Alchemy",
+          "Society of Rosicrucians",
+          "Symbolism (Psychology)"
+        ],
+        "bookshelves": [
+          "Category: Mythology, Legends & Folklore",
+          "Category: Philosophy & Ethics",
+          "Category: Psychiatry/Psychology",
+          "Category: Religion/Spirituality"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/27755.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/27755.epub3.images",
+          "application/pdf": "https://www.gutenberg.org/files/27755/27755-pdf.pdf",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/27755.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/27755.rdf",
+          "application/prs.tei": "https://www.gutenberg.org/files/27755/27755-tei/27755-tei.tei",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/27755/pg27755.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/27755/27755-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/27755.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/27755/27755-0.txt"
+        },
+        "download_count": 2538
+      },
+      {
+        "id": 74979,
+        "title": "The journal of the American-Irish Historical Society, Vol. IX, 1910",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Journal of the American Irish Historical Society, Vol. IX, 1910\" by Various is a historical publication written in the early 20th century. This volume features proceedings from the Annual Meeting of 1910, alongside essays and articles contributed by members focused on the contributions of the Irish community to American history. The journal aims to highlight and document the significant role that Irish-Americans played in shaping the culture and history of the United States.  At the start of this volume, Thomas Zanslaur Lee, the Secretary General, introduces the purpose of the journal, which is to convey the year's achievements of the society, including new member admissions and various scholarly contributions. The opening also provides an overview of the organizational structure of the society, detailing its officers and members. Importantly, it outlines the Society's commitment to ensuring that the Irish narrative in America is recognized and accurately recorded, as well as its ongoing efforts to foster a spirit of patriotism and unity among various Irish descents within the United States. The volume seeks to serve as a resource for historians and interested public alike, showcasing the ongoing research and historical work conducted by the Society. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Lee, Thomas Zanslaur",
+            "birth_year": 1866,
+            "death_year": 1931
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "American-Irish Historical Society -- Periodicals",
+          "Ethnology -- United States -- Periodicals",
+          "Irish Americans -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: Reports & Conference Proceedings"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/74979.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/74979.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/74979.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/74979.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/74979/pg74979.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/74979/pg74979-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/74979.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/74979/74979-0.txt"
+        },
+        "download_count": 2104
+      },
+      {
+        "id": 13715,
+        "title": "The History of the Fabian Society",
+        "authors": [
+          {
+            "name": "Pease, Edward R. (Edward Reynolds)",
+            "birth_year": 1857,
+            "death_year": 1955
+          }
+        ],
+        "summaries": [
+          "\"The History of the Fabian Society\" by Edward R. Pease is a historical account written during the early 20th century. The book chronicles the origins, development, and influence of the Fabian Society in the context of emerging socialist thought in England, particularly from the 1880s onward. It aims to shed light on the growth of socialist theory in England and the significant impact of socialism on political thought over the preceding decades.  At the start of the book, Pease sets the stage by discussing the intellectual environment of the early 1880s, highlighting various social and political issues of the time. He reflects on the founding of the Fabian Society and the influences behind its formation, including thinkers like Auguste Comte and John Stuart Mill. Furthermore, Pease introduces key figures involved in the Society, such as Thomas Davidson, who played a pivotal role in its inception. Through analyzing early discussions and meetings, the beginning of the text establishes a foundational understanding of the motivations and aspirations that drove the early Fabians in their quest for social reform. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Fabian Society (Great Britain)",
+          "Socialism -- Great Britain"
+        ],
+        "bookshelves": [
+          "Category: History - British",
+          "Category: History - Modern (1750+)",
+          "Category: History - Other",
+          "Category: Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/13715.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/13715.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/13715.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/13715.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/13715/pg13715.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/13715/pg13715-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/13715.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/13715/13715-0.txt"
+        },
+        "download_count": 1531
+      },
+      {
+        "id": 74099,
+        "title": "The journal of the American-Irish Historical Society, Vol. VIII, 1909",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Journal of the American-Irish Historical Society (Vol. VIII)\" by Various is a historical publication likely written in the early 20th century. This volume serves as a record of the activities and interests of the American-Irish Historical Society, reflecting on the contributions of the Irish in America and their historical significance. It appears to be an attempt to document and highlight the important roles played by individuals of Irish descent in the founding and development of the United States.  The opening of this volume introduces the context of its publication, noting a gap due to the previous secretary’s death. It establishes the purpose of the Society—to illuminate the Irish contribution to American history—through discussions, meetings, and historical records. The introductory portion emphasizes the Society's commitment to correcting historical inaccuracies and fostering a sense of pride among people of Irish descent by recognizing their ancestors' work. The detailed accounts of meetings, including events such as a banquet and memorial services, showcase the Society's activities and its role in preserving the memory of influential figures like Major-General John Sullivan. Overall, the opening portion sets the stage for a deeper exploration of the contributions and significance of the Irish experience in American history. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Lee, Thomas Zanslaur",
+            "birth_year": 1866,
+            "death_year": 1931
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "American-Irish Historical Society -- Periodicals",
+          "Ethnology -- United States -- Periodicals",
+          "Irish Americans -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: Journals"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/74099.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/74099.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/74099.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/74099.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/74099/pg74099.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/74099/pg74099-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/74099.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/74099/74099-0.txt"
+        },
+        "download_count": 1421
+      },
+      {
+        "id": 33111,
+        "title": "The origin of the family, private property, and the state",
+        "authors": [
+          {
+            "name": "Engels, Friedrich",
+            "birth_year": 1820,
+            "death_year": 1895
+          }
+        ],
+        "summaries": [
+          "\"The origin of the family, private property, and the state\" by Friedrich Engels is an anthropological treatise published in 1884. Drawing on Karl Marx's notes and Lewis H. Morgan's research on ancient societies, Engels examines how human social organization evolved through distinct historical stages. The work explores the transition from matrilineal clans and primitive communism to patriarchal structures, arguing that the rise of private property fundamentally altered family dynamics and gender relations. Engels presents this shift as a pivotal transformation in human history, connecting economic developments with changes in power and social structure. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [
+          {
+            "name": "Untermann, Gerhard Ernest",
+            "birth_year": 1864,
+            "death_year": 1956
+          }
+        ],
+        "subjects": [
+          "Families -- History",
+          "Morgan, Lewis Henry, 1818-1881. Ancient society",
+          "Prehistoric peoples",
+          "Property -- History",
+          "State, The"
+        ],
+        "bookshelves": [
+          "Category: History - Other",
+          "Category: Philosophy & Ethics",
+          "Category: Politics",
+          "Category: Sociology"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/33111.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/33111.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/33111.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/33111.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/33111/pg33111.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/33111/33111-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/33111.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/33111/33111-8.txt"
+        },
+        "download_count": 1367
+      },
+      {
+        "id": 18183,
+        "title": "Trees, Fruits and Flowers of Minnesota, 1916: Embracing the Transactions of the Minnesota State Horticultural Society,Volume 44, from December 1, 1915, to December 1, 1916, Including the Twelve Numbers of \"The Minnesota Horticulturist\" for 1916",
+        "authors": [],
+        "summaries": [
+          "\"Trees, Fruits and Flowers of Minnesota\" by A. W. Latham is a scientific publication written in the early 20th century. The work presents a detailed account of the transactions of the Minnesota State Horticultural Society, including discussions on horticultural practices and various species adapted to the local environment. It serves as a documentation of the society's annual meeting, showcasing the collective efforts of horticulturists in Minnesota to improve fruit cultivation and share knowledge among its members.  At the start of the publication, readers are welcomed into the environment of the Minnesota State Horticultural Society's annual meeting, where the president offers reflections on the group's history and accomplishments in fruit cultivation. The opening establishes a spirit of camaraderie and shared learning among attendees, with discussions covering a range of topics such as marketing fruits, protecting orchards, and the importance of community in horticulture. The meeting features various reports, results from competitions, and plenty of enthusiasm for the future of horticulture in Minnesota, setting a tone of optimism and collaborative growth in the field. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Latham, A. W.",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Fruit-culture -- Minnesota -- Periodicals",
+          "Gardening -- Minnesota -- Periodicals",
+          "Horticulture -- Minnesota -- Periodicals",
+          "Minnesota State Horticultural Society -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: Nature/Gardening/Animals",
+          "Horticulture",
+          "Natural History"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/18183.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/18183.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/18183.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/18183.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/18183/pg18183.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/18183/18183-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/18183.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/18183/18183-8.txt"
+        },
+        "download_count": 1299
+      },
+      {
+        "id": 42083,
+        "title": "Chaucer's Translation of Boethius's \"De Consolatione Philosophiae\"",
+        "authors": [
+          {
+            "name": "Boethius",
+            "birth_year": 480,
+            "death_year": 524
+          }
+        ],
+        "summaries": [
+          "\"Chaucer's Translation of Boethius's 'De Consolatione Philosophiae'\" is a philosophical text translated by Geoffrey Chaucer, written in the late 14th century. This work serves as Chaucer's English rendition of the seminal philosophical work by Boethius, exploring themes of fortune, happiness, and the nature of existence. Through the lens of philosophy, it examines the turmoil of human experience, offering reflections on love, adversity, and the pursuit of wisdom.  At the start of the translation, the narrator, Boethius, finds himself imprisoned and bereft, lamenting his misfortune and the swift passage of his former happiness. He recounts how his perspective has changed from one of joy to one of sorrow, symbolizing the transformative effects of fortune's capriciousness. As he grapples with his despair, the figure of Philosophy appears to comfort him, ready to guide him through thoughtful reflection and philosophical dialogue, ultimately steering him towards an understanding of the greater truths that govern existence and human suffering. This opening lays the foundation for the deeper philosophical discussions that will unfold throughout the text. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Morris, Richard",
+            "birth_year": 1833,
+            "death_year": 1894
+          }
+        ],
+        "translators": [
+          {
+            "name": "Chaucer, Geoffrey",
+            "birth_year": 1342,
+            "death_year": 1400
+          }
+        ],
+        "subjects": [
+          "Happiness",
+          "Philosophy and religion"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Philosophy & Ethics",
+          "Early English Text Society"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/42083.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/42083/42083-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/42083.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/42083.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/42083.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/42083.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/42083/pg42083.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/42083/pg42083-h.zip"
+        },
+        "download_count": 1271
+      },
+      {
+        "id": 61037,
+        "title": "The journal of the American-Irish Historical Society, Vol. V, 1905",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Journal of the American-Irish Historical Society (Vol. V)\" by Various is a historical account published in the early 20th century. This volume details the activities and findings of the American-Irish Historical Society throughout 1905, including meeting proceedings, reports from society officers, and notable contributions from various members. It aims to document the history and contributions of Irish Americans and preserve their heritage.  The opening of this journal begins with an introductory note from Thomas Hamilton Murray, the Secretary-General, highlighting the volume's importance and the organization's continued growth and prosperity. It outlines the annual meeting and dinner held in January, where key reports were delivered, including tributes to deceased members and discussions about various initiatives, such as the approval for a monument to Commodore John Barry. The content also includes progress in securing new members and the society's financial status, as well as details about noteworthy events like a patriotic pilgrimage to Lexington commemorating the anniversary of the American Revolution. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Murray, Thomas Hamilton",
+            "birth_year": 1857,
+            "death_year": 1908
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "American-Irish Historical Society -- Periodicals",
+          "Ethnology -- United States -- Periodicals",
+          "Irish Americans -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: Reports & Conference Proceedings"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/61037.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/61037.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/61037.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/61037.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/61037/pg61037.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/61037/pg61037-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/61037.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/61037/61037-0.txt"
+        },
+        "download_count": 1020
+      },
+      {
+        "id": 32049,
+        "title": "The Lay of Havelok the Dane",
+        "authors": [],
+        "summaries": [
+          "\"The Lay of Havelok the Dane\" by Frederic Madden and Walter W. Skeat is an epic poem composed in the reign of Edward I, around the late 13th century. This work recounts the adventures of its titular character, Havelok, a Danish prince who faces treachery and hardship in his quest for identity and rightful kingship. The narrative intertwines themes of loyalty, justice, and destiny, promising a story rich in historical context and folklore.  At the start of the narrative, we learn about the tragic circumstances surrounding Havelok's early life. He is the son of King Gunter of Denmark, who is murdered by the treacherous Godard. Rather than directly killing the young prince, Godard hires Grim, a fisherman, to drown him. However, Grim recognizes Havelok's royal lineage when he sees a miraculous light surrounding the child while he sleeps. In a twist of fate, Grim and his family take Havelok in, raising him in England. The story sets the stage for Havelok's journey as he grows up strong and noble, leading to future battles, romance, and the struggle to reclaim his rightful place both in Denmark and England. The opening offers a glimpse into the themes of identity, bravery, and the significance of heritage that will unfold throughout the poem. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Skeat, Walter W. (Walter William)",
+            "birth_year": 1835,
+            "death_year": 1912
+          },
+          {
+            "name": "Madden, Frederic",
+            "birth_year": 1801,
+            "death_year": 1873
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Havelok the Dane (Legendary character) -- Romances"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Poetry",
+          "Early English Text Society"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/32049.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/32049.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/32049.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/32049.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/32049/pg32049.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/32049/32049-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/32049.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/32049/32049-0.txt"
+        },
+        "download_count": 1017
+      },
+      {
+        "id": 66207,
+        "title": "The journal of the American-Irish Historical Society, Vol. VII, 1907",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Journal of the American-Irish Historical Society (Vol. VII)\" by Various is a historical account published in the early 20th century. This volume represents the annual journal of a society dedicated to documenting and promoting the history and contributions of American-Irish individuals and communities. The content focuses on various topics related to Irish history, immigration, and notable figures within that context, aiming to shed light on the often-overlooked role of Irish-Americans in the broader scope of American history.  The opening of the journal introduces its context and purpose, featuring a letter from Thomas Hamilton Murray, the Secretary-General, who expresses hope that this volume will be of significant interest to readers. It includes details about the Society's annual meeting and dinner, which are partly aimed at celebrating the accomplishments of Irish-Americans while addressing their ongoing legacy. Additionally, the introduction mentions the society's stable financial standing and membership growth, signifying its active role in historical preservation. This opening portion sets the tone for the subsequent articles that discuss various historical notes and papers related to the Irish experience in America, which readers will encounter in the remainder of the volume. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Murray, Thomas Hamilton",
+            "birth_year": 1857,
+            "death_year": 1908
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "American-Irish Historical Society -- Periodicals",
+          "Ethnology -- United States -- Periodicals",
+          "Irish Americans -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: History - Other",
+          "Category: Journals"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/66207.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/66207/66207-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/66207.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/66207.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/66207.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/66207.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/66207/pg66207.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/66207/pg66207-h.zip"
+        },
+        "download_count": 995
+      },
+      {
+        "id": 54812,
+        "title": "A Key to Uncle Tom's Cabin: Presenting the original facts and documents upon which the story is founded. Together with corroborative statements verifying the truth of the work.",
+        "authors": [
+          {
+            "name": "Stowe, Harriet Beecher",
+            "birth_year": 1811,
+            "death_year": 1896
+          }
+        ],
+        "summaries": [
+          "\"A Key to Uncle Tom's Cabin\" by Harriet Beecher Stowe is a historical account written in the mid-19th century. The book serves as a companion piece to Stowe's famous novel \"Uncle Tom's Cabin,\" providing factual evidence, documents, and corroborative statements to verify the realities of slavery depicted in the fictional narrative. It aims to draw attention to the moral and ethical implications of slavery, evoking a serious contemplation of a deeply troubling institution.  The opening of \"A Key to Uncle Tom's Cabin\" begins with a preface wherein Stowe openly shares her struggle in writing this non-fiction work, emphasizing that slavery is an intrinsically dreadful subject. She notes that her task has expanded beyond her original intent, driven by the need to confront the painful truths surrounding slavery as a moral question. The first chapter focuses on various dynamics of the slave trade, illustrated through characters such as Mr. Haley, a slave trader, shedding light on the grim realities faced by individuals caught in this trade. Stowe underscores that the depictions in \"Uncle Tom's Cabin,\" while fictionalized, are based on real events and sentiments, thus legitimizing the emotional and physical toll inflicted upon those ensnared in slavery. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Enslaved persons -- United States -- Social conditions",
+          "Literature and society -- United States -- History -- 19th century",
+          "Political fiction -- Sources",
+          "Stowe, Harriet Beecher, 1811-1896. Uncle Tom's cabin -- Sources",
+          "Uncle Tom (Fictitious character)"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: History - Modern (1750+)",
+          "Category: History - Other",
+          "US Civil War"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/54812.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/54812.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/54812.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/54812.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/54812/pg54812.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/54812/pg54812-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/54812.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/54812/54812-0.txt"
+        },
+        "download_count": 973
+      },
+      {
+        "id": 63039,
+        "title": "The journal of the American-Irish Historical Society, Vol. VI, 1906",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Journal of the American-Irish Historical Society (Vol. VI)\" by Various is a historical account published in the early 20th century. This journal presents the findings and proceedings of the American-Irish Historical Society, emphasizing the significant contributions of the Irish populace to American history, particularly during colonial times and the formative years of the United States.   The opening of this volume introduces readers to the ongoing mission of the American-Irish Historical Society, which aims to document and honor the historical impact of Irish individuals in America. It discusses the content of the journal, which features reports from the society’s annual meeting, various historical papers, and tributes to members who have passed away. The introductory note highlights the society's historical research efforts and outlines upcoming discussions around honoring notable Irish figures from American history. Overall, the beginning establishes the journal as an important resource for understanding the intertwined histories of Ireland and America. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Murray, Thomas Hamilton",
+            "birth_year": 1857,
+            "death_year": 1908
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "American-Irish Historical Society -- Periodicals",
+          "Ethnology -- United States -- Periodicals",
+          "Irish Americans -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: History - Other",
+          "Category: Reports & Conference Proceedings"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/63039.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/63039/63039-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/63039.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/63039.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/63039.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/63039.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/63039/pg63039.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/63039/pg63039-h.zip"
+        },
+        "download_count": 939
+      },
+      {
+        "id": 1216,
+        "title": "Reflections on the Decline of Science in England, and on Some of Its Causes",
+        "authors": [
+          {
+            "name": "Babbage, Charles",
+            "birth_year": 1791,
+            "death_year": 1871
+          }
+        ],
+        "summaries": [
+          "\"Reflections on the Decline of Science in England, and on Some of Its Causes\" by Charles Babbage is a critical examination of the state of science in England, written during the early 19th century. The volume addresses various factors contributing to the observed decline in scientific inquiry, particularly in the more complex and abstract disciplines. Babbage expresses concern over the neglect of science in England compared to progress in other countries, highlighting institutional failings and societal indifference that hinder scientific advancement.  The opening of the work presents Babbage's dedication to a nobleman without naming him, suggesting a thoughtful yet contentious stance towards criticism of scientific institutions. He acknowledges a perceived decline in scientific rigor and discusses the frameworks and inadequacies of education, professional motivations, and governmental support for innovation. He emphasizes the need for reform within scientific societies, especially the Royal Society, to revitalize England's scientific prowess. Throughout, Babbage calls for public discourse on these issues, aiming to spur recognition and action that could restore England's standing in the global scientific community. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Royal Society (Great Britain)",
+          "Science -- Great Britain -- History"
+        ],
+        "bookshelves": [
+          "Category: Essays, Letters & Speeches",
+          "Category: History - British",
+          "Category: Research Methods/Statistics/Information Sys",
+          "Category: Science - Biology",
+          "Category: Science - Chemistry/Biochemistry",
+          "Category: Science - Earth/Agricultural/Farming",
+          "Category: Science - Physics",
+          "Category: Teaching & Education",
+          "Science",
+          "United Kingdom"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/1216.html.images",
+          "text/html; charset=us-ascii": "https://www.gutenberg.org/files/1216/1216-h/1216-h.htm",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/1216.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/1216.kf8.images",
+          "text/plain": "https://www.gutenberg.org/ebooks/1216.txt.utf-8",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/1216.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/1216/pg1216.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/1216/pg1216-h.zip"
+        },
+        "download_count": 904
+      },
+      {
+        "id": 36848,
+        "title": "Lancelot of the Laik: A Scottish Metrical Romance (About 1490-1500 A. D.)",
+        "authors": [],
+        "summaries": [
+          "\"Lancelot of the Laik: A Scottish Metrical Romance\" by Skeat is a historical romance written during the late 15th century. This work is a paraphrased adaptation of the French \"Lancelot du Lac,\" focusing on the adventures of the legendary knight Lancelot, particularly his entanglements with King Arthur, the lady of Melyhalt, and the looming threat posed by King Galiot. The narrative promises a blend of chivalric themes, battles, and courtly love that are emblematic of the Arthurian legends.  The opening of the poem sets the stage by introducing King Arthur, who is troubled by ominous dreams, seeking the counsel of his most trusted clerics. The narrative quickly escalates when messengers from Galiot demand tribute from Arthur, indicating the rising tensions. We also find Lancelot in a dire situation, imprisoned by the lady of Melyhalt, while foreshadowing the conflict that will develop between Arthur and Galiot's forces. Notably, Lancelot's plight and desire for freedom hint at his key role in the forthcoming battles, which intertwine with the themes of honor and duty prevalent throughout the work. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Skeat, Walter W. (Walter William)",
+            "birth_year": 1835,
+            "death_year": 1912
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Arthurian romances",
+          "Lancelot (Legendary character) -- Romances"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Historical Novels",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Romance",
+          "Early English Text Society"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/36848.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/36848/36848-0.txt",
+          "text/html": "https://www.gutenberg.org/ebooks/36848.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/36848.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/36848.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/36848.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/36848/pg36848.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/36848/36848-0.zip"
+        },
+        "download_count": 904
+      },
+      {
+        "id": 59384,
+        "title": "The journal of the American-Irish Historical Society, Vol. III, 1900",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Journal of the American-Irish Historical Society (Vol. III)\" by Various is a historical account published in the early 20th century. The work serves as a record of the American-Irish Historical Society's proceedings and efforts throughout the year 1900, capturing important events and contributions of Irish Americans to U.S. history. The volume covers a broad spectrum of topics including notable figures, battles, and cultural influences associated with the Irish community in America.  The opening of this volume introduces the society's commitment to documenting and celebrating the various contributions of Irish Americans to U.S. history. It includes an introductory note by Secretary-General Thomas Hamilton Murray, outlining the contents and scope of the volume. The beginning details several annual events, including meetings, celebrations of significant battles like Lexington and Bunker Hill, and recognition of prominent members of the society. It sets the stage for a deeper exploration of historical narratives, inviting contributions and engagement from its members in preserving the legacy of the Irish in America. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Murray, Thomas Hamilton",
+            "birth_year": 1857,
+            "death_year": 1908
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "American-Irish Historical Society -- Periodicals",
+          "Ethnology -- United States -- Periodicals",
+          "Irish Americans -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: History - Other"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/59384.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/59384.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/59384.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/59384.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/59384/pg59384.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/59384/59384-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/59384.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/59384/59384-0.txt"
+        },
+        "download_count": 880
+      },
+      {
+        "id": 61687,
+        "title": "The journal of the American-Irish Historical Society, Vol. IV, 1904",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Journal of the American-Irish Historical Society (Vol. IV)\" by Various is a historical publication written in the early 20th century. This volume, being the fourth in a series, presents a comprehensive account of the American-Irish Historical Society's activities, contributions, and notable events over several years. The focus is on the association's aim to document and celebrate the heritage, achievements, and roles of the Irish-American community throughout history.  The opening of this volume provides an introductory note highlighting the Society's accomplishments since the last volume was published, along with details about its organizational structure, including its officers and executive council. Furthermore, it includes a chronology outlining significant events related to the Society, such as meetings, notable deaths of members, and commemorations of historical battles involving Irish-Americans. This set of records offers a glimpse into the vibrant community and persistence of the Irish-American identity at the time, reflecting its contributions to American history and culture. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Murray, Thomas Hamilton",
+            "birth_year": 1857,
+            "death_year": 1908
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "American-Irish Historical Society -- Periodicals",
+          "Ethnology -- United States -- Periodicals",
+          "Irish Americans -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: History - Other",
+          "Category: Reports & Conference Proceedings"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/61687.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/61687.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/61687.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/61687.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/61687/pg61687.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/61687/pg61687-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/61687.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/61687/61687-0.txt"
+        },
+        "download_count": 871
+      },
+      {
+        "id": 58485,
+        "title": "The journal of the American-Irish Historical Society, Vol. II, 1899",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The Journal of the American-Irish Historical Society (Vol. II)\" by Various is a historical journal published in the late 19th century. This volume serves to document the activities, findings, and membership of the American-Irish Historical Society, emphasizing the contributions and historical significance of the Irish in America. Its contents likely reflect on meetings, papers presented, and the broader social context of the Irish-American experience during this period.  The opening portion introduces the Society and outlines its foundational goals and activities. It describes the mission of the Society, including the study and documentation of the Irish influence in America and the pursuit of accurate historical representation. Readers learn about key officers, membership, and the emphasis on inclusivity across various backgrounds and religious affiliations. The Society's objectives include organizing meetings, publishing research, and fostering a sense of community among members, which helps illuminate the collective memory and contributions of the Irish-American population in shaping American history. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Murray, Thomas Hamilton",
+            "birth_year": 1857,
+            "death_year": 1908
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "American-Irish Historical Society -- Periodicals",
+          "Ethnology -- United States -- Periodicals",
+          "Irish Americans -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: History - American",
+          "Category: Journals"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/58485.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/58485.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/58485.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/58485.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/58485/pg58485.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/58485/58485-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/58485.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/58485/58485-0.txt"
+        },
+        "download_count": 865
+      },
+      {
+        "id": 30282,
+        "title": "Early English Alliterative Poems: in the West-Midland Dialect of the Fourteenth Century",
+        "authors": [],
+        "summaries": [
+          "\"Early English Alliterative Poems\" by Richard Morris is a collection of medieval poetry written in the West-Midland Dialect of the 14th century. This volume includes significant works such as \"The Pearl,\" \"Cleanness,\" and \"Patience,\" which emphasize moral and religious themes. The poems address profound subjects such as loss, purity, and the importance of patience in the face of adversity, providing a deep insight into the human experience as viewed through a medieval lens.  The opening of the collection outlines the published poems found in a unique manuscript and highlights the scholarly efforts involved in their editing. It details the themes presented in the first poem, \"The Pearl,\" which depicts a father's lament for the loss of his young daughter and explores his dreamlike journey toward understanding her presence in the afterlife. The introductory discussions set the stage for the subsequent poems, which engage with biblical narratives to illustrate the virtues of a righteous life. Through rich imagery and moral lessons, the poems aim to resonate with readers on both emotional and spiritual levels. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Morris, Richard",
+            "birth_year": 1833,
+            "death_year": 1894
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "English poetry -- Middle English, 1100-1500"
+        ],
+        "bookshelves": [
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Poetry",
+          "Category: Religion/Spirituality",
+          "Early English Text Society"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/30282.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/30282.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/30282.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/30282.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/30282/pg30282.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/30282/pg30282-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/30282.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/30282/30282-0.txt"
+        },
+        "download_count": 851
+      },
+      {
+        "id": 56487,
+        "title": "An Apology for the True Christian Divinity: Being an explanation and vindication of the principles and doctrines of the people called Quakers",
+        "authors": [
+          {
+            "name": "Barclay, Robert",
+            "birth_year": 1648,
+            "death_year": 1690
+          }
+        ],
+        "summaries": [
+          "\"An Apology for the True Christian Divinity\" by Robert Barclay is a religious treatise written in the late 17th century. The work serves as a defense of the core principles and doctrines of the Quaker faith. Through a series of theological propositions, Barclay seeks to clarify misconceptions and promote a deeper understanding of the faith he advocates.  At the start of this treatise, Barclay addresses King Charles II and presents an earnest plea for recognition of the Quakers' sincerity and pacifistic beliefs in the face of historical persecution. He emphasizes that true knowledge of God comes through immediate revelation, accessible to all individuals rather than through ecclesiastical authority or extensive formal education. The opening section sets the tone for the rest of the work, wherein Barclay intends to articulate his defense of Quaker principles and the necessity of experiencing divine guidance directly, establishing a foundational argument for the spiritual enlightenment that characterizes Quaker belief. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Society of Friends -- Apologetic works",
+          "Society of Friends -- Doctrines -- Early works to 1800",
+          "Society of Friends -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: History - Religious",
+          "Category: Philosophy & Ethics",
+          "Category: Religion/Spirituality"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/56487.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/56487.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/56487.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/56487.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/56487/pg56487.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/56487/56487-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/56487.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/56487/56487-0.txt"
+        },
+        "download_count": 800
+      },
+      {
+        "id": 25664,
+        "title": "The Earliest Arithmetics in English",
+        "authors": [],
+        "summaries": [
+          "\"The Earliest Arithmetics in English\" by Robert Steele is a scholarly work written in the early 20th century. This publication compiles and analyzes early arithmetic texts in the English language, focusing primarily on works from the 15th century. The book examines the evolution of arithmetic, the tools and methods used for calculations, and the importance of these texts in the historical context of mathematics.   The opening of this volume presents an introductory exploration of the scarcity of English-language arithmetic texts prior to the 16th century, indicating that Latin dominated mathematical literature at the time. It outlines early mathematical practices, the significance of historical figures such as Sacro Bosco and Alexander de Villa Dei, and the various methodologies employed in arithmetic, such as the use of counting boards and the algorithmic approach to calculations. The introduction serves as a precursor to two main treatises that will be presented within the work, diving into the structure and principles of early arithmetic education. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Steele, Robert",
+            "birth_year": 1860,
+            "death_year": 1944
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Algorithms",
+          "Arithmetic -- Early works to 1900",
+          "Mathematics -- History"
+        ],
+        "bookshelves": [
+          "Category: History - Medieval/Middle Ages",
+          "Category: Mathematics",
+          "Early English Text Society",
+          "Mathematics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/25664.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/25664.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/25664.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/25664.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/25664/pg25664.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/25664/25664-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/25664.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/25664/25664-0.txt"
+        },
+        "download_count": 767
+      },
+      {
+        "id": 57241,
+        "title": "The History of the Rise, Increase, and Progress of the Christian People Called Quakers: Intermixed with Several Remarkable Occurrencs.",
+        "authors": [
+          {
+            "name": "Sewel, William",
+            "birth_year": 1653,
+            "death_year": 1720
+          }
+        ],
+        "summaries": [
+          "\"The History of the Rise, Increase, and Progress of the Christian People Called Quakers\" by William Sewel is a historical account written in the early 18th century. The work chronicles the emergence and development of the Quaker faith, detailing significant events and experiences of its followers as they faced persecution. It aims to provide a comprehensive narrative of the Quakers' journey, emphasizing their adherence to peace and patience amidst adversity.  At the start of the book, Sewel addresses the reasons for his undertaking this history, reflecting on the unrecognized struggles and remarkable resilience of the Quaker community from its inception. He emphasizes the rarity and importance of their story, outlining his lengthy process of research and compilation to capture the true essence of the faith and its followers. He sets the stage for discussing key figures, such as George Fox, and the trials they endured, establishing a foundation for understanding the Quaker principles that have guided them through centuries of challenges. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Society of Friends -- History -- Early works to 1800"
+        ],
+        "bookshelves": [
+          "Category: History - Religious"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/57241.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/57241.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/57241.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/57241.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/57241/pg57241.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/57241/57241-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/57241.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/57241/57241-0.txt"
+        },
+        "download_count": 744
+      },
+      {
+        "id": 49151,
+        "title": "The New England Historical & Genealogical Register, Vol. 1, No. 1, January 1847",
+        "authors": [
+          {
+            "name": "Various",
+            "birth_year": null,
+            "death_year": null
+          }
+        ],
+        "summaries": [
+          "\"The New England Historical & Genealogical Register, Vol. 1, No. 1, January 1847\" is a historical publication likely written in the mid-19th century. This volume serves as a journal focused on the genealogical and historical narratives of families and individuals from New England's past. The content revolves around significant figures, historical events, and genealogical records that are essential to understanding the region's ancestry.  The opening portion of the volume begins with a memoir of John Farmer, a prominent genealogist and antiquarian known for his extensive research and documentation of New Hampshire's history. It details his life, scholarly pursuits, challenges due to health issues, and contributions to genealogical studies, including various publications he authored. Farmer’s significant role in the establishment of the New Hampshire Historical Society and his legacy as a leading authority in genealogy are emphasized. Alongside this memoir, the volume introduces genealogical records and historical accounts, setting the tone for a repository of knowledge on New England's historical families and their legacies. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Cogswell, William",
+            "birth_year": 1787,
+            "death_year": 1850
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Genealogy -- Periodicals",
+          "New England -- Genealogy -- Periodicals",
+          "New England -- History -- Periodicals",
+          "New England Historic Genealogical Society -- Periodicals"
+        ],
+        "bookshelves": [
+          "Category: Biographies",
+          "Category: History - American",
+          "Category: Journals"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/49151.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/49151.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/49151.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/49151.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/49151/pg49151.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/49151/pg49151-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/49151.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/49151/49151-0.txt"
+        },
+        "download_count": 743
+      },
+      {
+        "id": 72371,
+        "title": "Early Quaker education in Pennsylvania",
+        "authors": [
+          {
+            "name": "Woody, Thomas",
+            "birth_year": 1891,
+            "death_year": 1960
+          }
+        ],
+        "summaries": [
+          "\"Early Quaker Education in Pennsylvania\" by Thomas Woody is a historical account written in the early 20th century. This work aims to explore the development of educational practices among the Quakers in Pennsylvania prior to 1800, highlighting the challenges and achievements in that sphere. The book dives into the beliefs of key figures within the Quaker community, particularly the founder George Fox, and how their ideals influenced educational practices of the time.  At the start of the monograph, the author lays out the foundation of the Quakers, delving into their origins and the role of George Fox in establishing the Society's principles. Woody discusses the evolution of Quaker educational ideals, dispelling common misconceptions regarding their views on learning. He highlights the community's emphasis on moral and practical education, the organization of meetings that facilitated schooling, and the support for inclusive education that benefited both the poor and marginalized groups, including Negroes and Indians. The opening chapters set the stage for a deeper examination of educational institutions and practices established by the Quakers in Pennsylvania. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Education -- Pennsylvania -- History",
+          "Society of Friends -- Education -- History",
+          "Thesis (Ph. D.)"
+        ],
+        "bookshelves": [
+          "Category: History - Other",
+          "Category: History - Religious",
+          "Category: History - Schools & Universities"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/72371.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/72371.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/72371.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/72371.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/72371/pg72371.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/72371/pg72371-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/72371.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/72371/72371-0.txt"
+        },
+        "download_count": 740
+      },
+      {
+        "id": 33494,
+        "title": "The Library and Society: Reprints of Papers and Addresses",
+        "authors": [],
+        "summaries": [
+          "\"The Library and Society: Reprints of Papers and Addresses\" by Arthur E. Bostwick is a historical collection of essays and addresses published in the early 20th century. The book focuses on the evolution and societal role of libraries in America, featuring contributions from notable individuals who discuss the importance of libraries as community resources. The collection emphasizes the shifting dynamics of libraries and their reciprocal relationship with the communities they serve.  The beginning of this work introduces the preface, where Bostwick articulates the intent behind the collection: to highlight early ideas that have since influenced modern library practices. He sets up a framework for understanding how libraries have transformed from private collections to public institutions vital for community engagement and education. The opening portion foreshadows discussions on libraries serving as not only repositories of books but as essential centers for public discourse, cultural enrichment, and the promotion of literacy and learning within diverse communities. Bostwick hints at the historical significance of different library models, emphasizing the universal need for accessible literature and information. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Bostwick, Arthur E. (Arthur Elmore)",
+            "birth_year": 1860,
+            "death_year": 1942
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Libraries and society",
+          "Library science -- Social aspects"
+        ],
+        "bookshelves": [
+          "Category: Essays, Letters & Speeches",
+          "Category: History - American",
+          "Category: Teaching & Education"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/33494.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/33494.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/33494.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/33494.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/33494/pg33494.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/33494/33494-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/33494.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/33494/33494-8.txt"
+        },
+        "download_count": 738
+      },
+      {
+        "id": 6267,
+        "title": "The Weavers: a tale of England and Egypt of fifty years ago - Complete",
+        "authors": [
+          {
+            "name": "Parker, Gilbert",
+            "birth_year": 1862,
+            "death_year": 1932
+          }
+        ],
+        "summaries": [
+          "\"The Weavers: a tale of England and Egypt of fifty years ago - Complete\" by Gilbert Parker is a novel likely written in the early 20th century. It revolves around the life of David Claridge, a young Quaker navigating the complexities of his heritage and personal struggles, which are deeply intertwined with historical events and cultural tensions stemming from both English and Egyptian contexts.  The opening of the novel introduces the serene village of Hamley and its significant buildings, including a Quaker Meeting-house, which serves as the setting for David's internal conflicts and societal expectations. The narrative highlights his tumultuous trial before the Elders, reflecting his rebellious spirit against the rigid traditions of his community. Key characters such as Faith, David's sister, and Luke Claridge, his grandfather, are introduced amidst the backdrop of Quaker society, establishing a personal stake in David's fate following a series of youthful indiscretions. As he faces censure from the Elders, David's story unfolds against themes of love, identity, and the clash of personal ambition and communal duty. This beginning sets the stage for David's eventual journey to Egypt and a deeper exploration of themes of morality, justice, and the quest for personal authenticity. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Society of Friends -- Fiction"
+        ],
+        "bookshelves": [
+          "Bestsellers, American, 1895-1923",
+          "Category: British Literature",
+          "Category: Historical Novels",
+          "Category: Novels",
+          "Egypt"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/6267.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/6267.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/6267.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/6267.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/6267/pg6267.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/6267/6267-0.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/6267.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/6267/6267-0.txt"
+        },
+        "download_count": 737
+      },
+      {
+        "id": 69027,
+        "title": "Mammonart: An essay in economic interpretation",
+        "authors": [
+          {
+            "name": "Sinclair, Upton",
+            "birth_year": 1878,
+            "death_year": 1968
+          }
+        ],
+        "summaries": [
+          "\"Mammonart: An Essay in Economic Interpretation\" by Upton Sinclair is a critical essay written in the early 20th century. The book explores the relationship between art and economics, focusing on how artists have historically been influenced and controlled by socioeconomic structures and the ruling classes. Sinclair aims to reveal the underlying motivations and consequences of artistic expression through a socio-political lens.  The opening of the essay introduces a fictional character named Ogi, who embodies the earliest forms of artistic expression in human history. It depicts Ogi's initial attempts to create art, representing a significant moment where art transitions from mere survival to a representation of life and culture. Through Ogi's experiences, Sinclair illustrates how art can stir excitement and fear and how it quickly becomes entwined with power and authority. As the narrative unfolds, it becomes evident that Ogi's artistry sets the stage for discussions about the role of the artist within societal structures and the implications of art as a tool for propaganda, serving the interests of those in power rather than the collective good of society. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Arts and society",
+          "Economics and literature",
+          "Literature -- History and criticism -- Theory, etc."
+        ],
+        "bookshelves": [
+          "Category: Art",
+          "Category: Essays, Letters & Speeches",
+          "Category: Politics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/69027.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/69027.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/69027.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/69027.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/69027/pg69027.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/69027/pg69027-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/69027.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/69027/69027-0.txt"
+        },
+        "download_count": 703
+      },
+      {
+        "id": 8646,
+        "title": "An Essay on the History of Civil Society, Eighth Edition",
+        "authors": [
+          {
+            "name": "Ferguson, Adam",
+            "birth_year": 1723,
+            "death_year": 1816
+          }
+        ],
+        "summaries": [
+          "\"An Essay on the History of Civil Society\" by Adam Ferguson is a philosophical work written during the 18th century. This essay explores the development of human societies and the principles underlying civil society, examining topics such as human nature, social structures, and moral sentiments. Ferguson delves into the evolution of man from a state of nature to organized societies, investigating how individual characteristics and societal factors interact to shape civilization.  The opening of the essay begins with an exploration of the state of nature, contrasting ideas about human characteristics in their primitive conditions versus their developed states. Ferguson posits that mankind has transitioned from a rudimentary existence to one characterized by civilization, emphasizing the importance of societal bonds and moral sentiments in human development. He critiques various theories that attempt to define human nature based strictly on speculation or conjecture, advocating instead for a focus on observable human behaviors and historical facts. Ferguson argues that individual and collective experiences within society are crucial to understanding humanity, setting the stage for a broader discussion about the consequences of civil and commercial arts on nations. (This is an automatically generated summary.)"
+        ],
+        "editors": [],
+        "translators": [],
+        "subjects": [
+          "Civil society -- History",
+          "Civilization -- History"
+        ],
+        "bookshelves": [
+          "Category: History - Early Modern (c. 1450-1750)",
+          "Category: Philosophy & Ethics"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/8646.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/8646.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/8646.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/8646.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/8646/pg8646.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/files/8646/8646-8.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/8646.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/8646/8646-8.txt"
+        },
+        "download_count": 698
+      },
+      {
+        "id": 48531,
+        "title": "The Romaunce of the Sowdone of Babylone and of Ferumbras His Sone Who Conquerede Rome",
+        "authors": [],
+        "summaries": [
+          "\"The Romaunce of the Sowdone of Babylone and of Ferumbras His Sone Who Conquerede Rome\" is a medieval romance written in the late 14th century. This narrative poem explores the adventures surrounding Charlemagne and his knights, particularly focusing on the character of Ferumbras, the Saracen prince, as well as the legendary challenges faced in the attempts to rescue Rome from Saracen invaders.   The opening of the narrative delves into the historical significance of Charlemagne's exploits, which captivated the medieval imagination and led to the creation of various romances glorifying his deeds. It emphasizes Charlemagne's enduring legacy and the extensive coverage of his campaigns against the Saracens in literary works across Europe. The author introduces the tale of the Sowdone of Babylone, a tyrant aiming to conquer Rome, setting the stage for a confrontation between the Christian knights and the forces of the Sowdone, hinting at the themes of valor, loyalty, and chivalric duty that dominate the romance. The beginning thus promises an engaging adventure steeped in historical lore and character-driven narratives, showing the cultural interplay of faith and martial prowess prevalent during the period. (This is an automatically generated summary.)"
+        ],
+        "editors": [
+          {
+            "name": "Hausknecht, Emil",
+            "birth_year": 1853,
+            "death_year": 1927
+          }
+        ],
+        "translators": [],
+        "subjects": [
+          "Charlemagne, Emperor, 742-814 -- Romances",
+          "English poetry -- Middle English, 1100-1500",
+          "Romances, English"
+        ],
+        "bookshelves": [
+          "Category: Adventure",
+          "Category: British Literature",
+          "Category: Classics of Literature",
+          "Category: Historical Novels",
+          "Category: Mythology, Legends & Folklore",
+          "Category: Poetry",
+          "Early English Text Society"
+        ],
+        "languages": [
+          "en"
+        ],
+        "copyright": false,
+        "media_type": "Text",
+        "formats": {
+          "text/html": "https://www.gutenberg.org/ebooks/48531.html.images",
+          "application/epub+zip": "https://www.gutenberg.org/ebooks/48531.epub3.images",
+          "application/x-mobipocket-ebook": "https://www.gutenberg.org/ebooks/48531.kf8.images",
+          "application/rdf+xml": "https://www.gutenberg.org/ebooks/48531.rdf",
+          "image/jpeg": "https://www.gutenberg.org/cache/epub/48531/pg48531.cover.medium.jpg",
+          "application/octet-stream": "https://www.gutenberg.org/cache/epub/48531/pg48531-h.zip",
+          "text/plain; charset=utf-8": "https://www.gutenberg.org/ebooks/48531.txt.utf-8",
+          "text/plain; charset=us-ascii": "https://www.gutenberg.org/files/48531/48531-0.txt"
+        },
+        "download_count": 686
+      }
+    ]
+  }
+}
