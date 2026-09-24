@@ -1,8 +1,8 @@
 import assert from 'node:assert/strict'
 import { after, before, test } from 'node:test'
 import { readFile } from 'node:fs/promises'
-import { cachedBooks, cachedBookState, fetchBooks, loadSnapshot } from './api.js'
-import { categories, categoryPath, snapshotCategory, validSnapshot } from './bookData.js'
+import { cachedBooks, cachedBookState, fetchBooks, loadSnapshot, resource } from './api.js'
+import { categories, categoryPath, safeUrl, snapshotCategory, validSnapshot } from './bookData.js'
 import home from './data/initial-books.json' with { type: 'json' }
 import { categoryLoaders, bookSnapshotCategories } from './data/category-loaders.js'
 
@@ -85,6 +85,15 @@ test('category snapshot scope is exact', () => {
     '/books?topic=Fiction&search=test', '/books?topic=Unknown', '/books/1342']) {
     assert.equal(snapshotCategory(path), null)
   }
+})
+
+test('external book resources require HTTPS', () => {
+  assert.equal(safeUrl('https://example.test/book'), 'https://example.test/book')
+  // Untrusted metadata must not create insecure or executable browser links.
+  for (const url of ['http://example.test/book', 'javascript:alert(1)', 'data:text/html,test']) {
+    assert.equal(safeUrl(url), null)
+  }
+  assert.equal(resource({ formats: { 'text/html': 'http://example.test/book' } }, 'text/html'), undefined)
 })
 
 test('request failures retain their category and navigation cancellation stays silent', async () => {

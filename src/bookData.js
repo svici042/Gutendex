@@ -4,11 +4,12 @@ export const categories = [
   'Society', 'Power', 'Justice', 'Adventure', 'Tragedy', 'War', 'Philosophy',
 ]
 
-// Only web links may become cover URLs, reading links or pagination targets.
+// Only encrypted web links may become cover URLs, reading links or pagination targets.
 export function safeUrl(value) {
   try {
     const url = new URL(value)
-    return ['https:', 'http:'].includes(url.protocol) ? url.href : null
+    // Book metadata comes from outside the app; reject insecure and executable schemes.
+    return url.protocol === 'https:' ? url.href : null
   } catch {
     return null
   }

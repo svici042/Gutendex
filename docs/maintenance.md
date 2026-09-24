@@ -44,4 +44,6 @@ Installer Chromium før første nettlesertest. `test:browser` bygger appen og kj
 
 Publiser innholdet i `dist/` etter `npm run build`. Verten må sende ukjente applikasjonsstier til `index.html`, slik at direkte lenker og sideoppdateringer fungerer med SPA-rutingen. Ved publisering i en undermappe må Vites `base` samsvare med stien.
 
+Konfigurer HTTPS og HTTP-hoder på hosting- eller CDN-nivå: `Strict-Transport-Security`, en passende `Content-Security-Policy`, `X-Content-Type-Options: nosniff` og `Referrer-Policy`. CSP må tillate appens filer, Gutendex API over HTTPS samt omslag og leselenker. Lokal Vite-utvikling kan trenge en egen policy for HMR.
+
 Tilbake til [prosjektbeskrivelsen](../README.md).
